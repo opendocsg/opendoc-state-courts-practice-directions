@@ -1,7 +1,12 @@
 title: State Courts Practice Directions
 remote_theme: opendocsg/opendoc-theme
+timezone: Asia/Singapore
+repository: opendocsg/opendoc-state-courts-practice-directions
+baseurl: ''
+google_analytics: UA-113717369-8
+server_PROD: https://search.opendoc.sg
+server_DEV: https://search-staging.opendoc.sg
 plugins:
-  - jekyll-seo-tag
   - jekyll-include-cache
 section_order:
   - State Courts Practice Directions
@@ -28,9 +33,6 @@ section_order:
   - "Part XX: Employment Claims"
   - "Part XXI: Defamation Actions"
   - "Appendices"
-google_analytics: UA-113717369-8
-server_PROD: https://search.opendoc.sg
-server_DEV: https://search.opendoc.sg
 styling_options:
   primary_brand_color: '#9f0836'
   logo_path: /assets/logo-full.png
