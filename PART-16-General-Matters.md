@@ -211,9 +211,9 @@ The various courts, offices and counters within the State Courts have different 
 
 (3) Court users are permitted to use notebooks, tablets, mobile phones and other electronic devices for the following purposes provided that such use does not in any way disrupt or trivialise the proceedings:
 
-  (a)	to take notes of evidence during all hearings or sessions and for any other purpose pertaining to the proceedings; or
+> (a)	to take notes of evidence during all hearings or sessions and for any other purpose pertaining to the proceedings; or
 
-  (b)	to communicate with external parties during all hearings in open Court unless the Judge hearing the matter or the person    presiding over the session expressly disallows this.
+> (b)	to communicate with external parties during all hearings in open Court unless the Judge hearing the matter or the person    presiding over the session expressly disallows this.
 
 (4) This Practice Direction shall apply to both civil and criminal proceedings in the State Courts (including the Small Claims Tribunals). 
 
