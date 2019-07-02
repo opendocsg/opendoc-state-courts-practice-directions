@@ -332,59 +332,111 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 ## 40. Assessment of damages
 
-(1) Assessment of Damages Court Dispute Resolution (ADCDR) Conference and Pre-Assessment of Damages Conference (PADC)
+(1) Pre-Assessment of Damages Alternative Dispute Resolution (“ADR”) Conferences
 
-> (a) For all personal injury cases excluding medical negligence cases, the Court will convene the first conference under Order 34A of the Rules of Court (Cap. 322, R 5) generally within 4 weeks after the filing of the notice of appointment for assessment of damages. The Court will conduct an Assessment of Damages Court Dispute Resolution (ADCDR) session where it will give an indication on the quantum of damages.
+> (a) The Court will convene the first pre-Assessment of Damages ADR conference under Order 34A or Order 108 of the Rules of Court (Cap. 322, R 5) generally within 4 weeks after the filing of the Notice of Appointment for Assessment of Damages (“NOAD”).
 
-> (b) Parties may expect, generally, 3 sessions for ADCDR. If there is no settlement, the Court may direct the matter for assessment of damages hearing or make such orders or give such directions as it thinks fit for the just, expeditious and economical disposal of the matter. An adjournment of an ADCDR session shall be granted only for good reasons, for example, the solicitor is engaged in a trial or other hearing in the High Court or the State Courts, is away on in camp training, overseas, or on medical leave.
+> (b) The filing of the NOAD will only be accepted by the Court when —
 
-> (c) The solicitors for all parties shall submit the “Quantum Indication Form” (see Form 9B in Appendix A to these Practice Directions) to the Court together with any supporting medical report(s) of the Plaintiff at the first ADCDR session and the Court will give an indication on quantum of damages.
+>> (i) all Affidavits of Evidence-in-Chief and/or expert reports which parties intend to rely on at the Assessment of Damages have been duly exchanged at least 5 working days before the filing of the NOAD; and
 
-> (d) For all other types of cases, including Non-Injury Motor Accident (NIMA) cases, the Court will convene a Pre-Assessment of Damages Conference (PADC) under Order 34A of the Rules of Court generally within 4 weeks after the filing of the notice of appointment for assessment of damages. At the PADC, the Court may direct the matter for assessment of damages hearing or make such orders or give such directions as it thinks fit for the just, expeditious and economical disposal of the matter.
+>> (ii) the Checklist for Pre-Assessment of Damages ADR Conferences in Form 9L of Appendix A to these Practice Directions has been duly completed by all parties taking part in the proceedings and filed as a supporting document to the NOAD.
 
-> (e) A failure to attend a conference or comply with any Court directions may result in the Court dismissing the action or striking out the defence or counterclaim or entering judgment or making such order as it thinks fit. Any judgment, order or direction made against an absent party may be set aside or varied by the Court pursuant to Order 34A rules 1(4) and 6(2) of the Rules of Court.
+> (c) There are 3 types of Pre-Assessment of Damages ADR conferences which will be convened after the filing of the NOAD, namely —
 
-(2) Directions to be given for Assessment of Damages Hearing
+>> (i) **Assessment of Damages Court Dispute Resolution Conferences** (“ADCDRs”), for all personal injury cases (excluding medical negligence cases) and non-injury motor accident (“NIMA”) matters, where the quantum claimed by the Plaintiff is below the sum of S$250,000;
 
-> (a) When an assessment of damages hearing date is given at a conference, the parties will be directed to do the following:
+>> (ii) **Assessment of Damages Case Management Conferences** (“AD-CMCs”), for all other civil matters filed in the Magistrate Court; and
 
->> (i) to file and serve the Bundle(s) of Documents (whether agreed or otherwise) within 4 weeks from the date of the ADCDR/PADC;
+>> (iii) **Assessment of Damages Pre-Trial Conferences (“AD-PTCs”)**, for —
 
->> (ii) the Plaintiff shall, within 3 weeks prior to the date of the assessment of damages hearing, serve on the Defendant a draft Joint Opening Statement (referred to in sub-paragraph (b) below) with the Plaintiff’s portions duly completed;
+>>> (A) all other civil matters that are filed in or transferred to the District Court under section 23 or 54C of the State Courts Act; and
 
->> (iii) the Defendant shall, within 2 weeks prior to the date of the assessment of damages hearing, serve on the Plaintiff the draft Joint Opening Statement with the Defendant’s portions duly completed; and
+>>> (B) high value personal injury (including motor accident or “PIMA” cases) and NIMA cases, where the quantum claimed by a plaintiff is above the sum of S$250,000 and the matter is transferred under the Supreme Court of Judicature (Transfer of Specified Proceedings to District Court) Order 2016.
 
->> (iv) the Plaintiff shall, within 1 week prior to the date of the assessment of damages hearing, file and serve the duly completed Joint Opening Statement.
+> (d) At the first pre-Assessment of Damages ADR conference, parties should be in a position to —
+
+>> (i)    assess the relative merits of their cases and/or negotiate a settlement with all relevant information at their disposal;
+
+>> (ii)   submit to the Court a Quantum Indication Form in Form 9B of Appendix A to these Practice Directions; and
+
+>> (iii)  make submissions in order to obtain from the Court an indication of the likely quantum which may be awarded at the Assessment of Damages, so as to assist in the settlement of the case.
+
+
+> (e) At the pre-Assessment of Damages ADR conferences, the Deputy Registrar will —
+
+>> (i)    facilitate settlement between parties;
+
+>> (ii)   give indications on liability and/or quantum; and/or 
+
+>> (iii)  conduct a final check on the status of the proceedings between the parties so to ensure that they are ready for the Assessment of Damages hearing.
+
+> (f) Parties may expect, generally, 3 to 6 sessions for pre-Assessment of Damages ADR conferences. 
+
+> (g) If there is no settlement or if the Court thinks fit at any point during the ADR conference, the Court may —
+
+>> (i)  direct that the matter should proceed for an Assessment of Damages hearing; or 
+
+>> (ii) make such orders or give such directions as it thinks fit for the just, expeditious and economical disposal of the matter. 
+
+> (h) An adjournment of a pre-Assessment of Damages ADR conference shall be granted only for good reasons, for example, the solicitor is engaged in a trial or other hearing in the High Court or the State Courts, is away on in-camp training, overseas, or on medical leave. 
+
+> (i) A failure to attend a conference or comply with any directions given by the Court including a failure by either party or both parties to complete the checklist in Form 9L and/or to comply with Practice Direction 40(1)(b)(i) above) may result in the Court making cost orders, peremptory orders and/or any such order as it thinks fit for the just, expeditious and economical disposal of the cause or matter.
+
+> (j) Any judgment, order or direction made against an absent party may be set aside or varied by the Court pursuant to Order 34A rules 1(4) and 6(2) of the Rules of Court.
+
+(2) **Directions to be given for Assessment of Damages Hearing**
+
+> (a) When an Assessment of Damages hearing date is given at a conference —
+
+>> (i)  the parties shall file and serve the Bundle(s) of Documents (whether agreed or otherwise) within 4 weeks from the date of the conference;
+
+>> (ii) the Plaintiff shall, within 3 weeks prior to the date of the Assessment of Damages hearing, serve on the Defendant a draft Joint Opening Statement (referred to in sub-paragraph (b) below) with the Plaintiff’s portions duly completed;
+
+>> (iii) the Defendant shall, within 2 weeks prior to the date of the Assessment of Damages hearing, serve on the Plaintiff the draft Joint Opening Statement with the Defendant’s portions duly completed; and
+
+>> (iv) the Plaintiff shall, within 1 week prior to the date of the Assessment of Damages hearing, file and serve the duly completed Joint Opening Statement.
 
 > (b) The format to be used for the Joint Opening Statement shall be as follows:
 
->> (i) Joint Opening Statement Assessment of Damages for Personal Injury Claims (including dependency Claims) — Form 9D of Appendix A to these Practice Directions;
+>> (i)  Joint Opening Statement Assessment of Damages for Personal Injury Claims (including dependency Claims) — Form 9D of Appendix A to these Practice Directions;
 
 >> (ii) Joint Opening Statement Assessment of Damages for Non-Injury Motor Accident Claims — Form 9E of Appendix A to these Practice Directions; and
 
->> (iii) Joint Opening Statement Assessment of Damages for General Claims excluding Personal Injury and Non-Injury Motor Accident Claims — Form 9F of Appendix A to these Practice Directions.
+>> (iii)  Joint Opening Statement Assessment of Damages for General Claims excluding Personal Injury and Non-Injury Motor Accident Claims — Form 9F of Appendix A to these Practice Directions.
 
-> (c) The Joint Opening Statement is to be filed via the Electronic Filing Service. The directions and Forms shall be modified accordingly if there are more than 2 parties in the proceedings.
+> (c) The Joint Opening Statement must be filed via the Electronic Filing Service.
 
-(3) Fast Track ADCDR sessions
+> (d) The directions and Forms shall be modified accordingly if there are more than 2 parties in the proceedings.
 
-> (a) The Court generally will only convene an ADCDR session after the Plaintiff has filed the notice of appointment for assessment of damages. Parties can however make an application for a fast track ADCDR session to be convened after interlocutory judgment has been entered and before affidavits of evidence-in-chief are exchanged if the following requirements are satisfied:
+(3) **Fast Track ADCDR sessions**
 
->> (i) all medical reports of the Plaintiff required for a considered indication on quantum of damages are available to all the parties;
+> (a) The Court generally will only convene an ADCDR session after the Plaintiff has filed the NOAD. 
 
->> (ii) the Plaintiff has already attended medical re-examination by the Defendant’s or Third Party’s medical expert, or the Defendant or  Third Party confirms that no medical re-examination of the  Plaintiff is required;
+> (b) For personal injury matters, parties can, however, make an application for a fast track ADCDR session to be convened after interlocutory judgment has been entered and before Affidavits of Evidence-in-Chief are exchanged if the following requirements are satisfied:
 
->> (iii) no indication on quantum for loss of future earnings and/or loss of earning capacity is required; and
+>> (i)  all medical reports of the Plaintiff required for a considered indication on quantum of damages are available to all the parties;
+
+>> (ii) the Plaintiff has already attended a medical re-examination by the Defendant’s or Third Party’s medical expert, or the Defendant or Third Party confirms that no medical re-examination of the Plaintiff is required;
+
+>> (iii)  no indication on quantum for loss of future earnings and/or loss of earning capacity is required; and
 
 >> (iv) all parties consent to such an application being made.
 
-> (b) An application for the fast track ADCDR session shall be made by filing, via the Electronic Filing Service, a “Request for Fast track ADCDR” in Form 9G in Appendix A to these Practice Directions in Portable Document Format (PDF).
+> (c) An application for the fast track ADCDR session shall be made by filing, via the Electronic Filing Service, a “Request for Fast track ADCDR” in Form 9G of Appendix A to these Practice Directions in Portable Document Format (PDF).
 
-> (c) Form 9G shall only be filed with the consent of all parties involved in the proceedings. When the Plaintiff or his solicitor writes to the Defendant or his solicitor and any other parties in the proceedings for his/their consent, and the Plaintiff does not receive any reply of his letter from any party within 14 days, the Defendant and/or the other parties shall be deemed to have consented for the matter to be referred to a fast track ADCDR session.
+> (d) Form 9G shall only be filed with the consent of all parties involved in the proceedings. 
 
-(4) Request for adjournment of ADCDR/PADC by consent
+> (e) When the Plaintiff or his solicitor writes to the Defendant or his solicitor and any other parties in the proceedings for his/their consent, and the Plaintiff does not receive any reply of his letter from any party within 14 days, the Defendant and/or the other parties shall be deemed to have consented for the matter to be referred to a fast-track ADCDR session.
 
-Any request for adjournment of ADCDR shall be made not less than 2 working days before the date of ADCDR. A request for an adjournment of an ADCDR session shall be made only by filing a “Request for Re-fixing / Vacation of Hearing Dates” via the Electronic Filing Service. The applicant shall obtain the consent of the other parties to the adjournment, and list the dates that are unsuitable for all the parties.
+(4) **Request for adjournment of pre-Assessment of Damages ADR conferences by consent**
+
+> (a) Any request for adjournment of a pre-Assessment of Damages ADR conference shall be made not less than 2 working days before the date of the conference. 
+
+> (b) A request for an adjournment of a conference shall be made only by filing a “Request for Re-fixing / Vacation of Hearing Dates” via the Electronic Filing Service. 
+
+> (c) The applicant shall obtain the consent of the other parties to the adjournment, and list the dates that are unsuitable for all the parties failing which no adjournment will be granted.
+
 
 ## 41. Mediation
 

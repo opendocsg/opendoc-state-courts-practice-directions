@@ -155,7 +155,7 @@ the applicant or his solicitor must inform the Civil Registry of the order for c
 
 (4) Wherever practicable, applications should be made sufficiently early so as to ensure that the Judge has sufficient time to read and consider the application in advance.
 
-(5) On an *ex parte* application for a *Mareva* injunction or an search order, an applicant may be required, in an appropriate case, to support his cross-undertaking in damages by a payment to be made into Court, a bond to be issued by an insurance company with a place of business within Singapore, a written guarantee to be issued from a bank with a palce of business within Singapore or a payment to the applicant's solicitor to be held by the solicitor as an officer of the Court pending further order.
+(5) On an *ex parte* application for a *Mareva* injunction or a search order, an applicant may be required, in an appropriate case, to support his cross-undertaking in damages by a payment to be made into Court, a bond to be issued by an insurance company with a place of business within Singapore, a written guarantee to be issued from a bank with a place of business within Singapore or a payment to the applicant's solicitor to be held by the solicitor as an officer of the Court pending further order.
 
 ### Applications for search orders
 
