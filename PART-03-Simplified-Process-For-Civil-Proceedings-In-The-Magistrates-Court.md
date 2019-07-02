@@ -68,79 +68,83 @@
 
 ## 20. Case management conference \[CMC\]
 
-(1) The provisions of this Practice Direction apply to all cases begun on or after 1st November 2014 by writ in a Magistrate’s Court, excluding –
+(1)	The provisions of this Practice Direction apply to all cases begun on or after 1 November 2014 by writ in a Magistrate’s Court, except the following:
 
-> (a)  any non-injury motor accident \[NIMA\] claims; and
+> (a)	any non-injury motor accident (NIMA) claims; and
 
-> (b)  any personal injury \[PI\] claims, including any action where the pleadings contain an allegation of a negligent act or omission in the course of medical or dental treatment.
+> (b)	any personal injury (PI) claims (including any action where the pleadings contain an allegation of a negligent act or omission in the course of medical or dental treatment).
 
-(2) In accordance with Order 108 Rule 3(8) of the Rules of Court (Cap. 322, R 5), the cases in paragraphs 1(a) and (b) will be dealt with following the pre-action protocols and practice directions issued by Registrar. Please refer to Practice Directions 35, 37, 38 and 39 for more information.
+(2)	In accordance with Order 108 Rule 3(8) of the Rules of Court (Cap. 322, R 5), the cases referred to in paragraph (1)(a) and (b) will be dealt with following the pre-action protocols and practice directions issued by Registrar. Please refer to Practice Directions 35, 37, 38 and 39 for more information. 
 
-(3) To facilitate the management of cases at an early stage and to encourage parties to consider how a case may be resolved without trial, including using negotiation or Alternative Dispute Resolution (ADR), a CMC as provided for by Order 108, Rule 3(1) shall be convened within 50 days after the Defence has been filed.
+(3)	To facilitate the management of cases at an early stage and to encourage parties to consider how a case may be resolved without trial (including through the use of negotiation, the Court Dispute Resolution (CDR) process or any appropriate Alternative Dispute Resolution (ADR) process), a case management conference (CMC) as provided for by Order 108, Rule 3(1) shall be convened within 50 days after the Defence has been filed. 
 
-(4) Parties shall be notified in writing of the CMC within 8 days of the filing of the Defence.
+(4)	Parties shall be notified in writing of the CMC within 8 days of the filing of the Defence.
 
-(5) Where all parties in a case begun on or after 1st November 2014 by writ in a District Court file their consent in Form 233 of Appendix A of the Rules of Court for the simplified process in Order 108 to apply to cases in a District Court, parties shall file a Request via the Electronic Filing Service to request for a Case Management Conference.
+(5)	Where all parties in a case begun on or after 1 November 2014 by writ in a District Court file their consent in Form 233 of Appendix A of the Rules of Court for the simplified process in Order 108 to apply to their case, the parties shall file a Request via the Electronic Filing Service for a Case Management Conference to be convened. 
 
 ### Before the CMC
 
-(6) Parties should negotiate with a view to resolving the matter at the earliest opportunity once parties are notified of the CMC date.
+(6)	The parties should negotiate with a view to resolving the matter at the earliest opportunity once they are notified of the CMC date.
 
-(7) Seven (7) days prior to the first CMC, parties shall —
+(7)	Seven (7) days prior to the first CMC, the parties shall
 
-(a) exchange proposals in writing using Form 2 of Appendix A to these Practice Directions, on a “without prejudice save as to costs” basis for the amicable resolution of the matter; and
+> (a)	exchange proposals in writing using Form 2 of Appendix A to these Practice Directions, on a “without prejudice save as to costs”         basis for the amicable resolution of the matter; and
 
-(b) file through the Electronic Filing Service —
+> (b)	file through the Electronic Filing Service —
 
-> (i) Form 3 of Appendix A to these Practice Directions stating the list of issues in the dispute and the list of witnesses they intend to call in support of their case; and
+>> (i)	Form 3 of Appendix A to these Practice Directions stating the list of issues in the dispute and the list of witnesses they intend to call in support of their case; and
 
-> (ii) the ADR Form (Form 7 of Appendix A to these Practice Directions) in order to facilitate a considered decision on ADR options. The ADR Form must be read and completed by each party. If there is a solicitor acting for the party, the solicitor must also complete the Form.
+>> (ii) the CDR/ADR Form (Form 7 of Appendix A to these Practice Directions) in order to facilitate a considered decision on the appropriate CDR/ADR options. The CDR/ADR Form must be read and completed by each party. If there is a solicitor acting for the party, the solicitor must also complete the Form.
 
-(8) In order for the CMC to be effective and fruitful, the solicitor having conduct of the matter should take all necessary instructions from their clients (including exploring ADR options to achieve an amicable resolution of the matter) and comply with all directions, including those at paragraph (7) above, prior to attending the first CMC session.
+(8)	In order for the CMC to be effective and fruitful, the solicitor having conduct of the matter should take all necessary instructions from their clients to achieve an amicable resolution of the matter (including exploring the use of any appropriate CDR or ADR process), and comply with all directions (including those at paragraph (7) above), prior to attending the first CMC session.
 
-(9) Some of the ADR options available include:
+(9)	The CDR/ADR processes available include: 
 
-> (a) Mediation in the State Courts Centre for Dispute Resolution;
+> (a)	Mediation in the State Courts Centre for Dispute Resolution; 
 
-> (b) Neutral Evaluation in the State Courts Centre for Dispute Resolution;
+> (b)	Conciliation in the State Courts Centre for Dispute Resolution;
 
-> (c) Arbitration under the Law Society’s Arbitration Scheme; or
+> (c)	Neutral Evaluation in the State Courts Centre for Dispute Resolution;
 
-> (d) Mediation by private mediation service providers.
+> (d)	Court Dispute Resolution process in the State Courts Centre for Dispute Resolution under Practice Direction 39A for all claims in negligence; 
 
-(10) A party may file a Request via the Electronic Filing Service for an early CMC date prior to receiving the CMC notification mentioned in paragraph (4). Parties shall comply with paragraphs (6) and (7) before the CMC.
+> (e)	Arbitration under the Law Society’s Arbitration Scheme; or
+
+> (f)	Mediation by private mediation service providers.
+
+(10) A party may file a Request via the Electronic Filing Service for an early CMC date prior to receiving the CMC notification mentioned in paragraph (4). All parties shall comply with paragraphs (6) and (7) before the CMC.
 
 ### At the CMC
 
-(11) At the CMC, the Court may manage the case by, inter alia, —
+(11)	At the CMC, the Court may manage the case by, inter alia, —
 
-> (a) encouraging the parties to co-operate in the conduct of the proceedings;
+> (a)	encouraging the parties to co-operate in the conduct of the proceedings;
 
-> (b) assisting parties to identify and narrow the issues at an early stage;
+> (b)	assisting parties to identify and narrow the issues at an early stage;
 
-> (c) dealing with any interlocutory applications and issues, including giving such directions for discovery as may be necessary;
+> (c)	dealing with any interlocutory applications and issues, including giving such directions for discovery as may be necessary;
 
-> (d) considering with the parties whether the likely benefits of any step proposed to be taken by a party justify the costs that will be incurred;
+> (d)	considering with the parties whether the likely benefits of any step proposed to be taken by a party would justify the costs that will be incurred;
 
-> (e) encouraging the parties to negotiate to resolve the issues and/or case and/or use an ADR procedure if the Court considers it appropriate as well as facilitating the use of such ADR procedure having regard to Order 108, Rule 3(3) of the Rules of Court;
+> (e)	encouraging the parties to negotiate to resolve the issues and/or case, and/or to undergo the appropriate CDR or ADR process, as well as facilitating the use of such CDR or ADR process having regard to Order 108, Rule 3(3) of the Rules of Court;
 
-> (f) helping the parties to settle the whole or part of the case;
+> (f)	helping the parties to settle the whole or part of the case;
 
-> (g) giving such directions as the Court thinks fit in order to ensure that the case progresses expeditiously (including directions for the list of witnesses to be called for trial, the appointment of a single joint expert where appropriate, the exchange and filing of Affidavits of Evidence in Chief and setting the matter down for trial);
+> (g)	giving such directions as the Court thinks fit in order to ensure that the case progresses expeditiously (including directions for the list of witnesses to be called for trial, the appointment of a single joint expert where appropriate, the exchange and filing of Affidavits of Evidence in Chief and setting the matter down for trial);
 
-> (h) fixing timelines to manage and control the progress of the case; and
+> (h)	fixing timelines to manage and control the progress of the case; and
 
-> (i) taking such other action or making such other direction as the Court thinks appropriate in the circumstances including costs sanctions or unless orders.
+> (i)	taking such other action or making such other direction as the Court thinks appropriate in the circumstances including costs sanctions or unless orders. 
 
-(12) The purpose of the CMC is for the court to consider all available options in the case jointly with the parties. It is therefore necessary that the solicitor in charge of the case for that party (i.e. the solicitor who has been handling the case for that party and who is familiar with it) attend the CMC. Solicitors for both parties shall attend the CMC.
+(12)	The purpose of the CMC is for the court to consider all available options in the case jointly with the parties. It is therefore necessary that the solicitor in charge of the case for that party (i.e. the solicitor who has been handling the case for that party and who is familiar with it) attend the CMC. Solicitors for both parties shall attend the CMC.
 
-(13) The Court may require a party who is represented by solicitors to attend the CMC.
+(13)	The Court may require a party who is represented by solicitors to attend the CMC.
 
-(14) Where a party has filed a Summons for Direction (SFD), the Court may also deal with the SFD at the CMC.
+(14)	Where a party has filed a Summons for Direction (SFD), the Court may also deal with the SFD at the CMC.
 
-(15) In order that parties benefit fully from the process of the CMC, adjournment(s) of any CMC will not be granted without good reason. Consent of both parties to the adjournment, without more, is not considered sufficient reason for an adjournment.
+(15)	In order that parties benefit fully from the process of the CMC, adjournment(s) of any CMC will not be granted without good reason. Consent of both parties to the adjournment, without more, is not considered sufficient reason for an adjournment.
 
-(16) Where interlocutory judgment has been entered on the issue of liability only, leaving the damages to be assessed, the Court shall convene a case management conference after the filing of the Notice of Appointment for Assessment of Damages (NAAD). Such a case management conference shall be known as the Assessment of Damages Case Management Conference (AD-CMC). Paragraphs (10) to (15) above shall apply as far as possible with the necessary modifications to ensure that the matter progresses expeditiously. Where an amicable resolution on quantum is not possible, the assessment of damages hearing will proceed expeditiously. The provisions of Practice Direction 40 (Assessment of damages) on assessment of damages shall continue to apply. The ADR Form (Form 7 of Appendix A to these Practice Directions) is not required to be filed prior to the AD-CMC.
+(16)	Where interlocutory judgment has been entered on the issue of liability only, leaving the damages to be assessed, the Court shall convene a case management conference after the filing of the Notice of Appointment for Assessment of Damages (NAAD). Such a case management conference shall be known as the Assessment of Damages Case Management Conference (AD-CMC). Paragraphs (10) to (15) above shall apply as far as possible with the necessary modifications to ensure that the matter progresses 
 
 ## 21. \[Deleted\]
 
