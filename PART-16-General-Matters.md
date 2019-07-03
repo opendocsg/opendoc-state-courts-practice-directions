@@ -207,11 +207,15 @@ The various courts, offices and counters within the State Courts have different 
 
 (1) In order to maintain the dignity of Court proceedings in the State Courts, court users are strictly prohibited from making any video and/or image recording in all hearings and sessions in open Court or in chambers.
 
-(2) Additionally, all communications with external parties and audio recording during a hearing or session are strictly prohibited without prior approval of the Judge or Registrar hearing the matter or the person presiding over the session.
+(2) Additionally, audio recording during a hearing or session is strictly prohibited without prior approval of the Judge or Registrar hearing the matter or the person presiding over the session. 
 
-(3) Court users are permitted to use notebooks, tablets and other electronic devices to take notes of evidence and for other purposes pertaining to the proceedings during hearings or sessions, provided that such use does not in any way disrupt or trivialise the proceedings.
+(3) Court users are permitted to use notebooks, tablets, mobile phones and other electronic devices for the following purposes provided that such use does not in any way disrupt or trivialise the proceedings:
 
-(4) This Practice Direction shall apply to both civil and criminal proceedings in the State Courts (including the Small Claims Tribunals).
+> (a)	to take notes of evidence during all hearings or sessions and for any other purpose pertaining to the proceedings; or
+
+> (b)	to communicate with external parties during all hearings in open Court unless the Judge hearing the matter or the person    presiding over the session expressly disallows this.
+
+(4) This Practice Direction shall apply to both civil and criminal proceedings in the State Courts (including the Small Claims Tribunals). 
 
 (5) For the avoidance of doubt, this Practice Direction shall also apply to all alternative dispute resolution and counselling sessions conducted in the State Courts.
 

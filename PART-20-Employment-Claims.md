@@ -2,7 +2,7 @@
 
 ## 142. Forms for proceedings under Part 3 and applications to a District Court under section 7(2) or 7(4) of the Employment Claims Act 2016
 
-(1) The Employment Claims Tribunals, established under the Employment Claims Act 2016 (Act No. 21 of 2016), will begin to hear cases under the Act as from 1st April 2017.
+(1) Proceedings under Part 3 of the Employment Claims Act 2016 (Act No. 21 of 2016) are heard and determined by the Employment Claims Tribunals.
 
 (2) Forms 65 to 98 of Appendix A are the forms to be used for the purposes of any proceedings under Part 3 of the Act, and every application to a District Court under section 7(2) or (4) of the Act.
 
@@ -15,7 +15,7 @@
 | Counterclaim                                                                                                 | 67       | 11(1)                                                 |
 | Declaration of service                                                                                       | 68       | 9(2), 10(3), 11(3), 14(4), 22(4)                      |
 | Notice of withdrawal/discontinuance (before service)                                                         | 69       | 15(1), 15(3)                                          |
-| Notice of withdrawal/discontinuance (after service, and at any stage of proceedings)                         | 70       | 15(2)(a), 15(4)(a), 15(7), 15(8)                      |
+|    -                                                                                                         | There is no Form 70       |            -           |
 | Notice of Case Management Conference                                                                         | 71       | 17(3)                                                 |
 | Notice of hearing before tribunal                                                                            | 72       | 18(b)                                                 |
 | Application for an authorised representative                                                                 | 73       | 19                                                    |
