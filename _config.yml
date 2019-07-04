@@ -1,38 +1,37 @@
 title: State Courts Practice Directions
-remote_theme: opendocsg/opendoc-theme
+remote_theme: opendocsg/opendoc-theme@v2
 timezone: Asia/Singapore
 repository: opendocsg/opendoc-state-courts-practice-directions
-baseurl: ''
-google_analytics: UA-113717369-8
-server_PROD: https://search.opendoc.sg
-server_DEV: https://search-staging.opendoc.sg
 plugins:
   - jekyll-include-cache
-section_order:
-  - State Courts Practice Directions
-  - "Part I: Introduction"
-  - "Part II: Originating Processes and Documents"
-  - "Part III: Simplified Process for Civil Proceedings in the Magistrate’s Court"
-  - "Part IIIA: “Documents-Only” Proceedings"   
-  - "Part IV: Interlocutory and other Applications"
-  - "Part V: Hearings via Skype"
-  - "Part VI: Alternative Dispute Resolution"
-  - "Part VII: Discovery and Inspection of Electronically Stored Documents"
-  - "Part VIII: Evidence – Witnesses, Affidavits and Exhibits"
-  - "Part IX: Fixing of Matters for Hearing"
-  - "Part X: Documents and Authorities for use in Court"
-  - "Part XI: Judgements and Orders"
-  - "Part XII: Appeals"
-  - "Part XIII: Electronic Filing Service"
-  - "Part XIV: Execution Matters"
-  - "Part XV: Bills of Costs for Taxation"
-  - "Part XVI: General Matters"
-  - "Part XVII: Criminal Matters"
-  - "Part XVIII: Electronic Filing and Service for Criminal Proceedings"
-  - "Part XIX: Community Disputes Resolution"
-  - "Part XX: Employment Claims"
-  - "Part XXI: Defamation Actions"
-  - "Appendices"
+baseurl: ''
+server_PROD: https://search.opendoc.sg
+server_DEV: https://search.opendoc.sg
+google_analytics: UA-113717369-8
+order:
+  - "PART-01-Introduction.md"
+  - "PART-02-Originating-Processes-And-Documents.md"
+  - "PART-03-Simplified-Process-For-Civil-Proceedings-In-The-Magistrates-Court.md"
+  - "PART-03A-Documents-Only-Proceedings.md"
+  - "PART-04-Interlocutory-And-Other-Applications.md"
+  - "PART-05-Hearings-Via-Skype.md"
+  - "PART-06-Alternative-Dispute-Resolution.md"
+  - "PART-07-Discovery-And-Inspection-Of-Electronically-Stored-Documents.md"
+  - "PART-08-Evidence-Witnesses-Affidavits-And-Exhibits.md"
+  - "PART-09-Fixing-Of-Matters-For-Hearing.md"
+  - "PART-10-Documents-And-Authorities-For-Use-In-Court.md"
+  - "PART-11-Judgements-And-Orders.md"
+  - "PART-12-Appeals.md"
+  - "PART-13-Electronic-Filing-Service.md"
+  - "PART-14-Execution-Matters.md"
+  - "PART-15-Bills-Of-Costs-For-Taxation.md"
+  - "PART-16-General-Matters.md"
+  - "PART-17-Criminal-Matters.md"
+  - "PART-18-Electronic-Filing-And-Service-For-Criminal-Proceedings.md"
+  - "PART-19-Community-Disputes-Resolution.md"
+  - "PART-20-Employment-Claims.md"
+  - "PART-21-Defamation-Actions.md"
+  - "Appendices.md"
 styling_options:
   primary_brand_color: '#9f0836'
   logo_path: /assets/logo-full.png
