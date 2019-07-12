@@ -1,0 +1,33 @@
+version: 0.1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - bundle install
+    build:
+      commands:
+        - if [ "${AWS_BRANCH}" = "master" ]; then JEKYLL_ENV=production bundle exec jekyll build; fi
+        - if [ "${AWS_BRANCH}" != "master" ]; then JEKYLL_ENV=development bundle exec jekyll build; fi    
+    postBuild:
+      commands:
+        - chmod +x ./_site/assets/startup/build.sh
+        - ./_site/assets/startup/build.sh
+      
+  artifacts:
+    baseDirectory: _site
+    files:
+      - '**/*'
+  cache:
+    paths: 
+      - node_modules
+
+  customHeaders:
+      - pattern: '**/*'
+        headers:
+        - key: 'X-Frame-Options'
+          value: 'X-Frame-Options: SAMEORIGIN'
+        - key: 'X-XSS-Protection'
+          value: 'X-XSS-Protection: 1; mode=block'
+        - key: 'X-Content-Type-Options'
+          value: 'X-Content-Type-Options: nosniff'
+
