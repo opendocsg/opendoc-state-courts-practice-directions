@@ -1,5 +1,5 @@
 title: State Courts Practice Directions
-remote_theme: opendocsg/opendoc-theme@v2
+remote_theme: opendocsg/opendoc-theme@s3pdf
 timezone: Asia/Singapore
 repository: opendocsg/opendoc-state-courts-practice-directions
 plugins:
@@ -7,6 +7,7 @@ plugins:
 baseurl: ''
 server_PROD: https://search.opendoc.sg
 server_DEV: https://search.opendoc.sg
+offline: false
 google_analytics: UA-113717369-8
 order:
   - "PART-01-Introduction.md"
