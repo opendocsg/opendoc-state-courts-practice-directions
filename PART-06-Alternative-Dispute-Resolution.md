@@ -7,29 +7,29 @@
 (2)	The CDR process and other appropriate Alternative Dispute Resolution (ADR) processes should be considered at the earliest possible stage. The judge-driven CDR process gives the parties the opportunity to resolve their disputes faster and more economically compared to determination at trial. Mediation, conciliation and neutral evaluation are undertaken as part of the CDR process and, subject to the exception stated in paragraph (7), are provided by the Court without additional charges imposed. CDR sessions are —
 
 > (a)	a type of pre-trial conferences convened under Order 34A of the Rules of Court (Cap. 322 R 5), which empowers the Court to convene pre-trial conferences for the purpose of the “just, expeditious and economical disposal of the cause or matter”; or
-  
+
 > (b)	conducted pursuant to a referral under Order 108 Rule 3 of the Rules of Court.
- 
-(3)	Aside from the CDR process undertaken by the Courts, the Courts also encourage parties to consider using other ADR processes, including the following:   
- 
-> (a)	Mediation at the Singapore Mediation Centre or Singapore International Mediation Centre; 
- 
-> (b)	Mediation under the Law Society Mediation Scheme and/or Arbitration under the Law Society Arbitration Scheme; and 
- 
-> (c)	Mediation and/or Arbitration by private service providers. 
+
+(3)	Aside from the CDR process undertaken by the Courts, the Courts also encourage parties to consider using other ADR processes, including the following:
+
+> (a)	Mediation at the Singapore Mediation Centre or Singapore International Mediation Centre;
+
+> (b)	Mediation under the Law Society Mediation Scheme and/or Arbitration under the Law Society Arbitration Scheme; and
+
+> (c)	Mediation and/or Arbitration by private service providers.
 
 
 ### The Court Dispute Resolution process
 
-(4)	The CDR process pursuant to Order 34A of the Rules of Court is overseen by the State Courts Centre for Dispute Resolution (SCCDR). During the CDR process, the following dispute resolution mechanisms can be used, namely — 
- 
-> (a)	Mediation;
- 
-> (b)	Conciliation; and
- 
-> (c)	Neutral Evaluation. 
+(4)	The CDR process pursuant to Order 34A of the Rules of Court is overseen by the State Courts Centre for Dispute Resolution (SCCDR). During the CDR process, the following dispute resolution mechanisms can be used, namely —
 
-(Solicitors may refer to the State Courts’ website at http://www.statecourts.gov.sg for more information on these mechanisma.) 
+> (a)	Mediation;
+
+> (b)	Conciliation; and
+
+> (c)	Neutral Evaluation.
+
+(Solicitors may refer to the State Courts’ website at http://www.statecourts.gov.sg for more information on these mechanisma.)
 
 ### Confidentiality
 
@@ -38,14 +38,14 @@
 > (a)	directions given by the Judge for the purpose of case management (including directions for the filing of pleadings, discovery, exchange of affidavits of evidence in chief, setting down for trial and filing of notice of discontinuance);
 
 > (b)	terms of settlement (unless expressly agreed by all the parties to the settlement as being confidential), consent judgments and consent orders of court.
- 
-(6)	If the parties are unable to resolve their dispute during the CDR process, the Judge will give the necessary directions for the action to proceed to trial at the CDR session. The action will be tried by another Judge other than the Judge conducting the CDR session. 
+
+(6)	If the parties are unable to resolve their dispute during the CDR process, the Judge will give the necessary directions for the action to proceed to trial at the CDR session. The action will be tried by another Judge other than the Judge conducting the CDR session.
 
 ### Fees
 
 (7)  Hearing fees are not imposed for the CDR process carried out at the State Courts Centre for Dispute Resolution (SCCDR), with the following exception set out in Order 90A Rule 5A of the Rules of Court (Cap. 322 R 5):
 
-> *“(1) Subject to this Rule, a fee of $250 is payable by each party in a case in a District Court (regardless of whether the case is commenced before, on or after 1 May 2015) for all Court ADR services that are provided in the case.* 
+> *“(1) Subject to this Rule, a fee of $250 is payable by each party in a case in a District Court (regardless of whether the case is commenced before, on or after 1 May 2015) for all Court ADR services that are provided in the case.*
 >
 > *(2) The Court ADR fee is payable when the first Court ADR service to be provided in the case, pursuant to either of the following, is fixed*
 
@@ -77,53 +77,53 @@
 
 (10)  The CDR process will be used for the following cases:
 
-> (a)	all non-injury motor accident (NIMA), personal injury cases and actions arising out of an alleged negligent act or omission in the course of medical or dental treatment (“medical negligence claims”) that are filed in the Magistrate's Court and the District Court;  
- 
+> (a)	all non-injury motor accident (NIMA), personal injury cases and actions arising out of an alleged negligent act or omission in the course of medical or dental treatment (“medical negligence claims”) that are filed in the Magistrate's Court and the District Court;
+
 > (b)	all motor accident cases (whether or not involving any claim for personal injuries) and actions for personal injuries arising out of an industrial accident that are commenced in the High Court on or after 1 December 2016 and transferred to the District Court (references to NIMA and personal injury cases would hereinafter include these cases); and
 
-> (c)	all claims in negligence, including professional negligence claims that are filed in the District Court.  
+> (c)	all claims in negligence, including professional negligence claims that are filed in the District Court.
 
 (11) The Court will send a notice to the solicitors fixing the date of the first CDR session within 8 weeks of the filing of the memorandum of appearance.
 
 (12) The procedure and protocols set out in Practice Directions 37 (Non-injury Motor Accident (NIMA) Claims) and 38 (Personal Injury Claims) shall apply, as appropriate, to NIMA and personal injury claims, respectively.
 
-(13)	The procedure and protocols set out in Practice Direction 39 (Medical Negligence Claims) shall apply, as appropriate, to medical negligence claims. 
+(13)	The procedure and protocols set out in Practice Direction 39 (Medical Negligence Claims) shall apply, as appropriate, to medical negligence claims.
 
 (14)	The procedure set out in Practice Direction 39A (Claims in Negligence (Excluding Medical Negligence, Personal Injury and Non-Injury Motor Accident (NIMA) Claims)) shall apply, as appropriate, to claims in negligence, including professional negligence claims.
 
 ### Presumption of CDR/ADR for other cases (excluding NIMA, personal injury, medical negligence cases and claims in negligence):
 
-#### A. Cases that are subject to the simplified process under Order 108 of the Rules of Court (i.e. Magistrate’s Court cases filed on or after 1 November 2014 and, by consent, District Court cases filed on or after 1 November 2014) 
+#### A. Cases that are subject to the simplified process under Order 108 of the Rules of Court (i.e. Magistrate’s Court cases filed on or after 1 November 2014 and, by consent, District Court cases filed on or after 1 November 2014)
 
-(15)	All cases commenced by writ on or after 1 November 2014 in a Magistrate’s Court and any case commenced by writ on or after 1 November 2014 in a District Court (where parties have filed their consent in Form 233 of Appendix A of the Rules of Court for Order 108 to apply) will be subject to the simplified process under Order 108 of the Rules of Court.  
- 
-(16)	The Court will convene a case management conference within 50 days of the filing of the Defence pursuant to Order 108 Rule 3 of the Rules of Court. At the case management conference, the Court may refer cases to undergo the appropriate CDR or ADR process, where — 
- 
-> (a) 	the parties consent to the case being referred for resolution by the CDR or ADR process; or 
- 
-> (b)	the Court is of the view that doing so would facilitate the resolution of the dispute between the parties. 
+(15)	All cases commenced by writ on or after 1 November 2014 in a Magistrate’s Court and any case commenced by writ on or after 1 November 2014 in a District Court (where parties have filed their consent in Form 233 of Appendix A of the Rules of Court for Order 108 to apply) will be subject to the simplified process under Order 108 of the Rules of Court.
 
-(17)	Practice Direction 20 (Case management conference (CMC)) sets out details of the case management conference. 
+(16)	The Court will convene a case management conference within 50 days of the filing of the Defence pursuant to Order 108 Rule 3 of the Rules of Court. At the case management conference, the Court may refer cases to undergo the appropriate CDR or ADR process, where —
+
+> (a) 	the parties consent to the case being referred for resolution by the CDR or ADR process; or
+
+> (b)	the Court is of the view that doing so would facilitate the resolution of the dispute between the parties.
+
+(17)	Practice Direction 20 (Case management conference (CMC)) sets out details of the case management conference.
 
 #### B. Cases that are not subject to the simplified process
 
-(18)	In all other cases commenced in a Magistrate’s Court before 1 November 2014, and all cases commenced in a District Court on or after 1 April 2014, the Court will fix a Pre-Trial Conference (PTC) within 4 months after the filing of the writ if — 
- 
-> (a)	the Defence has been filed; 
- 
-> (b)	no summons for directions or application for summary judgment, striking out, stay, transfer or consolidation of proceedings has been taken out for the case; and 
- 
-> (c)	no CDR session has been fixed. 
- 
-(19)	Such cases shall be automatically referred by the Court to undergo the appropriate CDR or ADR process during the PTC, unless the parties opt out of the CDR or ADR process. 
- 
-(20)	The procedure for referral to the appropriate CDR or ADR process is set out in Practice Direction 36 (Mode of referral to CDR/ADR etc.).    
-  
-(21)	Parties who wish to undergo the CDR process at an earlier stage must file a “Request for CDR” via the Electronic Filing Service. The “Request for CDR” is set out in Form 7A in Appendix A to these Practice Directions.  
+(18)	In all other cases commenced in a Magistrate’s Court before 1 November 2014, and all cases commenced in a District Court on or after 1 April 2014, the Court will fix a Pre-Trial Conference (PTC) within 4 months after the filing of the writ if —
 
-(22)	Parties are not required to file a “Request for CDR” in the following cases:  
- 
-> (a)	all NIMA, personal injury, medical negligence claims and claims in negligence, including professional negligence claims, as the parties are automatically notified by the Court to attend CDR sessions;  
+> (a)	the Defence has been filed;
+
+> (b)	no summons for directions or application for summary judgment, striking out, stay, transfer or consolidation of proceedings has been taken out for the case; and
+
+> (c)	no CDR session has been fixed.
+
+(19)	Such cases shall be automatically referred by the Court to undergo the appropriate CDR or ADR process during the PTC, unless the parties opt out of the CDR or ADR process.
+
+(20)	The procedure for referral to the appropriate CDR or ADR process is set out in Practice Direction 36 (Mode of referral to CDR/ADR etc.).
+
+(21)	Parties who wish to undergo the CDR process at an earlier stage must file a “Request for CDR” via the Electronic Filing Service. The “Request for CDR” is set out in Form 7A in Appendix A to these Practice Directions.
+
+(22)	Parties are not required to file a “Request for CDR” in the following cases:
+
+> (a)	all NIMA, personal injury, medical negligence claims and claims in negligence, including professional negligence claims, as the parties are automatically notified by the Court to attend CDR sessions;
 
 > (b)	all cases commenced by writ before 1 November 2014 in a Magistrate’s Court, and all cases commenced in a District Court, as the Court will refer the appropriate cases to undergo the CDR process during PTCs or summonses for directions; and
 
@@ -131,9 +131,9 @@
 
 ### Request for Skype Mediation
 
-(23)	Parties can request for mediation to be conducted in the State Courts Centre for Dispute Resolution (SCCDR) with one party appearing via Skype if the following requirements are satisfied: 
+(23)	Parties can request for mediation to be conducted in the State Courts Centre for Dispute Resolution (SCCDR) with one party appearing via Skype if the following requirements are satisfied:
 
-> (a)	the overseas party satisfies either of the following criteria: 
+> (a)	the overseas party satisfies either of the following criteria:
 
 >> (i)	the overseas party (not being a corporation) is unable to travel to Singapore on certified medical grounds, or provides other evidence of inability to travel to Singapore for mediation; or
 
@@ -141,59 +141,59 @@
 
 > (b)	the party in Singapore consents to the application for mediation via Skype; and
 
-> (c)	the overseas party is represented by solicitors in Singapore. 
+> (c)	the overseas party is represented by solicitors in Singapore.
 
 (24)	A request for Skype mediation must made by —
- 
-> (a)	filing a “Request for CDR” (Form 7A in Appendix A to these Practice Directions) via the Electronic Filing Service; and 
 
-> (b)	annexing thereto a Request for Skype Mediation (Form 8 in Appendix A to these Practice Directions) and the relevant supporting documents in PDF format via the “paper clip” feature embedded in the “Request for CDR”.  
+> (a)	filing a “Request for CDR” (Form 7A in Appendix A to these Practice Directions) via the Electronic Filing Service; and
 
-(25)	Both Part A and Part B of the Request for Skype Mediation have to be completed and endorsed by the relevant parties at the time of filing. 
+> (b)	annexing thereto a Request for Skype Mediation (Form 8 in Appendix A to these Practice Directions) and the relevant supporting documents in PDF format via the “paper clip” feature embedded in the “Request for CDR”.
 
-(26)	Skype mediation proceedings or any part thereof shall not be recorded on video, audio or other mechanical or electronic means. 
+(25)	Both Part A and Part B of the Request for Skype Mediation have to be completed and endorsed by the relevant parties at the time of filing.
+
+(26)	Skype mediation proceedings or any part thereof shall not be recorded on video, audio or other mechanical or electronic means.
 
 ### Request for adjournment of CDR session
 
-(27)	A dedicated time slot is set aside for each CDR session. In order to minimise wastage of time and resources, any request for adjournment of a CDR session shall be made early. A request to adjourn a CDR session —  
- 
-> (a)	for NIMA, personal injury claims and claims in negligence shall be made not less than 2 working days before the date of the CDR session; and 
- 
-> (b)	for all other cases shall be made not less than 7 working days before the date of the CDR session.  
+(27)	A dedicated time slot is set aside for each CDR session. In order to minimise wastage of time and resources, any request for adjournment of a CDR session shall be made early. A request to adjourn a CDR session —
 
-(28)	A request for an adjournment of a CDR session shall be made only by filing a “Request for Refixing/Vacation of Hearing Dates” via the Electronic Filing Service. The applicant shall obtain the consent of the other parties to the adjournment, and list the dates that are unsuitable for all parties. 
+> (a)	for NIMA, personal injury claims and claims in negligence shall be made not less than 2 working days before the date of the CDR session; and
+
+> (b)	for all other cases shall be made not less than 7 working days before the date of the CDR session.
+
+(28)	A request for an adjournment of a CDR session shall be made only by filing a “Request for Refixing/Vacation of Hearing Dates” via the Electronic Filing Service. The applicant shall obtain the consent of the other parties to the adjournment, and list the dates that are unsuitable for all parties.
 
 ### Sanctions for failure to make early request for adjournment, lateness or absence
 
-(29)	Where any party is absent without a valid reason for the CDR session, the Court may exercise its powers under Order 34A Rule 6 of the Rules of Court to “dismiss such action or proceedings or strike out the defence or counterclaim or enter judgment or make such order as it thinks fit”.  
- 
-(30)	Where any party is late for the CDR session, this conduct may be taken into account by the Court when making subsequent costs orders pursuant to Order 59 Rule 5(1)(c) of the Rules of Court, which states —  
+(29)	Where any party is absent without a valid reason for the CDR session, the Court may exercise its powers under Order 34A Rule 6 of the Rules of Court to “dismiss such action or proceedings or strike out the defence or counterclaim or enter judgment or make such order as it thinks fit”.
+
+(30)	Where any party is late for the CDR session, this conduct may be taken into account by the Court when making subsequent costs orders pursuant to Order 59 Rule 5(1)(c) of the Rules of Court, which states —
 
 > *“The Court in exercising its discretion as to costs shall, to such extent, if any, as may be appropriate in the circumstances, take into account the parties' conduct in relation to any attempt at resolving the cause or matter by mediation or any other means of dispute resolution.”*
 
 ## 36. Mode of referral to CDR/ADR and consideration of CDR/ADR options: Case Management Conference, Pre-Trial Conference and Summons for Directions
 
 (1)	This Practice Direction applies to all civil cases except —
- 
+
 > (a)	non-injury motor accident (NIMA) claims;
 
 > (b)	personal injury claims;
 
 > (c)	medical negligence claims; and
 
-> (d)	claims in negligence, including professional negligence claims that are filed in the District Court. 
+> (d)	claims in negligence, including professional negligence claims that are filed in the District Court.
 
 ### Case management conference for cases subject to the simplified process in Order 108 of the Rules of Court
 
-(2)	All cases commenced by writ on or after 1 November 2014 in a Magistrate’s Court and any case commenced by writ on or after 1 November 2014 in a District Court (where parties have filed their consent in Form 233 of Appendix A of the Rules of Court (Cap. 322, R 5) for Order 108 to apply) are subject to the simplified process set out under Order 108 of the Rules of Court (Cap. 322, R 5). The Court will convene a case management conference within 50 days of the filing of the Defence pursuant to Order 108, Rule 3 of the Rules of Court. Practice Direction 20 (Case management conference (CMC)) sets out the procedure for the case management conference. 
+(2)	All cases commenced by writ on or after 1 November 2014 in a Magistrate’s Court and any case commenced by writ on or after 1 November 2014 in a District Court (where parties have filed their consent in Form 233 of Appendix A of the Rules of Court (Cap. 322, R 5) for Order 108 to apply) are subject to the simplified process set out under Order 108 of the Rules of Court (Cap. 322, R 5). The Court will convene a case management conference within 50 days of the filing of the Defence pursuant to Order 108, Rule 3 of the Rules of Court. Practice Direction 20 (Case management conference (CMC)) sets out the procedure for the case management conference.
 
-(3) At the case management conference, the Court may refer the case for the Court Dispute Resolution (CDR) process or any other appropriate Alternative Dispute Resolution (ADR) process, where — 
+(3) At the case management conference, the Court may refer the case for the Court Dispute Resolution (CDR) process or any other appropriate Alternative Dispute Resolution (ADR) process, where —
 
-> (a)	the parties consent to such referral; or 
+> (a)	the parties consent to such referral; or
 
-> (b)	where the Court is of the view that doing so would facilitate the resolution of the dispute between the parties. 
+> (b)	where the Court is of the view that doing so would facilitate the resolution of the dispute between the parties.
 
-(4) To facilitate the Court’s decision as to the most appropriate CDR or ADR process for the case, all the parties and their solicitors must read and complete the CDR/ADR Form (Form 7 in Appendix A to these Practice Directions) prior to the case management conference. The CDR/ADR Form must be filed through the Electronic Filing Service not less than 7 working days before the Case Management Conference under the document name “CDR/ADR Form”. No court fees will be charged for the filing of the CDR/ADR Form. 
+(4) To facilitate the Court’s decision as to the most appropriate CDR or ADR process for the case, all the parties and their solicitors must read and complete the CDR/ADR Form (Form 7 in Appendix A to these Practice Directions) prior to the case management conference. The CDR/ADR Form must be filed through the Electronic Filing Service not less than 7 working days before the Case Management Conference under the document name “CDR/ADR Form”. No court fees will be charged for the filing of the CDR/ADR Form.
 
 ### Pre-trial conference and summons for directions for cases not subject to the simplified process
 
@@ -211,29 +211,29 @@
 
 >> (iii)	medical negligence claims; and
 
->> (iv)	claims in negligence, including professional negligence claims that are filed in the District Court. 
+>> (iv)	claims in negligence, including professional negligence claims that are filed in the District Court.
 
-(6)	To encourage the use of the Court Dispute Resolution (CDR) or Alternative Dispute Resolution (ADR) process at an early stage, the Court will convene a Pre-Trial Conference (PTC) within 4 months after the writ is filed for every case where — 
+(6)	To encourage the use of the Court Dispute Resolution (CDR) or Alternative Dispute Resolution (ADR) process at an early stage, the Court will convene a Pre-Trial Conference (PTC) within 4 months after the writ is filed for every case where —
 
 > (a)	the Defence has been filed;
- 
-> (b)	no Summons for Directions (SFD) or application for summary judgment, striking out, stay, transfer or consolidation of proceedings has been taken out for the case; and 
 
-> (c)	no CDR session has been fixed, 
+> (b)	no Summons for Directions (SFD) or application for summary judgment, striking out, stay, transfer or consolidation of proceedings has been taken out for the case; and
 
-except that the parties will not be asked to attend a PTC in the event that they have earlier filed an SFD application. 
+> (c)	no CDR session has been fixed,
 
-(7)	Parties may file an SFD application prior to the PTC and file a request to vacate the PTC. Practice Direction 26 (Summonses for Directions) applies accordingly. 
+except that the parties will not be asked to attend a PTC in the event that they have earlier filed an SFD application.
 
-(8)	The solicitors for all the parties shall be present at the PTC. The parties need not attend the PTC. 
+(7)	Parties may file an SFD application prior to the PTC and file a request to vacate the PTC. Practice Direction 26 (Summonses for Directions) applies accordingly.
 
-(9)	The Judge hearing the PTC will give the necessary directions to facilitate the management of the case. The Judge may also recommend the most appropriate CDR or ADR process. To facilitate a considered decision on the appropriate CDR or ADR process, the parties and their solicitors must read and complete the CDR/ADR Form (Form 7 in Appendix A to these Practice Directions) prior to the PTC. A party who is not represented shall also complete the relevant sections of the CDR/ADR Form. 
+(8)	The solicitors for all the parties shall be present at the PTC. The parties need not attend the PTC.
 
-(10) The parties must file the CDR/ADR Form through the Electronic Filing Service not less than 7 working days before the PTC under the document name “CDR/ADR Form”. No court fees will be charged for the filing of the CDR/ADR Form. 
+(9)	The Judge hearing the PTC will give the necessary directions to facilitate the management of the case. The Judge may also recommend the most appropriate CDR or ADR process. To facilitate a considered decision on the appropriate CDR or ADR process, the parties and their solicitors must read and complete the CDR/ADR Form (Form 7 in Appendix A to these Practice Directions) prior to the PTC. A party who is not represented shall also complete the relevant sections of the CDR/ADR Form.
 
-(11)	All cases shall be automatically referred by the Court for the appropriate CDR or ADR process during the PTC unless any or all of the parties opt out of the CDR or ADR process. Any party who wishes to opt out should indicate his/her decision in the CDR/ADR Form or inform the PTC Judge of his/her wish to do so. 
+(10) The parties must file the CDR/ADR Form through the Electronic Filing Service not less than 7 working days before the PTC under the document name “CDR/ADR Form”. No court fees will be charged for the filing of the CDR/ADR Form.
 
-(12) Where the Judge is of the view that the CDR or ADR process is suitable, and the party/parties have opted out of the CDR or ADR process for reasons deemed to be unsatisfactory, this conduct may be taken into account by the Court when making subsequent costs orders pursuant to Order 59 Rule 5(1)(c) of the Rules of Court, which states: 
+(11)	All cases shall be automatically referred by the Court for the appropriate CDR or ADR process during the PTC unless any or all of the parties opt out of the CDR or ADR process. Any party who wishes to opt out should indicate his/her decision in the CDR/ADR Form or inform the PTC Judge of his/her wish to do so.
+
+(12) Where the Judge is of the view that the CDR or ADR process is suitable, and the party/parties have opted out of the CDR or ADR process for reasons deemed to be unsatisfactory, this conduct may be taken into account by the Court when making subsequent costs orders pursuant to Order 59 Rule 5(1)(c) of the Rules of Court, which states:
 
 > “*The Court in exercising its discretion as to costs shall, to such extent, if any, as may be appropriate in the circumstances, take into account the parties' conduct in relation to any attempt at resolving the cause or matter by mediation or any other means of dispute resolution.*”
 
@@ -275,7 +275,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 >
 > (b) Parties may expect, generally, 3 sessions of CDR. If the matter is not settled at the third session, the Court may make such orders or give such directions as it thinks fit for the just, expeditious and economical disposal of the action, including directions for the filing and exchange of Affidavits of Evidence-in-Chief, appointment of a single joint expert (for Magistrate's Court writs filed on or after 1 November 2014 to which Order 108 of the Rules of Court applies) and setting the action down for trial.
 
-> 
+>
 ### Recording of terms of settlement or judgment
 
 > (c) If the parties settle the issue of liability or quantum or both, they must submit Form 9I to the Court to record settlement terms or to enter a consent judgment.
@@ -345,7 +345,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 > (e) Soft copies of the “Liability Indication Form (NIMA and PIMA Claims)” (Form 9A), “Liability Indication Form (Industrial Accident Claims)” (Form 9A(A)), “Quantum Indication Form” (Form 9B), the “Application for Directions under Order 37” (Form 9C), the “Application for Directions under Order 37 of the Rules of Court for Magistrate's Court Case Fixed for Simplified AD Pursuant to Order 108” (Form 9C(A)), “Fast Track ADCDR Application Form” (Form 9G) and the form for “Recording Settlement/Entering Judgment by Consent” (Form 9I) may be downloaded at http://www.statecourts.gov.sg.
 
-## 39A.	Claims in Negligence (Excluding Medical Negligence, Personal Injury and Non-Injury Motor Accident (NIMA) Claims)
+## 39A. Claims in Negligence (Excluding Medical Negligence, Personal Injury and Non-Injury Motor Accident (NIMA) Claims)
 
 (1)	This Practice Direction applies to all claims in negligence filed on or after 1 July 2019, including professional negligence claims (but excluding medical negligence, personal injury and NIMA claims) (“claims in negligence”).
 
@@ -355,7 +355,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 > (a)	filed in a Magistrate’s Court on or after 1 November 2014; or
 
-> (b)	filed in a District Court on or after 1 November 2014 and in respect of which the parties thereto have consented to the application of the simplified process under Order 108 of the Rules of Court, 
+> (b)	filed in a District Court on or after 1 November 2014 and in respect of which the parties thereto have consented to the application of the simplified process under Order 108 of the Rules of Court,
 
 > the Court will, pursuant to Order 108 Rule 3 of the Rules of Court and within 50 days of the filing of the Defence, convene the first case management conference (CMC) under Order 34A of the Rules of Court.
 
@@ -377,7 +377,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 (7)	The Judge hearing the CMC or CDR session will manage the case to achieve an early, cost effective and amicable resolution of the case. This may include giving the necessary directions for upfront discovery or further discovery and/or upfront exchange of affidavits of evidence-in-chief, as required by the circumstances of the case. For instance, the Judge may direct an exchange of the parties’ affidavits of evidence-in-chief early in the proceedings for the purpose of a closer examination on the issue of liability, or to facilitate in negotiating a settlement.
 
-(8)	At the first or subsequent CMC or CDR session, the Judge may recommend the use of neutral evaluation, mediation or conciliation, as appropriate, to facilitate the amicable resolution of the case, having regard to factors such as the nature of the case, the factual matrix and the preference of the parties. 
+(8)	At the first or subsequent CMC or CDR session, the Judge may recommend the use of neutral evaluation, mediation or conciliation, as appropriate, to facilitate the amicable resolution of the case, having regard to factors such as the nature of the case, the factual matrix and the preference of the parties.
 
 (9)	Where the appropriate dispute resolution mechanisms to be utilised in the particular case has been determined, the Judge shall give directions to convene a special CDR session to conduct the neutral evaluation, mediation or conciliation, as the case may be. Parties shall comply with the requirements set out in these Practice Directions for the relevant process. Practice Directions 41, 41A and 42 shall apply to cases proceeding for mediation, conciliation and neutral evaluation, respectively.
 
@@ -400,7 +400,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 ### C. Appointment of single joint expert
 
-(13)	For cases to which Order 108 of the Rules of Court applies, where any question requiring the evidence of an expert witness arises and parties are unable to agree on the expert to be appointed, the Judge may, having regard to the provisions in Order 108 Rule 5(3) of the Rules of Court, appoint the expert for the parties as part of the case management process. Each party is expected to furnish the following for the determination of the single joint expert for the case: 
+(13)	For cases to which Order 108 of the Rules of Court applies, where any question requiring the evidence of an expert witness arises and parties are unable to agree on the expert to be appointed, the Judge may, having regard to the provisions in Order 108 Rule 5(3) of the Rules of Court, appoint the expert for the parties as part of the case management process. Each party is expected to furnish the following for the determination of the single joint expert for the case:
 
 > (a)	names and curriculum vitae of two experts the party considers suitable to appoint (for which purpose a party may nominate the expert who has conducted an inspection or survey for him);
 
@@ -447,19 +447,19 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 >> (i)    facilitate settlement between parties;
 
->> (ii)   give indications on liability and/or quantum; and/or 
+>> (ii)   give indications on liability and/or quantum; and/or
 
 >> (iii)  conduct a final check on the status of the proceedings between the parties so to ensure that they are ready for the Assessment of Damages hearing.
 
-> (f) Parties may expect, generally, 3 to 6 sessions for pre-Assessment of Damages ADR conferences. 
+> (f) Parties may expect, generally, 3 to 6 sessions for pre-Assessment of Damages ADR conferences.
 
 > (g) If there is no settlement or if the Court thinks fit at any point during the ADR conference, the Court may —
 
->> (i)  direct that the matter should proceed for an Assessment of Damages hearing; or 
+>> (i)  direct that the matter should proceed for an Assessment of Damages hearing; or
 
->> (ii) make such orders or give such directions as it thinks fit for the just, expeditious and economical disposal of the matter. 
+>> (ii) make such orders or give such directions as it thinks fit for the just, expeditious and economical disposal of the matter.
 
-> (h) An adjournment of a pre-Assessment of Damages ADR conference shall be granted only for good reasons, for example, the solicitor is engaged in a trial or other hearing in the High Court or the State Courts, is away on in-camp training, overseas, or on medical leave. 
+> (h) An adjournment of a pre-Assessment of Damages ADR conference shall be granted only for good reasons, for example, the solicitor is engaged in a trial or other hearing in the High Court or the State Courts, is away on in-camp training, overseas, or on medical leave.
 
 > (i) A failure to attend a conference or comply with any directions given by the Court including a failure by either party or both parties to complete the checklist in Form 9L and/or to comply with Practice Direction 40(1)(b)(i) above) may result in the Court making cost orders, peremptory orders and/or any such order as it thinks fit for the just, expeditious and economical disposal of the cause or matter.
 
@@ -491,7 +491,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 (3) **Fast Track ADCDR sessions**
 
-> (a) The Court generally will only convene an ADCDR session after the Plaintiff has filed the NOAD. 
+> (a) The Court generally will only convene an ADCDR session after the Plaintiff has filed the NOAD.
 
 > (b) For personal injury matters, parties can, however, make an application for a fast track ADCDR session to be convened after interlocutory judgment has been entered and before Affidavits of Evidence-in-Chief are exchanged if the following requirements are satisfied:
 
@@ -505,15 +505,15 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 > (c) An application for the fast track ADCDR session shall be made by filing, via the Electronic Filing Service, a “Request for Fast track ADCDR” in Form 9G of Appendix A to these Practice Directions in Portable Document Format (PDF).
 
-> (d) Form 9G shall only be filed with the consent of all parties involved in the proceedings. 
+> (d) Form 9G shall only be filed with the consent of all parties involved in the proceedings.
 
 > (e) When the Plaintiff or his solicitor writes to the Defendant or his solicitor and any other parties in the proceedings for his/their consent, and the Plaintiff does not receive any reply of his letter from any party within 14 days, the Defendant and/or the other parties shall be deemed to have consented for the matter to be referred to a fast-track ADCDR session.
 
 (4) **Request for adjournment of pre-Assessment of Damages ADR conferences by consent**
 
-> (a) Any request for adjournment of a pre-Assessment of Damages ADR conference shall be made not less than 2 working days before the date of the conference. 
+> (a) Any request for adjournment of a pre-Assessment of Damages ADR conference shall be made not less than 2 working days before the date of the conference.
 
-> (b) A request for an adjournment of a conference shall be made only by filing a “Request for Re-fixing / Vacation of Hearing Dates” via the Electronic Filing Service. 
+> (b) A request for an adjournment of a conference shall be made only by filing a “Request for Re-fixing / Vacation of Hearing Dates” via the Electronic Filing Service.
 
 > (c) The applicant shall obtain the consent of the other parties to the adjournment, and list the dates that are unsuitable for all the parties failing which no adjournment will be granted.
 
