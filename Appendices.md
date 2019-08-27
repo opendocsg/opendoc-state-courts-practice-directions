@@ -1378,7 +1378,7 @@ is less than $20,000 (excluding interest, if any), the Court will in general, aw
 <li><a href="./downloads/Appendix-K-Form-1.pdf" download>Form 5: Pre-Protocol Checklist to be Filed with Statement of Claim</a></li>
 </ul>
 
-## Appendix L - PRE-ACTION PROTOCOL FOR BUSINESS-TO-BUSINESS DEBT CLAIMS
+## Appendix L - Pre-Action Protocol for Business-to-Business Debt Claims
 
 ### Application
 
@@ -1396,7 +1396,7 @@ is less than $20,000 (excluding interest, if any), the Court will in general, aw
 
 > (d)	a limited partnership; and
 
-> (e)	a limited liability partnership;
+> (e)	a limited liability partnership.
 
 “business-to-business claim” means a claim by a business entity (being the creditor) against another business entity (being the debtor) for a contractual debt that falls within any of the following categories:
 
