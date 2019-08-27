@@ -1377,10 +1377,6 @@ is less than $20,000 (excluding interest, if any), the Court will in general, aw
 
 <li><a href="./downloads/Appendix-K-Form-1.pdf" download>Form 5: Pre-Protocol Checklist to be Filed with Statement of Claim</a></li>
 </ul>
-## Footnotes
-
-[^17]: Please refer to Order 92, Rule 1 of the Rules of Court (Cap. 322 R 5).
-
 
 ## Appendix L - PRE-ACTION PROTOCOL FOR BUSINESS-TO-BUSINESS DEBT CLAIMS
 
@@ -1542,4 +1538,7 @@ https://www.statecourts.gov.sg/cws/Resources/Documents/B2B%20Protocol%20-%20Repa
 <li><a href="./downloads/Appendix L-Form 4.pdf" download>Form 4: Pre-Action Protocol Checklist To Be Filed With Statement Of Claim</a></li>
 
 </ul>
+
 ## Footnotes
+
+[^17]: Please refer to Order 92, Rule 1 of the Rules of Court (Cap. 322 R 5).
