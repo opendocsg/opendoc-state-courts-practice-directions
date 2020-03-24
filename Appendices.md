@@ -1384,7 +1384,7 @@ is less than $20,000 (excluding interest, if any), the Court will in general, aw
 
 1.	This Protocol applies to any action that is commenced in the State Courts by a business (the “creditor”) against another business (the “debtor”) arising from a business-to-business claim.
 
-2.	For the purposes of this Protocol —
+2.	For the purpose of this Protocol —
 
 	“business” includes:
 
@@ -1454,7 +1454,7 @@ is less than $20,000 (excluding interest, if any), the Court will in general, aw
 
 > (i)	the timeframe given for debtor to respond; save in cases of exceptional urgency, the debtor should be given at least 28 days to respond; if a shorter timeframe is imposed, the creditor should explain the reasons for the urgency; and
 
-> (j)	a statement by the creditor as to which of any of the alternative dispute resolution (“ADR”) options (set out at paragraphs [22]–[25] below) it proposes to use for the resolution of the dispute for the debtor to consider.
+> (j)	a statement by the creditor as to which of any of the alternative dispute resolution (“ADR”) options (set out at paragraphs [21]–[24] below) it proposes to use for the resolution of the dispute for the debtor to consider.
 
 9.	The Letter of Claim should also state the amount of interest incurred and any administrative or other charges imposed since the debt was incurred. It should further enclose, where available, an updated statement of account for the debt that includes details of any interest and administrative or other charges added. The Letter of Claim should be sent to the registered address or the last known address of the debtor.
 
@@ -1527,7 +1527,7 @@ is less than $20,000 (excluding interest, if any), the Court will in general, aw
 
 ### Repayment Plan Calculator
 
-26.	Creditors and debtors may in making their proposals have recourse to the Repayment Plan Calculator available at:
+26.	Creditors and debtors may in making their proposals have recourse to the following Repayment Plan Calculator available at:
 https://www.statecourts.gov.sg/cws/Resources/Documents/B2B%20Protocol%20-%20Repayment%20Plan%20-%20clean.xlsx
 
 ### Sanctions for Non-Compliance
