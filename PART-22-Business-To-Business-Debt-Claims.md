@@ -2,7 +2,7 @@
 
 ## 144. Pre-action protocol for business-to-business debt claims
 
-### Definitions of “business” and “business-to-business claims” 
+### Definitions of “business” and “business-to-business claim” 
 
 (1)	For the purposes of this Practice Direction —
 
@@ -30,7 +30,7 @@
 
 ### Compliance with pre-action protocol
 
-(2)	This Practice Direction and the pre-action protocol (“the Protocol”) set out in Appendix L to these Practice Directions apply to all actions for business-to-business claims that are commenced in the State Courts from 1 October 2019 onwards.
+(2)	This Practice Direction and the pre-action protocol (“the Protocol”) set out in Appendix L to these Practice Directions apply to all actions for business-to-business claims that are commenced in the State Courts from 4 May 2020 onwards. The previous Protocol as set out in Practice Directions Amendment No. 6 of 2019 shall continue to apply for actions commenced prior to 4 May 2020.
 
 (3)	Except as otherwise provided by the Protocol, a creditor in a business-to-business claim must comply with the Protocol before commencing Court proceedings. 
 
@@ -58,4 +58,4 @@ Sanctions for non-compliance with Protocol
 
 > (b)	deprive a party that has succeeded in the action but that has not complied with the Protocol interest in respect of any period as the Court deems fit. 
 
-(10)	Where there are good reasons for non-compliance with the Protocol, the Court will not impose any sanction against the defaulting party.
+(10)	Where there are good reasons for non-compliance with the Protocol, including such cases of “exceptional urgency” as listed at paragraph 11A of the Protocol, the Court will not impose any sanction against the defaulting party.
