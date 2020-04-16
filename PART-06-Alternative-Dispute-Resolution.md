@@ -129,45 +129,21 @@
 
 > (c)	all cases commenced by writ on or after 1 November 2014 in a Magistrate’s Court which are subject to the simplified process in Order 108 (excluding NIMA, personal injury and medical negligence claims), as the Court will deal with matters concerning CDR/ADR at the case management conference. (Further details are set out in Part III of these Practice Directions and in Practice Direction 39A in relation to claims in negligence, including professional negligence claims.)
 
-### Request for Skype Mediation
-
-(23)	Parties can request for mediation to be conducted in the State Courts Centre for Dispute Resolution (SCCDR) with one party appearing via Skype if the following requirements are satisfied:
-
-> (a)	the overseas party satisfies either of the following criteria:
-
->> (i)	the overseas party (not being a corporation) is unable to travel to Singapore on certified medical grounds, or provides other evidence of inability to travel to Singapore for mediation; or
-
->> (ii)	the overseas party is a foreign incorporated company with no local presence and/or representative;
-
-> (b)	the party in Singapore consents to the application for mediation via Skype; and
-
-> (c)	the overseas party is represented by solicitors in Singapore.
-
-(24)	A request for Skype mediation must made by —
-
-> (a)	filing a “Request for CDR” (Form 7A in Appendix A to these Practice Directions) via the Electronic Filing Service; and
-
-> (b)	annexing thereto a Request for Skype Mediation (Form 8 in Appendix A to these Practice Directions) and the relevant supporting documents in PDF format via the “paper clip” feature embedded in the “Request for CDR”.
-
-(25)	Both Part A and Part B of the Request for Skype Mediation have to be completed and endorsed by the relevant parties at the time of filing.
-
-(26)	Skype mediation proceedings or any part thereof shall not be recorded on video, audio or other mechanical or electronic means.
-
 ### Request for adjournment of CDR session
 
-(27)	A dedicated time slot is set aside for each CDR session. In order to minimise wastage of time and resources, any request for adjournment of a CDR session shall be made early. A request to adjourn a CDR session —
+(23)	A dedicated time slot is set aside for each CDR session. In order to minimise wastage of time and resources, any request for adjournment of a CDR session shall be made early. A request to adjourn a CDR session —
 
 > (a)	for NIMA, personal injury claims and claims in negligence shall be made not less than 2 working days before the date of the CDR session; and
 
 > (b)	for all other cases shall be made not less than 7 working days before the date of the CDR session.
 
-(28)	A request for an adjournment of a CDR session shall be made only by filing a “Request for Refixing/Vacation of Hearing Dates” via the Electronic Filing Service. The applicant shall obtain the consent of the other parties to the adjournment, and list the dates that are unsuitable for all parties.
+(24)	A request for an adjournment of a CDR session shall be made only by filing a “Request for Refixing/Vacation of Hearing Dates” via the Electronic Filing Service. The applicant shall obtain the consent of the other parties to the adjournment, and list the dates that are unsuitable for all parties.
 
 ### Sanctions for failure to make early request for adjournment, lateness or absence
 
-(29)	Where any party is absent without a valid reason for the CDR session, the Court may exercise its powers under Order 34A Rule 6 of the Rules of Court to “dismiss such action or proceedings or strike out the defence or counterclaim or enter judgment or make such order as it thinks fit”.
+(25)	Where any party is absent without a valid reason for the CDR session, the Court may exercise its powers under Order 34A Rule 6 of the Rules of Court to “dismiss such action or proceedings or strike out the defence or counterclaim or enter judgment or make such order as it thinks fit”.
 
-(30)	Where any party is late for the CDR session, this conduct may be taken into account by the Court when making subsequent costs orders pursuant to Order 59 Rule 5(1)(c) of the Rules of Court, which states —
+(26)	Where any party is late for the CDR session, this conduct may be taken into account by the Court when making subsequent costs orders pursuant to Order 59 Rule 5(1)(c) of the Rules of Court, which states —
 
 > *“The Court in exercising its discretion as to costs shall, to such extent, if any, as may be appropriate in the circumstances, take into account the parties' conduct in relation to any attempt at resolving the cause or matter by mediation or any other means of dispute resolution.”*
 
