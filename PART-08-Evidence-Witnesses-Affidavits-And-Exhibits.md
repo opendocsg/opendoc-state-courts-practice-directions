@@ -353,7 +353,7 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 
 ## 61. Request for Digital Audio Recording and Transcription Service
 
-(1) Digital audio recording and transcription of open court proceedings will be made available in the State Courts, to parties, through one or more designated service providers at the request of parties.
+(1) Pursuant to Order 38A, Rule 1(1)(a), the Registrar directs that digital audio recording and transcription of open court proceedings will be made available in the State Courts, to parties, through one or more designated service providers at the request of parties.
 
 (2) The request for digital audio recording and transcription service shall be subject to the approval and/or directions of the Court hearing the proceedings, the approval of the Registrar, and the availability of the designated service provider to provide the service.
 
@@ -363,11 +363,17 @@ Applications for Digital Audio Recording and Transcription Service
 
 (4) Upon written notification of the approval by the Court hearing the proceedings, the requesting party shall submit to the designated service provider at least 8 working days before the commencement of the proceedings the application for digital audio recording and transcription service using the requisite form provided by the designated service provider. The requesting party shall also comply with any direction(s) that may be given by the Court hearing the proceedings, in respect of the party’s written request for digital audio recording and transcription service.
 
-(5) The designated service provider shall inform the requesting party whether the application for digital audio recording and transcription service has received final approval by the Registrar.
+(5) The designated service provider shall inform the requesting party whether the application for digital audio recording and transcription service has received final approval by the Registrar. 
 
-(6) The cost of engaging the designated service provider for digital audio recording and transcription service shall be paid by the requesting party directly to the designated service provider. The engagement of and payment to the designated service provider are subject to its terms and conditions.
+(6) The cost of engaging the designated service provider for digital audio recording and transcription service shall be paid by the requesting party directly to the designated service provider. The engagement of and payment to the designated service provider are subject to its terms and conditions. 
 
-(7) The party or parties engaging the designated service provider shall apply for sufficient copies of the transcript to be furnished to the Court hearing the proceedings and all other parties to the proceedings.
+(7) The party or parties engaging the designated service provider shall apply for sufficient copies of the transcript to be furnished to the Court hearing the proceedings and all other parties to the proceedings. 
+
+## 61A. Production of record of hearing
+
+(1) Pursuant to Order 38A, Rule 1(1)(b), the Registrar directs that, in proceedings where digital audio recording and transcription through a designated service provider pursuant to Practice Direction 61 is not available or is not used, the notes of hearing shall be taken down by the Judicial Officer having conduct of the proceedings or the court officer, whether through the use of a computer, electronic device or other means.
+
+(2) The provisions of paragraph (1) are subject to any directions (including directions as to the means of producing transcripts) made by the Judicial Officer having conduct of the proceedings, or by the Registrar. Any transcript of the notes of hearing made pursuant to such directions shall, pursuant to Order 38A, Rule 1(1)(b), constitute the official record of hearing.
 
 ## 62. Certification of transcripts
 
