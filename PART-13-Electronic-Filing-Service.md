@@ -66,7 +66,7 @@ Every single page of a document *must* be paginated so that the pagination on th
 
 ## 87. Documents which cannot be converted into an electronic format
 
-(1) If a document cannot be converted in whole or in part into an electronic format for any reason, the hardcopy of the document must be filed at the Civil Registry of the State Courts.
+(1) If a document cannot be converted in whole or in part into an electronic format for any reason, the hardcopy of the document must be filed at the Registry of the State Courts.
 
 (2) If the Court receives a document which the filing party says cannot be converted in whole or part into an electronic format, and it can discern no good reason why the document cannot be wholly converted into an electronic format, the document may be rejected.
 
