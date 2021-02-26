@@ -64,7 +64,7 @@
 
 (6) The electronic copy must tally in all respects with the hardcopy, as it will be uploaded into the case file by the Registry staff and will form part of the electronic case file. The importance of not submitting unnecessarily large electronic files is emphasised. To this end, parties are to adhere as far as possible to the guidelines set out on the Electronic Filing Service website (currently at www.elitigation.sg), or its equivalent as may be set up from time to time, on the resolution to be used when scanning documents into Portable Document Format (PDF).
 
-(7) In the event that parties elect to electronically file such documents, they must nevertheless tender a bundle of these documents to the Civil Registry in hard copy. It shall not be necessary to pay any additional court fees in respect of the hard copy in such circumstances.
+(7) In the event that parties elect to electronically file such documents, they must nevertheless tender a bundle of these documents to the Registry in hard copy. It shall not be necessary to pay any additional court fees in respect of the hard copy in such circumstances.
 
 ### Bundle of documents
 
