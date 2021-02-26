@@ -26,7 +26,7 @@
 >
 > (k) any trial of any offence.
 
-(2) The directions in this Part must be read in conjunction with the Criminal Procedure Code (Electronic Filing and Service for Criminal Proceedings in the State Courts) Regulations 2013.
+(2) The directions in this Part must be read in conjunction with the Criminal Procedure Code (Electronic Filing and Service for State Courts and Youth Courts) Regulations 2013
 
 ## 131. Initiation of prosecution
 
@@ -106,7 +106,7 @@ All criminal prosecutions instituted by or on behalf of the Public Prosecutor, a
 
 ### Procedure where a gag order has been granted
 
-(2) In a case where the prosecution is initiated via the Integrated Criminal Case Filing and Management System (ICMS), and the prosecution applies for a gag order which is granted by the court, the following procedures must be carried out by the prosecution, after the gag order has been granted:
+(2) In a case where the prosecution is initiated via the Integrated Case Management System (ICMS), and the prosecution applies for a gag order which is granted by the court, the following procedures must be carried out by the prosecution, after the gag order has been granted:
 
 > (a) all necessary amendments must be made to the charge that is to be tendered to the court, so as to remove references to all information (e.g. details of a witness) as are necessary to comply with the terms of the gag order that was granted;
 
@@ -114,7 +114,7 @@ All criminal prosecutions instituted by or on behalf of the Public Prosecutor, a
 
 > (c) in addition to the redacted charge(s), the original (i.e. non-redacted) copy of the charge(s) will continue to be used for the court proceedings, and must be uploaded into the ICMS in the usual way.
 
-## 139. Limits on size and number of documents submitted using Electronic Filing Service
+## 139. Limits on size and number of documents submitted using the Integrated Case Management System
 
 (1) The following limits shall apply to the filing of documents:
 
