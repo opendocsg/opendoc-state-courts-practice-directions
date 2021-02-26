@@ -17,7 +17,7 @@ All applications in chambers (including summonses, summonses for directions and 
 
 (5) Enquiries by telephone will not be entertained.
 
-(6) Where a summons is filed in a matter for which a trial date has been fixed, the summons must be filed using the Electronic Filing Service with a special request informing the Civil Registry of the trial date(s).
+(6) Where a summons is filed in a matter for which a trial date has been fixed, the summons must be filed using the Electronic Filing Service with a special request informing the Registry of the trial date(s).
 
 ## 24A. Filing of Distinct Applications in Separate Summonses
 
@@ -29,7 +29,7 @@ All applications in chambers (including summonses, summonses for directions and 
 
 > In the defendant’s summons setting out a prayer for the striking out of certain paragraphs of the Statement of Claim, the defendant also includes an alternative prayer for the plaintiff to be ordered to amend those paragraphs of the Statement of Claim.
 
-(4) Any summons that is not in compliance with this Practice Direction may be rejected by the Civil Registry of the State Courts.
+(4) Any summons that is not in compliance with this Practice Direction may be rejected by the Registry of the State Courts. 
 
 (5) The Court may also direct the party to file separate summonses before proceeding with the hearing or proceed with the hearing on the solicitor’s undertaking to file further summonses for the distinct applications.
 
@@ -47,7 +47,7 @@ Where leave of Court has been obtained to –
 
 > (e) an order is made in a matter commenced by originating summons to continue as if commenced by writ;
 
-the applicant or his solicitor must inform the Civil Registry of the order for consolidation or transfer or conversion by way of an appropriate Request through the Electronic Filing Service.
+the applicant or his solicitor must inform the Registry of the order for consolidation or transfer or conversion by way of an appropriate Request through the Electronic Filing Service.
 
 ## 26. Summonses for Directions
 
@@ -79,13 +79,15 @@ the applicant or his solicitor must inform the Civil Registry of the order for c
 
 (8) The Deputy Registrar hearing the SFD may make recommendations to the parties for the matter to proceed for —
 
-> (a) Mediation in the State Courts Centre for Dispute Resolution;
+> (a) Mediation by the State Courts’ Court Dispute Resolution Cluster (CDRC);
 
-> (b) Neutral Evaluation in the State Courts Centre for Dispute Resolution;
+> (b) Conciliation by the CDRC;
 
-> (c) Arbitration under the Law Society’s Arbitration Scheme; or
+> (c) Neutral Evaluation by the CDRC;
 
-> (d) Mediation by private mediation service providers.
+> (d) Arbitration under the Law Society’s Arbitration Scheme; or
+
+> (e) Mediation by private mediation service providers. 
 
 ## 27. Written Submissions for Contested Inter Partes Applications in Chambers
 
