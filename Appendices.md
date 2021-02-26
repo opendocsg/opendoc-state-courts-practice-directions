@@ -127,7 +127,7 @@
 
 ### 1. Introduction
 
-1.1 The State Courts Centre for Dispute Resolution provides Court Dispute Resolution (CDR) services for all civil matters. Two main processes – mediation and neutral evaluation – are used.
+1.1 The State Courts’ Court Dispute Resolution Cluster (CDRC) provides Court Dispute Resolution (CDR) services for all civil matters. Two main processes – mediation and neutral evaluation – are used. 
 
 1.2 According to Practice Directions 37 and 38, all non-injury motor accident claims and personal injury claims are to proceed for CDR within 8 weeks after the Memorandum of Appearance has been filed.
 
@@ -269,11 +269,11 @@
 
 6.4 Where parties are unable to resolve the case through CDR, the Court will manage the case, having regard to the provisions in Order 108 Rule 5 of the Rules of Court, by, inter alia, —
 
-> 6.4.1  giving such directions as the Court thinks fit in order to ensure that the case progresses expeditiously (including directions for the list of witnesses to be called for trial, the appointment of a single joint expert where appropriate, the exchange and filing of Affidavits of Evidence-in-Chief and setting the matter down for trial);
+> (a)  giving such directions as the Court thinks fit in order to ensure that the case progresses expeditiously (including directions for the list of witnesses to be called for trial, the appointment of a single joint expert where appropriate, the exchange and filing of Affidavits of Evidence-in-Chief and setting the matter down for trial);
 
-> 6.4.2  fixing timelines to manage and control the progress of the case; and
+> (b)  fixing timelines to manage and control the progress of the case; and
 
-> 6.4.3  taking such other action or making such other direction as the Court thinks appropriate in the circumstances including costs sanctions or unless orders.
+> (c)  taking such other action or making such other direction as the Court thinks appropriate in the circumstances including costs sanctions or unless orders.
 
 6.5 Where any question requiring the evidence of an expert witness arises and parties are unable to agree on the expert to be appointed, the Court may, having regard to the provisions in Order 108, Rule 5(3) of the Rules of Court, appoint the expert for the parties at a CDR session. Each party is expected to furnish the following for the determination of the single joint expert:
 
