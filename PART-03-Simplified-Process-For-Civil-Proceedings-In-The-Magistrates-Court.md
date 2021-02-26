@@ -100,13 +100,13 @@
 
 (9)	The CDR/ADR processes available include: 
 
-> (a)	Mediation in the State Courts Centre for Dispute Resolution; 
+> (a)	Mediation by the State Courts’ Court Dispute Resolution Cluster (CDRC); 
 
-> (b)	Conciliation in the State Courts Centre for Dispute Resolution;
+> (b)	Conciliation by the CDRC;
 
-> (c)	Neutral Evaluation in the State Courts Centre for Dispute Resolution;
+> (c)	Neutral Evaluation by the CDRC;
 
-> (d)	Court Dispute Resolution process in the State Courts Centre for Dispute Resolution under Practice Direction 39A for all claims in negligence; 
+> (d)	Court Dispute Resolution process by the CDRC under Practice Direction 39A for all claims in negligence; 
 
 > (e)	Arbitration under the Law Society’s Arbitration Scheme; or
 
@@ -144,7 +144,7 @@
 
 (15)	In order that parties benefit fully from the process of the CMC, adjournment(s) of any CMC will not be granted without good reason. Consent of both parties to the adjournment, without more, is not considered sufficient reason for an adjournment.
 
-(16)	Where interlocutory judgment has been entered on the issue of liability only, leaving the damages to be assessed, the Court shall convene a case management conference after the filing of the Notice of Appointment for Assessment of Damages (NAAD). Such a case management conference shall be known as the Assessment of Damages Case Management Conference (AD-CMC). Paragraphs (10) to (15) above shall apply as far as possible with the necessary modifications to ensure that the matter progresses 
+(16)	Where interlocutory judgment has been entered on the issue of liability only, leaving the damages to be assessed, the Court shall convene a case management conference after the filing of the Notice of Appointment for Assessment of Damages (NAAD). Such a case management conference shall be known as the Assessment of Damages Case Management Conference (AD-CMC). Paragraphs (10) to (15) above shall apply as far as possible with the necessary modifications to ensure that the matter progresses expeditiously. Where an amicable resolution on quantum is not possible, the assessment of damages hearing will proceed expeditiously. The provisions of Practice Direction 40 (Assessment of damages) on assessment of damages shall continue to apply. The CDR/ADR Form (Form 7 of Appendix A to these Practice Directions) is not required to be filed prior to the AD-CMC.
 
 ## 21. \[Deleted\]
 
