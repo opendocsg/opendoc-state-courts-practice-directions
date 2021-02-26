@@ -8,11 +8,11 @@ The various courts, offices and counters within the State Courts have different 
 
 (1) The hours for the sittings of the State Courts shall be as follows, subject to the presiding Judge's/Magistrate’s/ Registrar’s discretion in any case to conclude a sitting at such earlier or later time as he may direct:
 
-> (a) **Mentions Courts** (except Court 26)
+> (a) **Mentions Courts** (except Court 4A)
 
 >> Mondays to Fridays - 9.00 a.m. to 1.00 p.m. and 2.30 p.m. to 5.30 p.m.;
 
-> (b) **Court 26**
+> (b) **Court 4A**
 
 >> Mondays to Fridays - 8.45 a.m. to 1.00 p.m. and 2.30 p.m. to 5.30 p.m.;  
 >> Saturdays - 9.00 a.m. to 1.00 p.m.
@@ -35,7 +35,7 @@ The various courts, offices and counters within the State Courts have different 
 
 (3) An undertaking from counsel shall be given to have all the documents (including the originating process) filed in Court the next available working day must be furnished to the Judicial Officer processing the application.
 
-(4) The hearing may take place in the Civil Registry of the State Courts or at any place as directed by the Judicial Officer hearing the matter.
+(4) The hearing may take place in the Registry of the State Courts or at any place as directed by the Judicial Officer hearing the matter.
 
 (5) For the avoidance of doubt, the above applies only to civil proceedings in the Magistrates’ Courts or District Courts.
 
@@ -59,7 +59,7 @@ The various courts, offices and counters within the State Courts have different 
 
 (4) Only advocates and solicitors (or, where a party is not represented, a litigant in person) shall appear before the Duty Registrar.
 
-(5) Except where the attendance of the advocate and solicitor is required under paragraph (8), the filing of the relevant documents will be sufficient for the Duty Registrar's disposal of any application or matter.  Documents which are filed using the Electronic Filing Service will be returned to the advocate and solicitor through the Electronic Filing Service to the inbox of the law firm’s computer system or through the service bureau. Documents which are not electronically filed shall be collected from the Civil Registry not earlier than one clear day after the documents have been filed.
+(5)Except where the attendance of the advocate and solicitor is required under paragraph (8), the filing of the relevant documents will be sufficient for the Duty Registrar's disposal of any application or matter.  Documents which are filed using the Electronic Filing Service will be returned to the advocate and solicitor through the Electronic Filing Service to the inbox of the law firm’s computer system or through the service bureau. Documents which are not electronically filed shall be collected from the Registry not earlier than one clear day after the documents have been filed.
 
 (6) All documents which are not required to be filed using the Electronic Filing Service should be duly stamped before presentation to the Duty Registrar for his signature and/or decision.
 
@@ -265,7 +265,7 @@ Access to, and correction of, personal data contained in electronic cause books 
 
 ## 120. Authorisation for collection of mail and Court documents
 
-(1) Without prejudice to paragraphs (3) and (4) below, all law firms must notify the Civil Registry of the State Courts of the particulars of those person(s) authorised to collect Court documents or mail from the State Courts on their behalf by submitting a request to authorise user through the Electronic Filing Service.
+(1) Without prejudice to paragraphs (3) and (4) below, all law firms must notify the Registry of the State Courts of the particulars of those person(s) authorised to collect Court documents or mail from the State Courts on their behalf by submitting a request to authorise user through the Electronic Filing Service.
 
 (2) Where such authorised persons are no longer so authorised, the law firm must revoke or delete the authorisation immediately by submitting a request through the Electronic Filing Service. Until receipt of such notification of revocation or deletion, Court documents and mail shall continue to be released to such authorised persons upon production of evidence of identification.
 
