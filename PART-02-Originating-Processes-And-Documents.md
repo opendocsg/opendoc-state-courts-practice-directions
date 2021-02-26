@@ -22,7 +22,7 @@
 
 ### Parties not named in the title of the documents
 
-(2) Where a party to any proceedings in the State Courts first files a document in such proceedings, and the name of the party does not appear in the title of the document but does appear in the body of the document, then the identification number of the party should be stated, in parentheses, below or after the first appearance of his name in the document.  Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number in parentheses immediately below or after the first appearance of the name of the party to which it applies in the subsequent document.
+(2) Where a party to any proceedings in the State Courts first files a document in such proceedings, and the name of the party does not appear in the title of the document but does appear in the body of the document, then the identification number of the party should be stated, in parentheses, below or after the first appearance of his name in the document.  Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number in parentheses immediately below or after the first appearance of the name of the party to which it applies in the subsequent document.
 
 ### Documents filed by two or more parties
 
@@ -30,7 +30,7 @@
 
 ### Identification numbers for non-parties
 
-(4) If any person (living or dead), any entity or any property is in part or in whole the subject matter of any proceedings, or is affected by any proceedings, but is not a party thereto, and the name of such person, entity or property is to appear in the title of the documents filed in the proceedings, the party filing the first document in the proceedings must state the identification number of such person, entity or property in parentheses immediately below or after the name of the same. Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number in parentheses immediately below or after the name of the person, entity or property to which it applies.  If the party filing the first document in the proceedings is unable, after reasonable enquiry, to discover the identification number of the person, entity or property, he may state immediately below or after the name of the same “(ID No. not known)”.  All documents subsequently filed by any party shall then contain these words in parentheses below or after the name of this person, entity or property.
+(4) If any person (living or dead), any entity or any property is in part or in whole the subject matter of any proceedings, or is affected by any proceedings, but is not a party thereto, and the name of such person, entity or property is to appear in the title of the documents filed in the proceedings, the party filing the first document in the proceedings must state the identification number of such person, entity or property in parentheses immediately below or after the name of the same. Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number in parentheses immediately below or after the name of the person, entity or property to which it applies.  If the party filing the first document in the proceedings is unable, after reasonable enquiry, to discover the identification number of the person, entity or property, he may state immediately below or after the name of the same “(ID No. not known)”.  All documents subsequently filed by any party shall then contain these words in parentheses below or after the name of this person, entity or property.
 
 ### Special cases
 
@@ -151,7 +151,7 @@
 
 ### Inability to furnish identification number at the time of filing a document
 
-(8) If a party who wishes to file a document is unable at the time of filing to furnish the necessary identification numbers required by this Practice Direction, the party may indicate “(ID Not Known)” at the time of filing.  However, when the necessary identification numbers have been obtained, the party must furnish the necessary identification numbers to the Civil Registry through the Electronic Filing Service.
+(8) If a party who wishes to file a document is unable at the time of filing to furnish the necessary identification numbers required by this Practice Direction, the party may indicate “(ID Not Known)” at the time of filing.  However, when the necessary identification numbers have been obtained, the party must furnish the necessary identification numbers to the Registry through the Electronic Filing Service.
 
 ### Meaning of document
 
@@ -159,7 +159,7 @@
 
 ### Non-compliance
 
-(10) Any document which does not comply with this Practice Direction may be rejected for filing by the Civil Registry.
+(10) Any document which does not comply with this Practice Direction may be rejected for filing by the Registry.
 
 ## 10. Citation of Case Numbers / New Court Forum Prefix
 
@@ -190,7 +190,7 @@ For example :
 
 > Provided that the Registrar may, in a particular cause or matter, allow personal service to be effected by any other named person and shall, in that case, cause to be marked on the document required to be served personally, a memorandum to that effect.”
 
-(2) Solicitors must notify the Civil Registry of the particulars of those clerks who have been authorised by them to serve processes and documents (hereafter referred to as “authorised process servers”) by submitting a request to authorise user through the Electronic Filing Service.
+(2) Solicitors must notify the Registry of the particulars of those clerks who have been authorised by them to serve processes and documents (hereafter referred to as “authorised process servers”) by submitting a request to authorise user through the Electronic Filing Service.
 
 (3) Where such authorised process servers are no longer so authorised, solicitors must revoke or delete the authorisation immediately by submitting a request through the Electronic Filing Service. Solicitors’ clerks do not require the authorisation of the Registrar to effect personal service of processes and documents.
 
@@ -198,7 +198,7 @@ For example :
 
 (5) If it is felt that there are special reasons requiring personal service by a Court process server, a Request for such service must be filed through the Electronic Filing Service, setting out the special reasons.  The approval of the Duty Registrar must be obtained for such service. Once approval has been obtained, the documents for service must be presented at the counter designated for this purpose.  A process server will then be assigned to effect service and an appointment for service convenient to both the litigant and the assigned process server will be given.
 
-(6) On the appointed date, the person accompanying the process server must call at the Civil Registry.  The amount required for the transport charges of the process server (a record of which will be kept) must be tendered, or, alternatively, the process server in question must be informed that transport for him will be provided. The Civil Registry will then instruct the process server to effect service.   
+(6) On the appointed date, the person accompanying the process server must call at the Registry.  The amount required for the transport charges of the process server (a record of which will be kept) must be tendered, or, alternatively, the process server in question must be informed that transport for him will be provided. The Registry will then instruct the process server to effect service.    
 
 (7) Under no circumstances should any payment be made directly to the process server.
 
@@ -370,7 +370,7 @@ Every affidavit which is filed in conjunction with a summons (but not those file
 
 >> (ii) Parties who are not registered users can inspect the case file by presenting a copy of the approval at the service bureau. After verifying the approval that has been presented, the service bureau will assign a personal computer to the inspecting party for the inspection to be carried out. An inspecting party will usually be allowed only 60 minutes to carry out the inspection. If a longer period is required, the service bureau may impose a charge for use of the computer. The service bureau may impose additional charges for downloading soft copies or printing hard copies of documents from the case file being inspected.
 
-(6) Requests in hard copy may be submitted to inspect case files containing documents which were not filed using the Electronic Filing Service. The Civil Registry will only accept requests which are printed or typewritten on paper of good quality and signed by the solicitors concerned. Requests which have any erasure marks on them will be rejected. Requests which are double stamped, that is, if the requests were originally short stamped and later stamped to add up to the correct fee, may be rejected.
+(6) Requests in hard copy may be submitted to inspect case files containing documents which were not filed using the Electronic Filing Service. The Registry will only accept requests which are printed or typewritten on paper of good quality and signed by the solicitors concerned. Requests which have any erasure marks on them will be rejected. Requests which are double stamped, that is, if the requests were originally short stamped and later stamped to add up to the correct fee, may be rejected.
 
 (7) Solicitors must communicate to the Registrar in writing the names of their clerks who have their authority to make searches and inspections. Such authority may be in respect of a specific search or inspection or for a specified period.
 
