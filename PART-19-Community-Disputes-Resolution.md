@@ -51,11 +51,11 @@
 | Application for which no specific form has been provided, e.g. for Extension of Time for Filing, Vacation of Hearing Dates etc. | 64       | -            |
 
 
-## 141A. The Community Justice and Tribunals Division Friend Scheme
+## 141A. The Community Courts and Tribunals Friend Scheme
 
-(1) A tribunal or registrar (including a Deputy Registrar or an Assistant Registrar) of any tribunal in the Community Justice & Tribunals Division (“CJTD”) of the State Courts may, on the application of an unrepresented litigant-in-person (“LIP”) who is not engaged in any business undertaking involved in the dispute before a CJTD tribunal, allow the LIP to be assisted in any proceedings before a tribunal or registrar by a family member, friend, or any other volunteer from the Community Justice Centre or any other pro bono agency or entity.  Such a volunteer, when approved by the tribunal or registrar, shall be allowed to render the aforesaid assistance to the LIP and be referred to as a “CJTD Friend”.
+(1) A tribunal or registrar (including a Deputy Registrar or an Assistant Registrar) of any tribunal in the Community Courts & Tribunals Cluster (“CCTC”) of the State Courts may, on the application of an unrepresented litigant-in-person (“LIP”) who is not engaged in any business undertaking involved in the dispute before a CCTC tribunal, allow the LIP to be assisted in any proceedings before a tribunal or registrar by a family member, friend, or any other volunteer from the Community Justice Centre or any other pro bono agency or entity.  Such a volunteer, when approved by the tribunal or registrar, shall be allowed to render the aforesaid assistance to the LIP and be referred to as a “CCT Friend”
 
-(2)	A CJTD Friend, when approved by a tribunal or registrar, may provide administrative and emotional support to the LIP in the conduct of his case in proceedings before the tribunal or registrar, such as —
+(2)	A CCT Friend, when approved by a tribunal or registrar, may provide administrative and emotional support to the LIP in the conduct of his case in proceedings before the tribunal or registrar, such as —
 
 > (a) subject to sub paragraph (8) below, assisting the LIP in the preparation and filing of documents relevant to the proceedings;
 
@@ -67,17 +67,17 @@
 
 > (e) interpreting spoken communications in the proceedings before a tribunal or registrar or any document (or part thereof) filed for use and referred to in the aforesaid proceedings.
 
-An LIP may submit an application for the appointment of a CJTD Friend in Form 99 in Appendix A to these Practice Directions or in the appropriate Form in the Community Justice and Tribunals System (“CJTS”).
+An LIP may submit an application for the appointment of a CCT Friend in Form 99 in Appendix A to these Practice Directions or in the appropriate Form in the Community Justice and Tribunals System (“CJTS”).
 
-(4)	Any application submitted under paragraph (3) shall be considered and decided upon by the tribunal or registrar at the first pre-trial conference, case management conference, or hearing day scheduled for the LIP’s tribunal matter.  Once the application is approved by a registrar, the CJTD Friend must sign the prescribed undertaking & declaration before rendering any assistance to the LIP at any stage of the proceedings ( whether at the pre-trial conference, case management conference or hearing of the matter before a tribunal). If the application is rejected by a registrar, the LIP will have to carry on his own case without the assistance of a CJTD Friend at the hearing before the registrar.
+(4)	Any application submitted under paragraph (3) shall be considered and decided upon by the tribunal or registrar at the first pre-trial conference, case management conference, or hearing day scheduled for the LIP’s tribunal matter.  Once the application is approved by a registrar, the CCT Friend must sign the prescribed undertaking & declaration before rendering any assistance to the LIP at any stage of the proceedings ( whether at the pre-trial conference, case management conference or hearing of the matter before a tribunal). If the application is rejected by a registrar, the LIP will have to carry on his own case without the assistance of a CCT Friend at the hearing before the registrar.
 
-(5)	If an application for the appointment of a CJTD Friend made before a registrar during a pre-trial or case management conference is not approved, the LIP may make another application before the tribunal on the first day of hearing of the LIP’s matter. Once the application is approved by the tribunal, the CJTD Friend must sign the prescribed undertaking & declaration before rendering any assistance to the LIP at the hearing of the matter before the tribunal. If the application is rejected by the tribunal, the LIP will have to carry on his own case without the assistance of a CJTD Friend at the hearing before the tribunal. A decision by a tribunal to approve or reject the aforesaid application shall be final.   
+(5)	If an application for the appointment of a CCT Friend made before a registrar during a pre-trial or case management conference is not approved, the LIP may make another application before the tribunal on the first day of hearing of the LIP’s matter. Once the application is approved by the tribunal, the CCT Friend must sign the prescribed undertaking & declaration before rendering any assistance to the LIP at the hearing of the matter before the tribunal. If the application is rejected by the tribunal, the LIP will have to carry on his own case without the assistance of a CCT Friend at the hearing before the tribunal. A decision by a tribunal to approve or reject the aforesaid application shall be final.    
 
-(6)	A tribunal or registrar may refuse to approve any application for the appointment of a CJTD Friend if the tribunal or registrar is satisfied that it is not in the interests of justice and fairness for the LIP to receive assistance from a CJTD Friend. 
+(6)	A tribunal or registrar may refuse to approve any application for the appointment of a CCT Friend if the tribunal or registrar is satisfied that it is not in the interests of justice and fairness for the LIP to receive assistance from a CCT Friend.  
 
-(7)	An opposing party may object to the presence of or assistance to be given by a CJTD Friend to the LIP, in which case the objecting party shall provide valid and sufficient reasons as to why the LIP should not receive assistance from a CJTD friend. The tribunal or registrar shall consider such reasons as part of its determination under paragraph (6) above.
+(7)	An opposing party may object to the presence of or assistance to be given by a CCT Friend to the LIP, in which case the objecting party shall provide valid and sufficient reasons as to why the LIP should not receive assistance from a CCT friend. The tribunal or registrar shall consider such reasons as part of its determination under paragraph (6) above.
 
-(8)	In providing assistance and support to an LIP, a CJTD Friend shall not —
+(8)	In providing assistance and support to an LIP, a CCT Friend shall not —
 
 > (a) provide legal advice on the merits of the case and/or legal representation to the LIP;
 
@@ -93,7 +93,7 @@ An LIP may submit an application for the appointment of a CJTD Friend in Form 99
 
 > (g)	receive any remuneration or reward for his services.
 
-(9)	In any case, a CJTD Friend assisting an LIP may not provide any assistance and support if he —
+(9)	In any case, a CCT Friend assisting an LIP may not provide any assistance and support if he —
 	
 > (a)	is or may be named as a witness in the proceedings by a party to a dispute; 
 
@@ -103,22 +103,22 @@ An LIP may submit an application for the appointment of a CJTD Friend in Form 99
 
 > (d)	is a housing agent of the LIP and the dispute involves a tenancy or any other housing matter in which the housing agent is acting for the LIP.
 
-(10) An LIP may only have one CJTD Friend providing assistance and support at all times during the proceedings before a tribunal or registrar. Any change of the CJTD friend at any stage of the proceedings for whatever reason will require a fresh application to be made by the LIP to the registrar or tribunal, as the case may be.  
+(10) An LIP may only have one CCT Friend providing assistance and support at all times during the proceedings before a tribunal or registrar. Any change of the CCT friend at any stage of the proceedings for whatever reason will require a fresh application to be made by the LIP to the registrar or tribunal, as the case may be.   
 
-(11)	At any time during the proceedings, a tribunal or registrar may regulate the manner in which assistance is provided to the LIP, and may stop or restrict the participation of a CJTD Friend, if a tribunal or registrar is of the opinion that the administration of justice is being impeded by the CJTD Friend such as (but not limited to) where — 
+(11)	At any time during the proceedings, a tribunal or registrar may regulate the manner in which assistance is provided to the LIP, and may stop or restrict the participation of a CCT Friend, if a tribunal or registrar is of the opinion that the administration of justice is being impeded by the CCT Friend such as (but not limited to) where —
 
-> (a)	the assistance provided by the CJTD Friend is improper; 
+> (a)	the assistance provided by the CCT Friend is improper; 
 
-> (b)	the assistance provided by the CJTD Friend is unreasonable in nature or degree;  
+> (b)	the assistance provided by the CCT Friend is unreasonable in nature or degree;  
 
-> (c)	it is apparent to the tribunal or registrar or the opposing party that the CJTD friend is not well versed or competent enough to interpret spoken communications in the proceedings for the LIP or any document (or part thereof) filed for use and referred to in the aforesaid proceedings;
+> (c)	it is apparent to the tribunal or registrar or the opposing party that the CCT friend is not well versed or competent enough to interpret spoken communications in the proceedings for the LIP or any document (or part thereof) filed for use and referred to in the aforesaid proceedings;
 
-> (d)	the CJTD Friend becomes disruptive through his words or behaviour (such as by rolling his eyes, huffing, snickering, etc.);
+> (d)	the CCT Friend becomes disruptive through his words or behaviour (such as by rolling his eyes, huffing, snickering, etc.);
 
-> (e)	the CJTD Friend distracts the LIP or takes over the proceedings on behalf of the LIP, or seeks or attempts to act as a lawyer for the LIP such as by speaking directly to the opposing party;
+> (e)	the CCT Friend distracts the LIP or takes over the proceedings on behalf of the LIP, or seeks or attempts to act as a lawyer for the LIP such as by speaking directly to the opposing party;
 
-> (f)	allowing the CJTD Friend to remain would not be in the interests of justice and fairness or where it would obstruct the efficient administration of justice; and/or 
+> (f)	allowing the CCT Friend to remain would not be in the interests of justice and fairness or where it would obstruct the efficient administration of justice; and/or 
 
-> (g)	the CJTD Friend is shown to be in breach of any one or more of the prohibitions set out in paragraphs (8) and (9) above.
+> (g)	the CCT Friend is shown to be in breach of any one or more of the prohibitions set out in paragraphs (8) and (9) above.
 
-(12)	Before stopping or restricting the participation of a CJTD Friend, a caution may be given by the tribunal or the registrar to the CJTD Friend to cease from any offending behaviour, failing which the CJTD Friend may be asked to leave the hearing room or chambers.
+(12)	Before stopping or restricting the participation of a CCT Friend, a caution may be given by the tribunal or the registrar to the CCT Friend to cease from any offending behaviour, failing which the CCT Friend may be asked to leave the hearing room or chambers.
