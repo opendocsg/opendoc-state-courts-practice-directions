@@ -8,6 +8,10 @@ These Practice Directions may be cited as the State Courts Practice Directions.
 For avoidance of doubt, these Practice Directions shall apply to civil proceedings
 only unless otherwise stated.
 
+## 2A. References to “High Court” to refer to the General Division of the High Court where applicable
+
+In respect of cases, claims, actions and/or appeals which are contemplated or commenced on or after 2 January 2021 to which these Practice Directions apply, all references to the High Court shall, where appropriate, refer to the General Division of the High Court.
+
 ## 3. Citation of Legislation in Proceedings
 
 Where legislation is cited in these Practice Directions, the citation shall,
