@@ -21,7 +21,7 @@
 
 ### The Court Dispute Resolution process
 
-(4)	The CDR process pursuant to Order 34A of the Rules of Court is overseen by the State Courts Centre for Dispute Resolution (SCCDR). During the CDR process, the following dispute resolution mechanisms can be used, namely —
+(4)	The CDR process pursuant to Order 34A of the Rules of Court is overseen by the State Courts' Court Dispute Resolution Cluster (CDRC). During the CDR process, the following dispute resolution mechanisms can be used, namely — 
 
 > (a)	Mediation;
 
@@ -29,7 +29,7 @@
 
 > (c)	Neutral Evaluation.
 
-(Solicitors may refer to the State Courts’ website at http://www.statecourts.gov.sg for more information on these mechanisma.)
+(Solicitors may refer to the State Courts’ website at http://www.statecourts.gov.sg for more information on these mechanisms.)
 
 ### Confidentiality
 
@@ -43,7 +43,7 @@
 
 ### Fees
 
-(7)  Hearing fees are not imposed for the CDR process carried out at the State Courts Centre for Dispute Resolution (SCCDR), with the following exception set out in Order 90A Rule 5A of the Rules of Court (Cap. 322 R 5):
+(7)  Hearing fees are not imposed for the CDR process carried out by the CDRC, with the following exception set out in Order 90A Rule 5A of the Rules of Court (Cap. 322 R 5): 
 
 > *“(1) Subject to this Rule, a fee of $250 is payable by each party in a case in a District Court (regardless of whether the case is commenced before, on or after 1 May 2015) for all Court ADR services that are provided in the case.*
 >
@@ -349,7 +349,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 ### A.	Court Dispute Resolution process to achieve amicable resolution of the case
 
-(6)	The CMC and CDR sessions will be conducted at the State Courts Centre for Dispute Resolution (SCCDR). Where the CDR process is to be used in a case to which the simplified process under Order 108 of the Rules of Court applies, the session(s) will be referred to as “CDR session(s)” in this Practice Direction.
+(6)	The CMC and CDR sessions will be conducted by the State Courts' Court Dispute Resolution Cluster (CDRC). Where the CDR process is to be used in a case to which the simplified process under Order 108 of the Rules of Court applies, the session(s) will be referred to as “CDR session(s)” in this Practice Direction.
 
 (7)	The Judge hearing the CMC or CDR session will manage the case to achieve an early, cost effective and amicable resolution of the case. This may include giving the necessary directions for upfront discovery or further discovery and/or upfront exchange of affidavits of evidence-in-chief, as required by the circumstances of the case. For instance, the Judge may direct an exchange of the parties’ affidavits of evidence-in-chief early in the proceedings for the purpose of a closer examination on the issue of liability, or to facilitate in negotiating a settlement.
 
@@ -498,7 +498,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 ### Opening statements
 
-(1) Each party must submit to the State Courts Centre for Dispute Resolution, and serve on all other parties, a written opening statement *not less than 2 working days before the date of the first mediation session*. The opening statement shall be submitted in hard copy and not filed via the Electronic Filing Service.  
+(1) Each party must submit to the State Courts' Court Dispute Resolution Cluster (CDRC), and serve on all other parties, a written opening statement *not less than 2 working days before the date of the first mediation session*. The opening statement shall be submitted by email to statecourts_cdr@statecourts.gov.sg and not filed via the Electronic Filing Service.  
 
 (2) The opening statement shall be in the format prescribed in Form 9J in Appendix A to these Practice Directions. A soft copy of this Form may be downloaded at <http://www.statecourts.gov.sg>.
 
@@ -514,7 +514,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 ### Mediators
 
-(7) Mediation will be conducted by either a Judge or an Associate Mediator in the State Courts Centre for Dispute Resolution. Associate Mediators are volunteer mediators who have been accredited by both the State Courts and the Singapore Mediation Centre. The parties will be notified by letter if their case is to be mediated by an Associate Mediator.
+(7) Mediation will be conducted by either a Judge or an Associate Mediator  of the CDRC. Associate Mediators are volunteer mediators who have been accredited by both the State Courts and the Singapore Mediation Centre. The parties will be notified by letter if their case is to be mediated by an Associate Mediator.
 
 ### Procedure at Mediation
 
@@ -526,7 +526,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 ### Opening statements
 
-(1)  Each party must submit to the State Courts Centre for Dispute Resolution, and serve on all other parties, a written opening statement *not less than 2 working days before the date of the first conciliation session*. The opening statement shall be submitted in hard copy and not filed via the Electronic Filing Service.
+(1)  Each party must submit to the State Courts' Court Dispute Resolution Cluster (CDRC), and serve on all other parties, a written opening statement *not less than 2 working days before the date of the first conciliation session*. The opening statement shall be submitted in hard copy and not filed via the Electronic Filing Service.
 
 (2)  The opening statement shall be in the format prescribed in Form 9J (A) in Appendix A to these Practice Directions. A soft copy of this Form may be downloaded at <http://www.statecourts.gov.sg>
 
@@ -540,7 +540,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 (6)  In the case of corporations and other entities, the representative who has the authority to settle shall attend the conciliation. In the event that only a board or body has authority to settle on behalf of the entity, the entity shall send the person who is the most knowledgeable about the case and who is able to recommend a settlement to the representative’s board or body.
 
-(7) Conciliation will be conducted by a Judge in the State Courts Centre for Dispute Resolution.
+(7) Conciliation will be conducted by a Judge of the CDRC.
 
 ### Procedure at Conciliation
 
@@ -556,7 +556,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 ### Procedure in Neutral Evaluation
 
-(3) Information on the Neutral Evaluation process is set out at the State Courts’ website at <http://www.statecourts.gov.sg>. Neutral Evaluation involves the parties and their solicitors making presentations of their claims and defences, including the available evidence, followed by the Judge of the State Courts Centre for Dispute Resolution giving an assessment of the merits of the case. This process is also useful for helping parties to arrive at areas of agreement and to discuss methods of case management to save costs and time. The details of the structure and ambit of this process may be agreed between the parties at the preliminary conference referred to in paragraph (4).
+(3) Information on the Neutral Evaluation process is set out at the State Courts’ website at <http://www.statecourts.gov.sg>. Neutral Evaluation involves the parties and their solicitors making presentations of their claims and defences, including the available evidence, followed by the Judge of the State Courts' Court Dispute Resolution Cluster (CDRC) giving an assessment of the merits of the case. This process is also useful for helping parties to arrive at areas of agreement and to discuss methods of case management to save costs and time. The details of the structure and ambit of this process may be agreed between the parties at the preliminary conference referred to in paragraph (4).
 
 ### Preliminary conference with solicitors
 
@@ -572,7 +572,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 ### Opening Statements
 
-(6) Each party must submit to the State Courts Centre for Dispute Resolution, and serve on all other parties, a written opening statement not less than 2 working days before the date of the Neutral Evaluation. The opening statement shall be submitted in hard copy and not filed via the Electronic Filing Service.  
+(6) Each party must submit to the CDRC, and serve on all other parties, a written opening statement not less than 2 working days before the date of the Neutral Evaluation. The opening statement shall be submitted by email to statecourts_cdr@statecourts.gov.sg and not filed via the Electronic Filing Service.   
 
 (7) The opening statement shall be in the format prescribed in Form 9K in Appendix A to these Practice Directions. A soft copy of this Form may be downloaded at <http://www.statecourts.gov.sg>.
 
