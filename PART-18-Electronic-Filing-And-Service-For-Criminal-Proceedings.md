@@ -48,11 +48,13 @@ All criminal prosecutions instituted by or on behalf of the Public Prosecutor, a
 
 (2) Except for the first appearance in court by defence counsel, defence counsel is required to submit the Mentions or PTC checklist indicating the affirmative position of the accused. The submission may be made at any time prior to the commencement of the scheduled court event.
 
-(3) Prosecutors are required to submit the Mentions or PTC checklists indicating the prosecution’s affirmative position. The submission may be made at any time prior to the commencement of the scheduled court event.
+(3) Prosecutors are required to submit the Mentions or PTC checklists indicating the prosecution’s affirmative position. The submission may be made at any time prior to the commencement of the scheduled court event. 
 
 (4) The PG checklist need not be re-submitted if the position of the prosecution on the charge(s) has been indicated and remains the same.
 
 (5) For CCDCs, the checklist is only required to be submitted before the scheduled court event by the party applying for an adjournment.
+
+(6) Where the case involves a charge under the Protection from Harassment Act, the prosecution must file the checklist in Form 100 of these Practice Directions on ICMS when all the charges are ready and before the accused is called upon to indicate his plea.
 
 ## 134. Applications
 
