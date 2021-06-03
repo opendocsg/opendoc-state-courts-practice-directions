@@ -159,6 +159,14 @@
 
 > Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with sub-paragraph (d) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
 
+## 54A Swearing and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video link or live television link
+
+(1) A remote communication technology mentioned in Order 41, Rule 13(1) of the Rules of Court must be capable of creating a live video link or live television link through which a commissioner for oaths is able to do all of the things mentioned in Order 41, Rule 13(3) of the Rules of Court.
+
+(2) For the purposes of Order 41, Rule 13(2) of the Rules of Court, the deponent and the commissioner for oaths may sign the affidavit electronically by applying a security procedure that results in a secure electronic signature under section 18 of the Electronic Transactions Act (Cap. 88).
+
+(3) Where an affidavit is made pursuant to Order 41, Rule 13 of the Rules of Court, the affidavit should be made, as far as possible, as if the deponent were appearing before the commissioner for oaths in person, and the attestation must state that the affidavit was sworn (or affirmed) and signed in Singapore with the deponent appearing before the commissioner for oaths through a live video link or live television link, or that the affidavit was signed by the deponent and/or the commissioner for oaths electronically in Singapore, or both, as the case may be.
+
 ## 55. Swearing or affirming of affidavits, statutory declarations and oaths
 
 (1) Rule 8 of the Commissioners for Oaths Rules (Cap. 322, Rule 3) was amended effective 1 September 1998 to permit an advocate and solicitor who is appointed a commissioner for oaths to take affidavits or statutory declarations, or administer oaths to a deponent in a language or dialect, other than English, spoken or understood by the deponent and in which the advocate and solicitor is proficient in. Given these amendments, advocates and solicitors are requested to encourage their clients to use the services of other advocates and solicitors who are appointed commissioners for oaths and who are proficient in the language or dialect in which the affidavits or statutory declarations are to be sworn or affirmed, or in which the oaths are to be taken. The State Courts' commissioners for oaths will continue to take affidavits or statutory declarations and administer oaths for legally aided cases and for parties who are acting in person who need to file documents in the State Courts.
