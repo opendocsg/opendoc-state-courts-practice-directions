@@ -2,7 +2,7 @@
 
 ## 147. Community Justice and Tribunals System 
 
-**__Establishment of Electronic Filing and Case Management System__**
+**_Establishment of Electronic Filing and Case Management System_**
 
 (1)	For the purposes of the following rules:
 > (a) Rule 8A of the Small Claims Tribunals Rules;
@@ -57,11 +57,11 @@
 
 (6) The Practice Directions contained in this Part shall apply to the submission and service of documents, and communications between the Registrar and party, through CJTS or for the purpose of matters mentioned in paragraph (2).
 
-**__Pagination of documents__**
+**_Pagination of documents_**
 
 (7)Practice Direction 86 (Pagination of documents) shall apply to this Part.
 
-**__Applications and other correspondence__**
+**_Applications and other correspondence_**
 
 (8)Practice Direction 95(1)–(2) (Requests and other correspondence) shall apply to this Part, save that references to the Electronic Filing Service are to be read as references to CJTS.
 
@@ -69,17 +69,17 @@
 
 ##148. Documents which must be filed in hard copy
 
-**__Documents which cannot be converted into an electronic format__**
+**_Documents which cannot be converted into an electronic format_**
 
 (1)Practice Direction 87 (Documents which cannot be converted into an electronic format) shall apply to this Part, save that references to the Court are to be read as including references to any tribunal in the Courts and Tribunals Cluster (“CCTC”). 
 
 (2)Any hard copy of a document must be filed at the Central Registry of the State Courts at least 5 days before the deadline for its submission, unless otherwise specified. 
 
-**__Hard copies of documents filed electronically__**
+**_Hard copies of documents filed electronically_**
 
 (3)Practice Direction 93 (Hard copies of documents filed electronically) shall apply to this Part, save that references to the Electronic Filing Service are to be read as references to CJTS.
 
-**__Audio or video recordings__**
+**_Audio or video recordings_**
 
 (4) Where the evidence is in the form of audio or video recordings (such as recordings of phone conversations or CCTV recordings), the recordings may not be filed electronically but should instead be tendered to the court by way of a CD-R or DVD-R. When preparing recordings:
 
@@ -96,9 +96,10 @@
 | Video recordings                                       | .flv, .mp4, .mpg, .wmv |
 
 >(c)Each recording must be saved under a file name in the following format:
+
 >[Date of recording in YYYY-MM-DD format]-[Actual time that recording started in HH-MM-SS (24h) format]-[Short description of what the recording is meant to show] 
 
->__Eg__: [2020-05-18]-[23-11-00]-[Scolding vulgarities]
+>_Eg_: [2020-05-18]-[23-11-00]-[Scolding vulgarities]
 
 >(d) A transcript of the important part(s) of the audio or video recording must be prepared to state the relevant fact (ie, the action that is seen, the exact words that are used, the type(s) of sound(s) that are heard). Where the words that are used in the audio or video recording are not in English, a certified translation of the words into English must be provided.
 
@@ -109,7 +110,7 @@
 | DVD-R Label                 | File name of recording                               | Time within recording [HH:MM:SS] to [HH:MM:SS]      | Actual Time [HH:MM:SS] to [HH:MM:SS]  | Transcript                                                                                               |
 | --------------------------- |------------------------------------------------------|-----------------------------------------------------|---------------------------------------|----------------------------------------------------------------------------------------------------------|
 | [Tan Ah Teck Joseph]-[DVD1] | [05 June 2016]-[23-11-00]-[Spitting].mp4             | [01:05:22] to [01:05:25]                            | [23:11:23] to [23:11:30]              | Respondent spits along the common corridor                                                               |
-| [Tan Ah Teck Joseph]-[DVD2] | [10 June 2016]-[09-07-00]-[Scolding vulgarities].mp4 | [00:35:21] to [00:40:23]                            | [09:10:22] to [09:12:50]              | Respondent stands outside Plaintiff's flat and scolds Plaintiff vulgarities (“__[insert exact words]”__) |
+| [Tan Ah Teck Joseph]-[DVD2] | [10 June 2016]-[09-07-00]-[Scolding vulgarities].mp4 | [00:35:21] to [00:40:23]                            | [09:10:22] to [09:12:50]              | Respondent stands outside Plaintiff's flat and scolds Plaintiff vulgarities (“_[insert exact words]”_) |
 
 (5) If the CD-R or DVD-R does not comply with the above directions, it may be rejected by the tribunal (or court).
 
