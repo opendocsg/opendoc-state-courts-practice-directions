@@ -11,17 +11,20 @@
 (2) It has been brought to the attention of the Court that generally witnesses have not been told that they are free to leave the Court after they have completed their evidence. To remedy this, every witness will be released by the Court upon completion of his evidence and it is the duty of counsel to apply to the Court if counsel desires the witness to remain. This paragraph shall apply to both civil and criminal proceedings.
 
 ## 52A. Giving of evidence by person outside Singapore through live video or live television link in any proceedings (other than proceedings in a criminal matter)
-(1) Any application for leave for any person outside Singapore to give evidence by live video or live television link in any proceedings (other than proceedings in a criminal matter) must be made expeditiously and, in any case, unless the Court otherwise directs, no later than four weeks before the date of commencement of the hearing at which the person is to give evidence. The application is to be made by way of an inter partes summons with a supporting affidavit.
+
+(1)	Any application for leave for any person outside Singapore to give evidence by live video or live television link in any proceedings (other than proceedings in a criminal matter) must be made expeditiously and, in any case, unless the Court otherwise directs, no later than four weeks before the date of commencement of the hearing at which the person is to give evidence. The application is to be made by way of an *inter partes* summons with a supporting affidavit.
 
 (2) A party applying for leave for any person outside Singapore to give evidence by live video or live television link must take note of the relevant legislation and requirements in force in the foreign country or territory where the person is giving evidence. Certain countries or territories may impose prohibitions against, restrictions on, or requirements to obtain permission for or relating to, the giving of evidence by a person in that country or territory for court proceedings in a different country or territory. The party applying for leave must make all necessary enquiries, and take all necessary steps, to ensure that the foreign country or territory where the person is giving evidence raises no objection to the giving of evidence in that country or territory, for court proceedings in Singapore. This may be done by any means that the party considers appropriate, including:
 
 > (a) obtaining advice from a foreign lawyer qualified to advise on the laws of the relevant foreign country or territory;
 > (b) making enquiries with the relevant authorities; or
-> (c) obtaining permission from the relevant foreign country or territory, in accordance with any applicable procedure, for evidence to be given by a person located in that country or territory through a live video or live television link, if such permission is required.
+> (c) obtaining permission from the relevant foreign country or territory, in accordance with any applicable procedure, for evidence to be given by a person located in that country or territory through a live video or live television link, if such permission is required. 
 
 (3) The necessary enquiries and steps referred to at sub-paragraph (2) above must be made prior to the application referred to at sub-paragraph (1) above and evidence of the enquiries and steps taken must be given in the supporting affidavit to the application.
 
-(4) To avoid doubt, the proceedings mentioned in sub-paragraph (1) include all civil proceedings involving the examination of any person.
+(4) An application to the General Division of the High Court for the issue of a letter of request, to the relevant authorities of a foreign jurisdiction, for permission for evidence to be given by live video or live television link by a person located in that jurisdiction, must be made expeditiously and, unless the Court otherwise directs, not later than eight weeks before the date of commencement of the hearing at which the person is to give evidence. In this regard, parties should write to the State Courts at the earliest possible juncture to inform the Court of their intention to take out such an application in the General Division of the High Court.  
+
+(5)	To avoid doubt, the proceedings mentioned in sub-paragraph (1) include all civil proceedings involving the examination of any person.
 
 ## 53. Form of affidavits
 
