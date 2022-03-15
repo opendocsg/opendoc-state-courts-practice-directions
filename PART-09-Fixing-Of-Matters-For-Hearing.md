@@ -47,7 +47,7 @@
 
 *(\*) "Waiting Time" is defined as follows:*
 
-For civil and criminal trials, it is the period from the last mention/PTC (when parties indicate they are ready) to the date of hearing. For interlocutory matters, the waiting time is calculated from the date of filing. In the majority of cases, the matter should be heard within the time frames as indicated above. It is only in exceptional circumstances that the time frame is departed from. Notwithstanding the above, the short cause list continues to apply.
+For civil trials, it is the period from the last mention/PTC (when parties indicate they are ready) to the date of hearing. For interlocutory matters, the waiting time is calculated from the date of filing. In the majority of cases, the matter should be heard within the time frames as indicated above. It is only in exceptional circumstances that the time frame is departed from. Notwithstanding the above, the short cause list continues to apply.
 
 ## 65. Pleadings
 

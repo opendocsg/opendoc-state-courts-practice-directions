@@ -1,12 +1,11 @@
 # Part I: Introduction
 
 ## 1. Citation
-These Practice Directions may be cited as the State Courts Practice Directions.
+These Practice Directions may be cited as the State Courts Practice Directions 2014.
 
 ## 2. Practice Directions to apply to civil proceedings only unless otherwise stated
 
-For avoidance of doubt, these Practice Directions shall apply to civil proceedings
-only unless otherwise stated.
+For avoidance of doubt, these Practice Directions shall apply only to civil proceedings commenced in the State Courts before 1 April 2022 unless otherwise stated.
 
 ## 2A. References to “High Court” to refer to the General Division of the High Court where applicable
 
@@ -14,9 +13,9 @@ In respect of cases, claims, actions and/or appeals which are contemplated or co
 
 ## 3. Citation of Legislation in Proceedings
 
-Where legislation is cited in these Practice Directions, the citation shall,
-unless the context otherwise requires, be read to refer to the edition of that
-legislation currently in force.
+(1) Where legislation is cited in these Practice Directions, the citation shall,unless the context otherwise requires, be read to refer to the edition of that legislation currently in force.
+
+(2) Notwithstanding paragraph (1) above, references in these Practice Directions to the Rules of Court and to any Order or Rule thereof, shall be read to refer to the Rules of Court (Cap 322, R 5, 2014 Rev Ed). 
 
 ## 4. Calculation of time
 
@@ -35,12 +34,9 @@ calculation of time in these Practice Directions. In particular:
 
 ## 5. Updating
 
-(1) Any addition or amendment to these Practice Directions will be notified on
-the State Courts' website at <http://www.statecourts.gov.sg>. The Practice
-Directions will be updated on the date the addition or amendment takes effect.
+(1) Any addition or amendment to these Practice Directions will be notified on the Singapore Courts website at https://www.judiciary.gov.sg. The Practice Directions will be updated on the date the addition or amendment takes effect.
 
-(2) The complete and updated Practice Directions can be downloaded from the
-State Courts' website at <http://www.statecourts.gov.sg>.
+(2) The complete and updated Practice Directions can be downloaded from the Singapore Courts website at https://www.judiciary.gov.sg.
 
 ## 6. Forms
 

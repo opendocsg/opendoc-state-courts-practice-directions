@@ -16,11 +16,11 @@ In exercise of the powers conferred by Order 63A, Rules 2 and 3 of the Rules of 
 
 > (a) establishes an Electronic Filing Service known as the Integrated Electronic Litigation System or eLitigation and accessible at www.elitigation.sg; and
 
-> (b) appoints CrimsonLogic Pte Ltd as the  Electronic Filing Service provider for this service, with the Electronic Litigation Systems Committee of the Singapore Academy of law as its superintendent pursuant to Rule 13A(2) of the Singapore Academy of Law Rules (Cap. 294A, Rule 1).
+> (b) appoints CrimsonLogic Pte Ltd as the  Electronic Filing Service provider for this service.
 
 ## 82. Appointment of agent to establish service bureau
 
-Pursuant to Order 63A, Rule 4 of the Rules of Court (Cap. 322, R 5), the Registrar hereby appoints CrimsonLogic Pte Ltd as an agent to establish a service bureau at 133 New Bridge Road \#19-01/02 Chinatown Point Singapore 059413 (or such other address in Singapore as may be deemed suitable), with the Electronic Litigation Systems Committee of the Singapore Academy of Law as its superintendent pursuant to Rule 13A(2) of the Singapore Academy of Law Rules (Cap. 294A, Rule 1).  
+Pursuant to Order 63A, Rule 4 of the Rules of Court (Cap. 322, R 5), the Registrar hereby appoints CrimsonLogic Pte Ltd as an agent to establish a service bureau at 133 New Bridge Road #19-01/02 Chinatown Point Singapore 059413 (or such other address in Singapore as may be deemed suitable).    
 
 ## 83. Documents which must be filed, served, delivered etc., using the Electronic Filing Service
 
@@ -112,35 +112,11 @@ Every single page of a document *must* be paginated so that the pagination on th
 
 (6) Documents filed through the service bureau shall be subject to a Manual Handling Charge prescribed by Appendix B to the Rules of Court and additional services made available by the service bureau may be subject to other administrative charges imposed by the service bureau with the approval of the superintendent.
 
-## 91. Filing of documents to the State Courts through a Supreme Court service bureau
+## 91. Filing of documents to the State Courts through a Supreme Court or Family Justice Courts service bureau
 
-Pursuant to Order 63A, Rule 18(4) of the Rules of Court (Cap. 322, R 5), the Registrar hereby prescribes that any service bureau established or authorised to be established by the Registrar of the Supreme Court may assist in the filing, service, delivery or conveyance of documents pertaining to proceedings in the State Courts using the Electronic Filing Service if the service bureau, or, if there are more than one, all the service bureaux, established or authorised to be established by the Registrar are unable to provide such services owing to failure of hardware or software, or both.
+Pursuant to Order 63A, Rule 18(4) and (6) of the Rules of Court (Cap. 322, R 5), the Registrar hereby prescribes that any service bureau established or authorised to be established by the Registrar of the Supreme Court or the Registrar of the Family Justice Courts may assist in the filing, service, delivery or conveyance of documents pertaining to proceedings in the State Courts using the Electronic Filing Service if the service bureau, or, if there are more than one, all the service bureaux, established or authorised to be established by the Registrar are unable to provide such services owing to failure of hardware or software, or both.
 
-## 92. Registered users and authorised users
-
-(1) Under Order 63A of the Rules of Court (Cap. 322, R 5), any entity may apply to be a registered user and a registered user may designate one or more of its partners, directors, officers or employees to be an authorised user. Such applications shall be dealt with by the eLitigation Project Director. For the purpose of Order 63A of the Rules of Court, the identification code of an authorised user shall be his or her SingPass ID.
-
-(2) The following procedures shall apply to applications to become a registered user and for designating authorised users:
-
-> (a) The application to become a registered user must be made to the eLitigation Project Director using Form 14 in Appendix A to these Practice Directions. In Form 14, the registered user must nominate at least one authorised user. Form 14 must be accompanied by the following:
-
->> (i) a recent business profile report from the Accounting and Corporate Regulatory Authority (ACRA) of the registered user;
-
->> (ii) an application form including the subscriber agreement for subscription to the Electronic Filing Service; and
-
->> (iii) two sets of GIRO application forms for the electronic payment of filing and hearing fees and electronic filing and other charges.
-
-> (b) After the application to become a registered user has been approved, the application forms for subscription to the Electronic Filing Service and GIRO electronic payment will be forwarded to the Electronic Filing Service provider.
-
-> (c) After the Electronic Filing Service provider has processed the applications and made arrangements for GIRO electronic payments, the registered user will be provided access to his or her Electronic Filing Service account. The initial authorised user may designate additional authorised users by providing the identification code of each authorised user to be added through the administration module of the Electronic Filing Service.
-
-(3) Registered users approved hereunder shall be deemed to be approved by the Registrar of the Supreme Court and the Registrar of the State Courts. Registered users shall be responsible for all transactions conducted and liable for all fees and charges incurred by any of their designated authorised users in the Electronic Filing Service.
-
-(4) The registered user shall be responsible for ensuring that the list of designated authorised users is kept updated at all times through the administration module of the Electronic Filing Service and for updating the eLitigation Project Director of any changes in the list of its advocates and solicitors in accordance with the procedure stated in paragraph (5) below.
-
-(5) A registered user shall submit to the eLitigation Project Director on an annual basis, and in any event by the end of May each year, a list of its advocates and solicitors as at the 1st of May of each year.
-
-(6) Additionally, a registered user may at any time submit to the eLitigation Project Director an updated list of its advocates and solicitors in the event of any significant change in the number of its advocates and solicitors.
+## 92. [Deleted]
 
 ## 93. Hard copies of documents filed electronically
 

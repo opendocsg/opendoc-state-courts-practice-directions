@@ -10,7 +10,7 @@
 
 ## 97. Sale of immovable property
 
-(1) If an execution creditor wishes to effect the sale of immovable property seized under a writ of seizure and sale, he shall file the requisite electronic form Request for sale to the Bailiff through the Electronic Filing Service stating the following:
+(1) If an execution creditor wishes to effect the sale of immovable property seized under a writ of seizure and sale, he shall file the requisite electronic form Request for sale to the Bailiff through the Electronic Filing Service. When filing the Request, the execution creditor must provide evidence of the following (if not already provided previously):
 
 > (a) the date of registration (and expiry) at the Singapore Land Registry of the order of court/writ of seizure and sale on immovable property;
 
@@ -76,7 +76,7 @@ The execution creditor or his solicitors shall, at the Bailiff’s request, furn
 
 ## 99. Directions for Engaging Authorised Bailiffs under Section 15A State Courts Act (Cap. 321)
 
-(1) Judgment creditors may engage, for the purpose of executing a writ of seizure and sale for movable property or a writ of distress, any person from the Panel of Authorised Bailiffs maintained by the Registrar (see <https://www.statecourts.gov.sg/CivilCase/Documents/Bailiffss15Apanel.pdf>).  They are liable to the Authorised Bailiff they engage for any costs arising from such appointment.
+(1) Judgment creditors may engage, for the purpose of executing a writ of seizure and sale for movable property or a writ of distress, any person from the Panel of Authorised Bailiffs maintained by the Registrar (see https://www.statecourts.gov.sg/CivilCase/Documents/Bailiffss15Apanel.pdf).  They are liable to the Authorised Bailiff they engage for any costs arising from such appointment.
 
 (2) In each case, a request in the form of a Letter of Authority to Act as Authorised Bailiff, is to be made to the Registrar by either the judgment creditors or Authorised Bailiff through the Electronic Filing Service (EFS), using the template provided for in Form 15 of Appendix A to these Practice Directions.  Appointments by the Registrar will be made on a case-by-case basis.
 
@@ -126,7 +126,7 @@ The execution creditor or his solicitors shall, at the Bailiff’s request, furn
 
 > (a) he is able to provide his answers to the questionnaire by way of an affidavit or statutory declaration; and
 
-> (b) the counsel for the Judgment Creditor agrees to discharge the Order for Examination at the examination hearing.
+> (b) the counsel for the Judgment Creditor agrees to apply for a discharge of the Order for Examination at the examination hearing.
 
 ## 101. Committal proceedings
 

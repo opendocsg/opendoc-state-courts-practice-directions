@@ -2,84 +2,44 @@
 
 ## 108. Operating hours of the State Courts
 
-The various courts, offices and counters within the State Courts have different operating hours. These operating hours may be found the State Courts’ website at http://www.statecourts.gov.sg.
+The various courts, offices and counters within the State Courts have different operating hours. These operating hours may be found the Singapore Courts website at https://www.judiciary.gov.sg.        
 
-## 109. Hours for the sittings of the State Courts
+## 109. Hours for the sittings of the State Courts in civil proceedings
 
-(1) The hours for the sittings of the State Courts shall be as follows, subject to the presiding Judge's/Magistrate’s/ Registrar’s discretion in any case to conclude a sitting at such earlier or later time as he may direct:
+(1) The hours for the sittings of the State Courts in civil proceedings shall be as follows, subject to the presiding Judge's/Magistrate’s/ Registrar’s discretion in any case to conclude a sitting at such earlier or later time as he may direct:
 
-> (a) **Mentions Courts** (except Court 4A)
-
->> Mondays to Fridays - 9.00 a.m. to 1.00 p.m. and 2.30 p.m. to 5.30 p.m.;
-
-> (b) **Court 4A**
-
->> Mondays to Fridays - 8.45 a.m. to 1.00 p.m. and 2.30 p.m. to 5.30 p.m.;  
->> Saturdays - 9.00 a.m. to 1.00 p.m.
-
-> (c) **Hearing Courts and Chambers**
+> (a) **Hearing Courts and Chambers**
 
 >> Mondays to Fridays - 9.30 a.m. to 1.00 p.m. and 2.30 p.m. to 5.30 p.m.
-
-> (d) **Night Courts**
-
->> Mondays to Fridays - 6.00 p.m. onwards.
-
-(2) This Practice Direction shall apply to both civil and criminal proceedings.
 
 ## 110. Hearing of urgent applications during weekends and public holidays
 
 (1) There may be occasions when urgent applications for interim injunctions or interim preservation of subject matter of proceedings, evidence and assets to satisfy judgments need to be heard on weekends and public holidays.  To request the urgent hearing of such applications, the applicant should contact the Duty Judicial Officer at 9654 0072 during the operating hours of 8.30 a.m. to 6:00 p.m. on weekends and Public Holidays.  The Duty Judicial Officer will only arrange for the hearing of applications which are so urgent that they cannot be heard the next working day.
 
-(2) All the necessary papers required for the application must be prepared together with the appropriate draft orders of Court.
+(2) All the necessary papers required for the application must be filed using the Electronic Filing Service and appropriate draft orders of Court must be prepared.   
 
-(3) An undertaking from counsel shall be given to have all the documents (including the originating process) filed in Court the next available working day must be furnished to the Judicial Officer processing the application.
+(3) The judicial officer processing the application may direct an applicant to tender the application and supporting documents to the Court by email in lieu of filing as well as provide an undertaking from counsel that all the documents (including the originating process) will be filed in Court the next available working day. 
 
-(4) The hearing may take place in the Registry of the State Courts or at any place as directed by the Judicial Officer hearing the matter.
+(4) The judicial officer conducting the urgent hearing may, at his or her discretion, give directions for the urgent hearing to take place remotely or, alternatively, with parties attending in person.
 
-(5) For the avoidance of doubt, the above applies only to civil proceedings in the Magistrates’ Courts or District Courts.
-
-## 111. Duty Registrar and Duty Magistrate
+## 111. Duty Registrar
 
 (1) The duties of the Duty Registrar are —
 
-> (a) to hear applications made *ex parte* or by consent (except probate matters) provided that the summons has been entered in the summonses book;
+> (a) to hear applications made ex parte or by consent provided that the summons has been filed in the Electronic Filing System;
 
 > (b) to grant approval for any matter pertaining to the administration of the Registry, including giving early or urgent dates and allowing inspection of files; and
 
 > (c) to sign and certify documents.
 
-(2) The duties of the Duty Magistrate shall include the examination of complainants when they file a Magistrate’s Complaint.
+(2) The duty hours will be from Mondays to Fridays from 9.30am to 12.30pm and 2.30pm to 5.30pm.
 
-(3) The duty hours shall be as follows:
+(3) Parties seeking to obtain directions and/or orders from the Duty Registrar shall do so by filing an “Other Hearing Related Request” through the Electronic Filing Service, in accordance with the Workflow for Hearings before the Duty Registrar and Duty Judicial Officer, which can be downloaded from the Singapore Courts’ website at https://www.judiciary.gov.sg.   
 
-> (a) Mondays to Fridays - 9.30 a.m. to 1.00 p.m., and 2.30 p.m. to 5.30 p.m.;
+(4) If parties are unable to file a Request on the Electronic Filing Service (eg, because the originating papers for the case have not been filed or accepted), parties may call 6721 7705 to seek directions. In doing so parties should be prepared to explain the urgency of the application or request.
 
-> (b) Saturdays - 9.30 a.m. to 1.00 p.m.
+(5) Except as otherwise directed by the Duty Registrar, the filing of the relevant documents will be sufficient for the Duty Registrar's disposal of any application or matter. Documents which are filed using the Electronic Filing Service will be returned to the advocate and solicitor through the Electronic Filing Service to the inbox of the law firm’s computer system or through the service bureau
 
-(4) Only advocates and solicitors (or, where a party is not represented, a litigant in person) shall appear before the Duty Registrar.
-
-(5)Except where the attendance of the advocate and solicitor is required under paragraph (8), the filing of the relevant documents will be sufficient for the Duty Registrar's disposal of any application or matter.  Documents which are filed using the Electronic Filing Service will be returned to the advocate and solicitor through the Electronic Filing Service to the inbox of the law firm’s computer system or through the service bureau. Documents which are not electronically filed shall be collected from the Registry not earlier than one clear day after the documents have been filed.
-
-(6) All documents which are not required to be filed using the Electronic Filing Service should be duly stamped before presentation to the Duty Registrar for his signature and/or decision.
-
-(7) A solicitor who wishes to attend before a Duty Registrar and to refer him to documents filed using the Electronic Filing Service must either —
-
-> (a) file the document sufficiently far in advance before attending before the Duty Registrar such that the documents are already included in the electronic case file for the Duty Registrar’s reference (and in this regard, solicitors should only attend before the Duty Registrar after they have received notification from the Court that the document has been accepted); or
-
-> (b) attend before the Duty Registrar with the paper documents, if these exist (and in this regard, the Duty Registrar will require the solicitor to give an undertaking to file all the documents by the next working day after the attendance before dealing with the matter).
-
-(8) The advocate and solicitor's attendance is compulsory only:
-
-> (a) when he is requesting an early or urgent date for hearing before the Registrar or Judge;
-
-> (b) when an application or document is returned with the direction “solicitor to attend” ; or
-
-> (c) when so required by any provision of law.
-
-(9) A solicitor may, if he wishes to expedite matters, attend before the Duty Registrar even if his attendance is not ordinarily required.
-
-(10) This Practice Direction shall apply to both civil and criminal proceedings.
 
 ## 112. Attendance of solicitors in Court
 
@@ -115,61 +75,34 @@ The various courts, offices and counters within the State Courts have different 
 
 > (a) any party to proceedings;
 >
-> (b) any witness;
+> (b) any witness; or
 >
-> (c) any counsel; or
+> (c) any counsel; 
 >
-> (d) a Deputy Public Prosecutor or other officer or person appointed by the Attorney-General to assist him or to act as his deputy in the performance of any of the functions or duties of the Public Prosecutor under the Criminal Procedure Code (Cap. 68) or under any other written law,
->
-> is required to attend Court and wishes to excuse himself from Court on medical grounds, he must tender or cause to be tendered to the Court an original medical certificate. The medical certificate so tendered must be in the form and contain the information and particulars required by paragraphs (2) to (5).
+> is required to attend Court (including any hearing conducted by way of live video or live television link) and wishes to absent himself from Court on medical grounds, he must tender or cause to be tendered to the Court an original medical certificate. Where a medical certificate cannot be tendered in person, it may be tendered by any electronic means which the Court may permit.
 
-(2) A medical certificate issued by a Government hospital or clinic may be in the pre-printed form produced by the Ministry of Health, a sample of which appears at Form 22 of Appendix A to these Practice Directions. A medical certificate issued by a restructured hospital or specialist centre may also be in a pre-printed form similar to the sample which appears at Form 22 of Appendix A to these Practice Directions. The pre-printed medical certificate must:
+(2) (2)	Any medical certificate tendered to the Court under paragraph (1) must:
 
-> (a) be completely and properly filled in;
+> (a) state the name of the medical practitioner who issued the certificate;
 >
-> (b) contain the name of the medical practitioner who issued the medical certificate;
+> (b) state the name of the hospital or clinic at which it was issued;
 >
-> (c) state the name of the hospital or clinic in which the medical practitioner practices;
+> (c)	state the contact details of the medical practitioner and also of the hospital or clinic;
 >
-> (d) indicate that the person to whom the certificate is issued is unfit to attend Court, and specify the date(s) on which he is unfit to attend Court;
+> (d)	be signed by the medical practitioner;
 >
-> (e) be signed in full by the medical practitioner and must not be merely initialled; and
+> (e)	contain a diagnosis of the patient concerned accompanied by a brief description of the symptom(s) and condition(s) forming the basis for the statement in sub-paragraph (2)(f) below (unless the diagnosis cannot or should not normally be disclosed);
 >
-> (f) be authenticated by a rubber stamp showing the medical practitioner’s full name and his designation in the hospital or clinic, as the case may be.
+> (f)	contain a statement to the effect that the person to whom the certificate is issued is medically unfit to attend Court, and specify the date(s) on which the person is medically unfit to attend Court;
+> 
+>(g)	bear the date on which it was written and, where this differs from the date of consultation, this must be clearly disclosed; and
+>
+> (h)	be the original document issued by the medical practitioner, if it was issued by the medical practitioner in hard copy.
 
-(3) If a medical certificate is not in Form 22 of Appendix A to these Practice Directions, then the medical certificate should:
-
-> (a) be addressed to the Court for which the certificate was intended.  It must not merely be addressed to “whomsoever-it-may-concern”. Where the patient is unable to furnish the name of the judicial officer concerned, the relevant medical certificate may be addressed to “The District Judge/Magistrate, State Courts” or “The Registrar, Small Claims Tribunals”, as the case may be;
->
-> (b) identify clearly the name of the medical practitioner who issued the certificate;
->
-> (c) state the name of the hospital or clinic from which it had been issued;
->
-> (d) be signed in full by the medical practitioner and not merely initialled;
->
-> (e) be authenticated by a rubber stamp showing the medical practitioner’s full name, designation and any other relevant particulars;
->
-> (f) contain the diagnosis of the patient concerned, if any (unless the diagnosis cannot or should not normally be disclosed);
->
-> (g) contain a statement to the effect that the person to whom the certificate had been issued is medically unfit to attend Court, and specify the date(s) on which the person is unfit to attend Court; and
->
-> (h)  bear the date on which it was written, and where this differs from the date of consultation this must be clearly disclosed.
-
-(4) If any portion of the information set out in paragraph (3) is not found in the medical certificate proper, such information should be included in a memorandum attached to the medical certificate.  This memorandum must similarly:
-
-> (a) identify clearly the name of the medical practitioner who issued the memorandum;
->
-> (b) contain the name of the hospital or clinic from which it was issued;
->
-> (c) be signed in full by the medical practitioner and not  merely initialled; and
->
-> (d) be authenticated by a rubber stamp showing the medical practitioner’s full name and designation.
-
-(5) All information and details in any medical certificate or any memorandum must be clearly and legibly printed.
-
-(6) If the Directions set out in paragraphs (2) to (5) are not complied with, the Court may reject the medical certificate and decline to excuse the absence from Court of the person to whom the medical certificate was issued.  The Court may then take any action it deems appropriate.
-
-(7) This Practice Direction shall apply to both civil and criminal proceedings in the State Courts (including the Small Claims Tribunals).
+(3)	If any information specified in paragraph (2) is not stated in the medical certificate itself, such information must be included in a memorandum attached to the medical certificate.  
+(4)	All information and details in any medical certificate or memorandum must be clearly and legibly printed.
+(5)	If any requirement set out in paragraphs (2) to (4) is not complied with, the Court may reject the medical certificate and decline to excuse the attendance of the person to whom the medical certificate was issued. The Court may then take any action it deems appropriate.
+(6)	The Court may, if it deems fit, take steps to contact the medical practitioner who appears to have issued a medical certificate for the purpose of authenticating the medical certificate and, where necessary, the party tendering the medical certificate must provide such assistance to the Court as may be necessary to facilitate such authentication.
 
 ## 115. Precedence and preaudience of Senior Counsel
 
@@ -193,8 +126,6 @@ The various courts, offices and counters within the State Courts have different 
 
 (4) If leave of the Court is not sought in accordance with paragraph (2), only one counsel will be allowed to make submissions or conduct examination for a party throughout the hearing.
 
-(5) This Practice Direction shall apply to both civil and criminal proceedings.
-
 ## 117. Court dress
 
 (1) The attire for male advocates and solicitors appearing in open Court will be an ordinary long-sleeved white shirt with a turn-down collar, a tie of a subdued or sober colour, a dark jacket, dark trousers and black or plain coloured shoes.
@@ -213,13 +144,11 @@ The various courts, offices and counters within the State Courts have different 
 
 > (a)	to take notes of evidence during all hearings or sessions and for any other purpose pertaining to the proceedings; or
 
-> (b)	to communicate with external parties during all hearings in open Court unless the Judge hearing the matter or the person    presiding over the session expressly disallows this.
+> (b)	to communicate with external parties during all hearings in open Court unless the Judge hearing the matter or the person presiding over the session expressly disallows this.
 
-(4) This Practice Direction shall apply to both civil and criminal proceedings in the State Courts (including the Small Claims Tribunals). 
+(4) This Practice Direction shall also apply to all alternative dispute resolution and counselling sessions conducted in the State Courts. 
 
-(5) For the avoidance of doubt, this Practice Direction shall also apply to all alternative dispute resolution and counselling sessions conducted in the State Courts.
-
-(6) The attention of court users is also drawn to section 5 of the Administration of Justice (Protection) Act 2016 (Act No. 19 of 2016).
+(5) The attention of court users is also drawn to section 5 of the Administration of Justice (Protection) Act 2016 (Act No. 19 of 2016).
 
 ## 119. Personal Data
 
@@ -287,35 +216,36 @@ Access to, and correction of, personal data contained in electronic cause books 
 
 (2) Solicitors are further reminded that the State Courts should not be copied on correspondence between parties or their solicitors.
 
-(3) The Registry has the discretion to reject or refuse to act on any inappropriate or ex parte correspondence.
+(3)	The Registry has the discretion to reject or refuse to act on any inappropriate correspondence or correspondence which is not copied to any party in contravention of this Practice Direction.
 
 (4) This Practice Direction shall apply to all proceedings in the State Courts.
 
-## 121. Filing directions to the Accountant-General for payment into and out of Court
+## 121. Filing directions for payment into and out of Court
 
-(1) Where monies are sought to be paid into Court pursuant to a judgment or order of the Court, a copy of the judgment or order must be referenced in the draft direction to the Accountant-General for payment in submitted to the Registry for approval.
+(1)	Where moneys are to be paid into Court pursuant to a judgment or order of the Court, the judgment or order must be referenced in the Direction to the Accountant-General for Payment In and filed into the case file via the Electronic Filing Service for approval by the Court. 
 
-(2) Where monies are sought to be paid out of Court pursuant to a judgment or order of the Court, pursuant to the acceptance of a payment into Court made under Order 22 of the Rules of Court (Cap. 322, R 5), a copy of the judgment or order, or of the notice in Form 32 in Appendix A to the Rules of Court, or of the written consent, must be attached to the draft direction to the Accountant-General for payment out submitted to the Registry for approval.
+(2)	Where a party wishes to furnish security for costs for an appeal filed in the State Courts, the Direction to Accountant-General for Payment In, which shall be prepared using Form 219A of Appendix A of the Rules of Court, must reference the provision in the Rules of Court pursuant to which the security for costs is furnished. 
 
-(3) Every draft direction for payment into or payment out of Court shall contain amounts in a single currency.
+(3)	Where moneys are to be paid out of Court pursuant to a judgment or order of the Court, the judgment or order must be referenced in the Direction to Accountant-General for Payment Out and filed into the case file via the Electronic Filing Service for approval by the Court. The following documents (as the case may be) must, where necessary, accompany the filing of the Direction to Accountant-General for Payment Out and be filed into the case file via the Electronic Filing Service for approval by the Court:
 
-(4) Where monies in different currencies are to be paid into or out of Court, separate draft directions must be prepared for each currency in which payment is to be made.
+>(a)	the Notice of Acceptance of Money Paid into Court in Form 32 of Appendix A to the Rules of Court; or 
 
-## 122. Stamping of documents
+>(b)	the written consent.
 
-(1) Only documents filed in the State Courts will be stamped at the State Courts’ stamp office. The amount of stamp fees payable must be indicated on the top right hand corner of the document. In addition, solicitor’s clerks or solicitors must complete and submit the requisition form set out in Form 24 of Appendix A to these Practice Directions, together with the relevant document(s) to the cashier for stamping.
+(4)	Every Direction to Accountant-General for Payment In or Payment out must contain amounts in a single currency.
 
-(2) Payment should, as far as possible, be made by a solicitor’s cheque, crossed and made payable to:
+(5)	Where moneys in different currencies are to be paid into or out of Court, separate Directions must be prepared for each currency in which payment is to be made.
 
-> “Registrar, State Courts”
+**Direction to Accountant-General for Payment In or Out of Court**
 
-(3) The stamp office shall be opened during the following hours:
+(6)	For payments into Court, after the Direction to Accountant-General for Payment In has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment In Party”) must send a copy of the approved Direction to Accountant-General for Payment In and the judgment or order of Court referenced therein to VITAL by email at VITAL_FS_Receivable@vital.gov.sg. Upon successful receipt of the documents, VITAL will provide instructions on how electronic payment is to be effected. A receipt will be issued by VITAL to the Payment In Party when payment is received by the Accountant-General. 
 
-> (a) Monday to Friday - 9.00 am to 1.00 p.m., and 2.00 p.m. to 4.00 p.m.
+(7)	For payments out of Court, after the Direction to Accountant-General for Payment Out has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment Out Party”) must send a copy of the approved Direction to Accountant-General for Payment Out and the judgment or order of Court referenced therein to VITAL by email to VITAL_FS_Receivable@vital.gov.sg. Upon successful receipt of the documents, VITAL will provide instructions on process for the release of the relevant moneys.
 
-> (b) Saturday - 9.00 am to 12.00 p.m.
 
-## 123. Publication of & Reports and Comments on Court Cases
+## 122. [Deleted]
+
+## 123. Publication of Reports and Comments on Court Cases 
 
 (1) This Practice Direction applies to any solicitor, litigant (whether represented or unrepresented), the media and any other person who reports or comments on any proceedings which are pending before the State Courts.
 

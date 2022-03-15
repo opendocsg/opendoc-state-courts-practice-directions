@@ -34,7 +34,7 @@
 <li><a href="./downloads/Appendix-A-Form-12.pdf" download>Form 12: Note to Expert Witness</a></li>
 <li><a href="./downloads/Appendix-A-Form-12A.pdf" download>Form 12A: Joint Expert Report</a></li>
 <li><a href="./downloads/Appendix-A-Form-13.pdf" download>Form 13: Index to Agreed Bundle of Documents</a></li>
-<li><a href="./downloads/Appendix-A-Form-14.pdf" download>Form 14: Application to be Registered User of the Electronic Filing Service</a></li>
+<li> Form 14: [Deleted]</li>
 <li><a href="./downloads/Appendix-A-Form-15.pdf" download>Form 15: Letter of Authority to act as Authorised Bailiff</a></li>
 <li><a href="./downloads/Appendix-A-Form-16.pdf" download>Form 16</a></li>
 <li><a href="./downloads/Appendix-A-Form-17.pdf" download>Form 17</a></li>
@@ -42,85 +42,87 @@
 <li><a href="./downloads/Appendix-A-Form-19.pdf" download>Form 19: Bill of Costs for Contentious Business Other Than Trials</a></li>
 <li><a href="./downloads/Appendix-A-Form-20.pdf" download>Form 20: Bill of Costs for Non-Contentious Business</a></li>
 <li><a href="./downloads/Appendix-A-Form-21.pdf" download>Form 21: Notice of Dispute on Bill of Costs</a></li>
-<li><a href="./downloads/Appendix-A-Form-22.pdf" download>Form 22: Specimen Government Medical Certificate</a></li>
-<li>Form 23: [Deleted]</li>
-<li><a href="./downloads/Appendix-A-Form-24.pdf" download>Form 24: Requisition for Impressed Stamps</a></li>
-<li><a href="./downloads/Appendix-A-Form-25.pdf" download>Form 25: Noting of Appearance of Advocates/Prosecutors</a></li>
-<li><a href="./downloads/Appendix-A-Form-26.pdf" download>Form 26: Application for Records of Criminal Proceedings for Non-ICMS Cases</a></li>
-<li><a href="./downloads/Appendix-A-Form-27.pdf" download>Form 27: Mention Slip</a></li>
-<li><a href="./downloads/Appendix-A-Form-28.pdf" download>Form 28</a></li>
-<li><a href="./downloads/Appendix-A-Form-29.pdf" download>Form 29</a></li>
-<li><a href="./downloads/Appendix-A-Form-30.pdf" download>Form 30</a></li>
-<li><a href="./downloads/Appendix-A-Form-31.pdf" download>Form 31: Notice of Pre-Trial Conference</a></li>
-<li><a href="./downloads/Appendix-A-Form-32.pdf" download>Form 32: Notice of Hearing</a></li>
-<li><a href="./downloads/Appendix-A-Form-33A.pdf" download>Form 33A</a></li>
-<li><a href="./downloads/Appendix-A-Form-33B.pdf" download>Form 33B</a></li>
-<li><a href="./downloads/Appendix-A-Form-34A.pdf" download>Form 34A</a></li>
-<li><a href="./downloads/Appendix-A-Form-34B.pdf" download>Form 34B</a></li>
-<li><a href="./downloads/Appendix-A-Form-35.pdf" download>Form 35</a></li>
-<li><a href="./downloads/Appendix-A-Form-36.pdf" download>Form 36</a></li>
-<li><a href="./downloads/Appendix-A-Form-37.pdf" download>Form 37</a></li>
-<li><a href="./downloads/Appendix-A-Form-38.pdf" download>Form 38</a></li>
-<li><a href="./downloads/Appendix-A-Form-39.pdf" download>Form 39</a></li>
-<li><a href="./downloads/Appendix-A-Form-40.pdf" download>Form 40</a></li>
-<li><a href="./downloads/Appendix-A-Form-41.pdf" download>Form 41</a></li>
-<li><a href="./downloads/Appendix-A-Form-42.pdf" download>Form 42: Notice of Hearing of Application for Leave to Appeal</a></li>
-<li><a href="./downloads/Appendix-A-Form-43.pdf" download>Form 43: Notice of Appeal</a></li>
-<li><a href="./downloads/Appendix-A-Form-44.pdf" download>Form 44: Certificate for Security for Costs</a></li>
-<li><a href="./downloads/Appendix-A-Form-45.pdf" download>Form 45: Undertaking for Security for Costs</a></li>
-<li><a href="./downloads/Appendix-A-Form-46.pdf" download>Form 46: Certificate for Security for Costs (By Way of an Undertaking)</a></li>
-<li><a href="./downloads/Appendix-A-Form-47.pdf" download>Form 47</a></li>
-<li><a href="./downloads/Appendix-A-Form-48.pdf" download>Form 48</a></li>
-<li><a href="./downloads/Appendix-A-Form-49.pdf" download>Form 49</a></li>
-<li><a href="./downloads/Appendix-A-Form-50.pdf" download>Form 50</a></li>
-<li><a href="./downloads/Appendix-A-Form-51.pdf" download>Form 51</a></li>
-<li><a href="./downloads/Appendix-A-Form-52.pdf" download>Form 52</a></li>
-<li><a href="./downloads/Appendix-A-Form-53.pdf" download>Form 53</a></li>
-<li><a href="./downloads/Appendix-A-Form-54.pdf" download>Form 54</a></li>
-<li><a href="./downloads/Appendix-A-Form-55.pdf" download>Form 55</a></li>
-<li><a href="./downloads/Appendix-A-Form-56.pdf" download>Form 56</a></li>
-<li><a href="./downloads/Appendix-A-Form-57.pdf" download>Form 57</a></li>
-<li><a href="./downloads/Appendix-A-Form-58.pdf" download>Form 58</a></li>
-<li><a href="./downloads/Appendix-A-Form-59.pdf" download>Form 59</a></li>
-<li><a href="./downloads/Appendix-A-Form-60.pdf" download>Form 60</a></li>
-<li><a href="./downloads/Appendix-A-Form-61.pdf" download>Form 61</a></li>
-<li><a href="./downloads/Appendix-A-Form-62.pdf" download>Form 62</a></li>
-<li><a href="./downloads/Appendix-A-Form-63.pdf" download>Form 63</a></li>
-<li><a href="./downloads/Appendix-A-Form-64.pdf" download>Form 64</a></li>
-<li><a href="./downloads/Appendix-A-Form-65.pdf" download>Form 65</a></li>
-<li><a href="./downloads/Appendix-A-Form-66.pdf" download>Form 66</a></li>
-<li><a href="./downloads/Appendix-A-Form-67.pdf" download>Form 67</a></li>
-<li><a href="./downloads/Appendix-A-Form-68.pdf" download>Form 68</a></li>
-<li><a href="./downloads/Appendix-A-Form-69.pdf" download>Form 69</a></li>
-<li>Form 70: [Deleted]</li>
-<li><a href="./downloads/Appendix-A-Form-71.pdf" download>Form 71</a></li>
-<li><a href="./downloads/Appendix-A-Form-72.pdf" download>Form 72</a></li>
-<li><a href="./downloads/Appendix-A-Form-73.pdf" download>Form 73</a></li>
-<li><a href="./downloads/Appendix-A-Form-74.pdf" download>Form 74</a></li>
-<li><a href="./downloads/Appendix-A-Form-75.pdf" download>Form 75</a></li>
-<li><a href="./downloads/Appendix-A-Form-76.pdf" download>Form 76</a></li>
-<li><a href="./downloads/Appendix-A-Form-77.pdf" download>Form 77</a></li>
-<li><a href="./downloads/Appendix-A-Form-78.pdf" download>Form 78</a></li>
-<li><a href="./downloads/Appendix-A-Form-79.pdf" download>Form 79</a></li>
-<li><a href="./downloads/Appendix-A-Form-80.pdf" download>Form 80</a></li>
-<li><a href="./downloads/Appendix-A-Form-81.pdf" download>Form 81</a></li>
-<li><a href="./downloads/Appendix-A-Form-82.pdf" download>Form 82</a></li>
-<li><a href="./downloads/Appendix-A-Form-83.pdf" download>Form 83</a></li>
-<li><a href="./downloads/Appendix-A-Form-84.pdf" download>Form 84</a></li>
-<li><a href="./downloads/Appendix-A-Form-85.pdf" download>Form 85</a></li>
-<li><a href="./downloads/Appendix-A-Form-86.pdf" download>Form 86</a></li>
-<li><a href="./downloads/Appendix-A-Form-87.pdf" download>Form 87</a></li>
-<li><a href="./downloads/Appendix-A-Form-88.pdf" download>Form 88</a></li>
-<li><a href="./downloads/Appendix-A-Form-89.pdf" download>Form 89</a></li>
-<li><a href="./downloads/Appendix-A-Form-90.pdf" download>Form 90</a></li>
-<li><a href="./downloads/Appendix-A-Form-91.pdf" download>Form 91</a></li>
-<li><a href="./downloads/Appendix-A-Form-92.pdf" download>Form 92</a></li>
-<li><a href="./downloads/Appendix-A-Form-93.pdf" download>Form 93</a></li>
-<li><a href="./downloads/Appendix-A-Form-94.pdf" download>Form 94</a></li>
-<li><a href="./downloads/Appendix-A-Form-95.pdf" download>Form 95</a></li>
-<li><a href="./downloads/Appendix-A-Form-96.pdf" download>Form 96</a></li>
-<li><a href="./downloads/Appendix-A-Form-97.pdf" download>Form 97</a></li>
-<li><a href="./downloads/Appendix-A-Form-98.pdf" download>Form 98</a></li>
+<li> Form 22: [Deleted]</li>
+<li> Form 23: [Deleted]</li>
+<li> Form 24: [Deleted]</li>
+<li> Form 24:[Deleted]</li>
+<li> Form 25:[Deleted]</li>
+<li> Form 26:[Deleted]</li>
+<li> Form 27:[Deleted]</li>
+<li> Form 28:[Deleted]</li>
+<li> Form 29:[Deleted]</li>
+<li> Form 30:[Deleted]</li>
+<li> Form 31:[Deleted]</li>
+<li> Form 32:[Deleted]</li>
+<li> Form 33:[Deleted]</li>
+<li> Form 34:[Deleted]</li>
+<li> Form 35:[Deleted]</li>
+<li> Form 36:[Deleted]</li>
+<li> Form 37:[Deleted]</li>
+<li> Form 38:[Deleted]</li>
+<li> Form 39:[Deleted]</li>
+<li> Form 40:[Deleted]</li>
+<li> Form 41:[Deleted]</li>
+<li> Form 42:[Deleted]</li>
+<li> Form 43:[Deleted]</li>
+<li> Form 44:[Deleted]</li>
+<li> Form 45:[Deleted]</li>
+<li> Form 46:[Deleted]</li>
+<li> Form 47:[Deleted]</li>
+<li> Form 48:[Deleted]</li>
+<li> Form 49:[Deleted]</li>
+<li> Form 50:[Deleted]</li>
+<li> Form 51:[Deleted]</li>
+<li> Form 52:[Deleted]</li>
+<li> Form 53:[Deleted]</li>
+<li> Form 54:[Deleted]</li>
+<li> Form 55:[Deleted]</li>
+<li> Form 56:[Deleted]</li>
+<li> Form 57:[Deleted]</li>
+<li> Form 58:[Deleted]</li>
+<li> Form 59:[Deleted]</li>
+<li> Form 60:[Deleted]</li>
+<li> Form 61:[Deleted]</li>
+<li> Form 62:[Deleted]</li>
+<li> Form 63:[Deleted]</li>
+<li> Form 64:[Deleted]</li>
+<li> Form 65:[Deleted]</li>
+<li> Form 66:[Deleted]</li>
+<li> Form 67:[Deleted]</li>
+<li> Form 68:[Deleted]</li>
+<li> Form 69:[Deleted]</li>
+<li> Form 70:[Deleted]</li>
+<li> Form 71:[Deleted]</li>
+<li> Form 72:[Deleted]</li>
+<li> Form 73:[Deleted]</li>
+<li> Form 74:[Deleted]</li>
+<li> Form 75:[Deleted]</li>
+<li> Form 76:[Deleted]</li>
+<li> Form 77:[Deleted]</li>
+<li> Form 78:[Deleted]</li>
+<li> Form 79:[Deleted]</li>
+<li> Form 80:[Deleted]</li>
+<li> Form 81:[Deleted]</li>
+<li> Form 82:[Deleted]</li>
+<li> Form 83:[Deleted]</li>
+<li> Form 84:[Deleted]</li>
+<li> Form 85:[Deleted]</li>
+<li> Form 86:[Deleted]</li>
+<li> Form 87:[Deleted]</li>
+<li> Form 88:[Deleted]</li>
+<li> Form 89:[Deleted]</li>
+<li> Form 90:[Deleted]</li>
+<li> Form 91:[Deleted]</li>
+<li> Form 92:[Deleted]</li>
+<li> Form 93:[Deleted]</li>
+<li> Form 94:[Deleted]</li>
+<li> Form 95:[Deleted]</li>
+<li> Form 96:[Deleted]</li>
+<li> Form 97:[Deleted]</li>
+<li> Form 98:[Deleted]</li>
+<li> Form 99:[Deleted]</li>
+<li> Form 100:[Deleted]</li>
+
 </ul>
 
 ## Appendix B: Guidelines for Court Dispute Resolution for Non-Injury Motor Accident Claims and Personal Injury Claims
@@ -975,7 +977,7 @@ is less than $20,000 (excluding interest, if any), the Court will in general, aw
 ### Forms
 
 <ul type="*">
-<li><a href="./downloads/Appendix-E-Form-2.pdf" download>Form 1: Sample Letter of Claim to Potential Defendant</a></li>
+<li><a href="./downloads/Appendix-E-Form-1.pdf" download>Form 1: Sample Letter of Claim to Potential Defendant</a></li>
 
 <li><a href="./downloads/Appendix-E-Form-2.pdf" download>Form 2: Sample Acknowledgement Letter of Claim</a></li>
 
@@ -1375,177 +1377,7 @@ is less than $20,000 (excluding interest, if any), the Court will in general, aw
 
 <li><a href="./downloads/Appendix-K-Form-4.pdf" download>Form 4: Sample Acknowledgment of Receipt</a></li>
 
-<li><a href="./downloads/Appendix-K-Form-1.pdf" download>Form 5: Pre-Protocol Checklist to be Filed with Statement of Claim</a></li>
+<li><a href="./downloads/Appendix-K-Form-5.pdf" download>Form 5: Pre-Protocol Checklist to be Filed with Statement of Claim</a></li>
 </ul>
 
-## Appendix L - Pre-Action Protocol for Business-to-Business Debt Claims
-
-### Application
-
-1.	This Protocol applies to any action that is commenced in the State Courts by a business (the “creditor”) against another business (the “debtor”) arising from a business-to-business claim.
-
-2.	For the purpose of this Protocol —
-
-	“business” includes:
-
-> (a)	a sole proprietorship;
-
-> (b)	a partnership;
-
-> (c)	a company, including a foreign company;
-
-> (d)	a limited partnership; and
-
-> (e)	a limited liability partnership.
-
-“business-to-business claim” means a claim by a business entity (being the creditor) against another business entity (being the debtor) for a contractual debt that falls within any of the following categories:
-
-> (a)	a claim for payment for the sale of goods or the supply of services (except for construction and renovation services);
-
-> (b)	a claim for payment for rental or for the hire-purchase of goods;
-
-> (c)	a claim under a banking, overdraft, or other credit facility; and/or
-
-> (d)	a claim under a guarantee.
-
-3.	A creditor must comply with the framework prescribed in this Protocol before commencing proceedings in the State Courts. Creditors and debtors may adapt the Forms in this Protocol where necessary to suit the facts of their case. Also, this Protocol is in addition to any negotiations that creditors and debtors may be conducting privately or on a “without prejudice” basis. In following this Protocol, creditors and debtors should act reasonably to keep costs proportionate to the nature and gravity of the case and the stage that the dispute has reached.  
-
-4.	The Protocol operates in addition to the simplified process in O 108 of the Rules of Court (Cap 322, R 5), but does not affect the small claims process under the Small Claims Tribunals Act (Cap 308).
-
-### Objectives
-
-5.	This Protocol provides a framework for resolving business-to-business claims before the commencement of legal proceedings in the State Courts.
-
-6.	This Protocol has the following aims:
-
-> (a)	helping creditors and debtors identify the quantum of the sum disputed (including interest);
-
-> (b)	helping creditors and debtors identify the material issues implicated by their dispute;
-
-> (c)	helping creditors and debtors identify the documents relevant to their dispute;
-
-> (d)	encouraging early disclosure of relevant documents and information;
-
-> (e)	encouraging early communications and negotiations leading to settlement; and
-
-> (f)	supporting the efficient management of proceedings that cannot be avoided by facilitating the drafting of proper pleadings and by narrowing the issues in dispute.
-
-### Letter of Claim
-
-7.	Before commencing formal proceedings in the State Courts, the creditor must send to the debtor a Letter of Claim in the form set out in Form 1 to this Protocol. The Letter of Claim should be marked “Private and Confidential: to be opened by addressee only”, but should not be marked “Without Prejudice”.
-
-8.	The Letter of Claim should state the following:
-
-> (a)	the name of the creditor;
-
-> (b)	the amount of the debt;
-
-> (c)	whether interest or other charges are continuing;
-
-> (d)	where the debt arises from an oral agreement, who made the agreement, what was agreed (including, as far as possible, what words were used) and when and where it was agreed;
-
-> (e)	where the debt arises from a written agreement, the date of the agreement, the parties to it and the fact that a copy of the written agreement can be requested from the creditor;
-
-> (f)	where the debt has been assigned, the details of the original debt and creditor, when it was assigned and to whom;
-
-> (g)	if payment of the debt through regular instalments have been offered by or on behalf of the debtor, an explanation of why the offer is not acceptable and why a court claim is still considered;
-
-> (h)	details of how the debt can be paid (e.g., the method of and address for payment) and details of how to proceed if the debtor wishes to discuss payment options;
-
-> (i)	the timeframe given for debtor to respond; save in cases of exceptional urgency, the debtor should be given at least 28 days to respond; if a shorter timeframe is imposed, the creditor should explain the reasons for the urgency; and
-
-> (j)	a statement by the creditor as to which of any of the alternative dispute resolution (“ADR”) options (set out at paragraphs [21]–[24] below) it proposes to use for the resolution of the dispute for the debtor to consider.
-
-9.	The Letter of Claim should also state the amount of interest incurred and any administrative or other charges imposed since the debt was incurred. It should further enclose, where available, an updated statement of account for the debt that includes details of any interest and administrative or other charges added. The Letter of Claim should be sent to the registered address or the last known address of the debtor.
-
-10.	The Letter of Claim together with these enclosures (if any) must be sent to the debtor by way of certificate of posting, registered post, or any other mode that provides the creditor with a written acknowledgement of posting or delivery.
-
-11.	Nothing in this Protocol should be construed to operate as a stay of the time limited for the doing of any act as prescribed by the Limitation Act (Cap. 163). If, by reason of complying with any part of this Protocol, a claim may be time-barred under any provision of the Limitation Act, the creditor may commence proceedings without complying with this Protocol, or so much of this Protocol that he is unable to comply with by reason of the impending operation of an applicable limitation period.
-
-11A.	Circumstances that may give rise to a case of “exceptional urgency” (referred to [8(i)] above) include the following:
-
-> (a)	where there is evidence that the debtor is in financial difficulties and likely to go into liquidation; 
-
-> (b)	where there is evidence of dissipation (or attempted dissipation) of the assets on the part of the debtor; and/or
-
-> (c)	where the liability and quantum of the claim are not disputed by the debtor and there is evidence that the debtor is merely delaying repayment. 
-
-
-### Response to Letter of Claim
-
-12.	The debtor must provide a Response to the creditor within 14 days of the receipt of the Letter of Claim (or such shorter time limit as specified in the Letter of Claim). The Response must be in accordance with Form 2 to this Protocol, and should contain the following information:
-
-> (a)	whether, and to what extent, the creditor’s claim is accepted, whether more information is required or whether the claim is rejected;
-
-> (b)	if the claim is accepted in whole or in part, the terms of repayment that the debtor is willing to offer;
-
-> (c)	if more information is required, precisely what information is needed in order to enable the claim to be dealt with and why;
-
-> (d)	if the claim is rejected, an explanation of the reasons why it is rejected, including a sufficient indication of any fact on which the debtor is likely to rely in support of any substantive defence (eg, details of defects in the goods sold or services supplied, payments made but not taken into account in the creditor’s Letter of Claim, etc.); and
-
-> (e)	whether the debtor agrees to the ADR option proposed by the creditor, and if not, which of the ADR options set out below it wishes to propose for the resolution of the dispute.
-
-13.	Where a debtor indicates in the Response that it requires time to pay, the creditor and debtor should try to reach agreement for the debt to be paid by affordable instalments, based on the debtor’s revenues and expenses. If the creditor does not agree to a debtor’s proposal for repayment of the debt, it should give the debtor reasons in writing.
-
-14.	A partially completed Response should be taken by the creditor as an attempt by the debtor to engage with the matter. The creditor is encouraged to contact the debtor to discuss the Response and obtain any further information needed to help resolve the dispute amicably.
-
-15.	The Response must be sent by way of certificate of posting, registered post, email or any other mode which provides the debtor with a written acknowledgement of posting or delivery.
-
-16.	If no Response is received by the creditor within the timeframe set out in the Letter of Claim, the creditor is entitled to commence proceedings without further compliance with this Protocol.
-
-### Disclosure of Documents
-
-17.	Early disclosure of documents and relevant information helps to clarify or resolve any issues in dispute. Where any aspect of the debt is disputed (including the amount, interest, charges, time for payment, or the creditor’s compliance with relevant statutes and regulations), the creditor and the debtor should exchange all documents that they will be relying on if the matter eventually proceeds to trial.
-
-18.	If either the creditor or debtor requests a document or information, the other party must within 14 days of receiving the request provide the document or information sought, or explain why the document or information sought is unavailable.
-
-### Counterclaim
-
-19.	If the debtor intends to make a counterclaim or a cross-claim in the nature of a contractual debt against the creditor, it must include the information at paragraphs [8]–[9] above in its Response.
-
-20.	The creditor should then provide a Response to any such counterclaim within the equivalent period allowed to the debtor to respond to the Letter of Claim.
-
-### Alternative Dispute Resolution Options
-
-21.	The Court regards ADR as crucial in the efficient and cost-effective resolution of disputes. The following are some ADR options that creditors and debtors should consider prior to commencing an action:
-
-> (a)	mediation at the Singapore Mediation Centre;
-
-> (b)	mediation at the Singapore International Mediation Centre; and
-
-> (c)	mediation under the Law Society Mediation Scheme.
-
-22.	The above list is non-exhaustive and creditors and debtors are free to consider and propose other ADR mechanisms to resolve the dispute.
-
-23.	If the creditor and the debtor are able to agree on a mode of ADR, the creditor should submit the relevant request for ADR (depending on chosen mode of ADR) within 14 days of their agreement to initiate the ADR process.
-
-24.	No creditor or debtor can be compelled to enter into any form of ADR.
-
-### Pre-Action Protocol Checklist
-
-25.	Where the creditor decides to commence litigation, he must file, together with the statement of claim, a duly completed Pre-Action Protocol Checklist in Form 3 to this Protocol.
-
-### Repayment Plan Calculator
-
-26.	Creditors and debtors may in making their proposals have recourse to the following Repayment Plan Calculator available at:
-https://www.statecourts.gov.sg/cws/Resources/Documents/B2B%20Protocol%20-%20Repayment%20Plan%20-%20clean.xlsx
-
-### Sanctions for Non-Compliance
-
-28.	The Court will have regard to compliance and non-compliance with this Protocol in exercising its discretion and powers as to costs.
-
-### Forms
-<ul type="*">
-<li><a href="./downloads/Appendix L-Form 1.pdf" download>Form 1: Letter of Claim</a></li>
-
-<li><a href="./downloads/Appendix L-Form 2.pdf" download>Form 2: Response To Letter Of Claim</a></li>
-
-<li><a href="./downloads/Appendix L-Form 3.pdf" download>Form 3: Sample Acknowledgment of Receipt</a></li>
-
-<li><a href="./downloads/Appendix L-Form 4.pdf" download>Form 4: Pre-Action Protocol Checklist To Be Filed With Statement Of Claim</a></li>
-
-</ul>
-
-## Footnotes
-
-[^17]: Please refer to Order 92, Rule 1 of the Rules of Court (Cap. 322 R 5).
+## Appendix L - [Deleted]
