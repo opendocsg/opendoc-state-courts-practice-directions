@@ -8,7 +8,7 @@
 
 ### Release of witness upon completion of evidence
 
-(2) It has been brought to the attention of the Court that generally witnesses have not been told that they are free to leave the Court after they have completed their evidence. To remedy this, every witness will be released by the Court upon completion of his evidence and it is the duty of counsel to apply to the Court if counsel desires the witness to remain. This paragraph shall apply to both civil and criminal proceedings.
+(2) It has been brought to the attention of the Court that generally witnesses have not been told that they are free to leave the Court after they have completed their evidence. To remedy this, every witness will be released by the Court upon completion of his evidence and it is the duty of counsel to apply to the Court if counsel desires the witness to remain. 
 
 ## 52A. Giving of evidence by person outside Singapore through live video or live television link in any proceedings (other than proceedings in a criminal matter)
 
@@ -50,9 +50,9 @@
 
 > (e) Every page of the affidavit (*including* separators and exhibits) shall be paginated consecutively, and the page number shall be placed at the top right hand corner of the page.
 
-### Affidavits that are not filed electronically
+### Affidavits that are not filed electronically or hard copies of affidavits filed electronically
 
-(2) This paragraph applies to affidavits which are not required to be filed through the Electronic Filing Service.
+(2) This paragraph applies to affidavits which are not required to be filed through the Electronic Filing Service and to hard copies of affidavits filed through the Electronic Filing Service. 
 
 > (a) **Form of affidavits generally**
 
@@ -60,9 +60,7 @@
 
 >> (ii) The paper used shall be white.
 
->> (iii) Affidavits shall be produced by printing, lithography or typewriting, and in any case not by carbon copying.  A document produced by a photographic or similar process giving a positive and permanent representation free from blemishes will be treated, to the extent that it contains a facsimile of matter produced by one of the above processes, as if it were so produced.  Photographic copies which are not clearly legible will be rejected.
-
->> (iv) Affidavits shall be printed or typed, double-spaced, on one side or both sides of the paper.
+>> (iii) Affidavits shall be printed or typed, double-spaced, on one side or both sides of the paper.
 
 > (b) **Markings on affidavits**
 
@@ -104,7 +102,7 @@
 
 > (a) Every page of every exhibit must be fully and clearly legible. Where necessary, magnified copies of the relevant pages should be interleaved in appropriate places.
 
-> (b) Every page of the exhibits, *including dividing sheets or separators between exhibits*, shall be consecutively numbered at the top right hand corner of each page, taking as its first number the number that follows the number of the last sheet of the affidavit.
+> (b) Every page of the exhibits, _including cover pages, dividing sheets or separators between exhibits_, shall be consecutively numbered at the top right hand corner of each page, taking as its first number the number that follows the number of the last sheet of the affidavit’s main text.
 
 > (c) Each exhibit in the affidavit must be separately book-marked in the Portable Document Format (PDF) document that is filed. For this purpose —
 
@@ -114,9 +112,9 @@
 
 > (d) Where a deponent wishes to refer to documents already exhibited to some other deponent’s affidavit, he must exhibit them to his own affidavit pursuant to Order 41 Rule 11 of the Rules of Court (Cap. 322, R 5).
 
-### Exhibits to affidavits that are not filed electronically
+### Exhibits to affidavits that are not filed electronically or hard copies of affidavits filed electronicallyy
 
-(6) This paragraph applies to exhibits to affidavits that are not required to be filed through the Electronic Filing Service.
+(6) This paragraph applies to exhibits to affidavits that are not required to be filed through the Electronic Filing Service and to exhibits to hard copies of affidavits filed electronically.
 
 > (a) Every page of every exhibit must be fully and clearly legible.  Where necessary, magnified copies of the relevant pages should be interleaved in appropriate places.
 
@@ -148,7 +146,7 @@
 
 > (d) **Pagination**
 
-> Every page of the exhibits (but not the dividing sheets mentioned in sub-paragraph (b) above) shall be consecutively numbered at the top right hand corner of each page, taking as its first number the number that follows the number of the last sheet of the affidavit.
+> Every page of the exhibits, _including cover pages, dividing sheets or separators between exhibits_, shall be consecutively numbered at the top right hand corner of each page, taking as its first number the number that follows the number of the last sheet of the affidavit’s main text.
 
 > (e) **Numbering**
 
@@ -161,6 +159,10 @@
 > (g) **Related documents**
 
 > Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with sub-paragraph (d) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
+
+> (g) **References to exhibits in text of affidavit**
+
+> 	Where the text of an affidavit makes reference to a documentary exhibit, the page number(s) of the affidavit where the relevant portions of the documentary exhibit can be found should be set out alongside the number of the exhibit in question.   
 
 ## 54A Swearing and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video link or live television link
 
@@ -182,7 +184,6 @@
 
 (5) Save in exceptional circumstances, the State Courts will not entertain requests from advocates and solicitors for its commissioners for oaths to swear or affirm affidavits or statutory declarations or administer oaths to a deponent outside the State Courts’ premises.  Advocates and solicitors appointed as commissioners for oaths and who are proficient in the language or dialect in which the affidavits or statutory declarations are to be sworn or affirmed, or in which oaths are to be taken, are instead encouraged to perform this function.
 
-(6) This Practice Direction shall apply to both civil and criminal proceedings.
 
 ## 56. Effect of non-compliance
 
@@ -206,7 +207,7 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 
 ## 59. Request for court interpreters
 
-(1) Any party requiring the services of an interpreter of the Court for any of its witnesses must inform the Registrar in writing no later than 2 working days from the date of the PTC or other proceeding at which the hearing date is fixed or 2 weeks before the day when the interpreter is required, whichever is earlier. This practice is to be followed for all fresh and adjourned hearings, whether in open Court or in chambers.
+(1) Any party requiring the services of an interpreter of the Court for any of its witnesses must inform the Registrar in writing no later than 2 weeks before the day when the interpreter is required. This practice is to be followed for all fresh and adjourned hearings, whether in open Court or in chambers. 
 
 (2) Where an interpreter is required and the Registrar has not been so informed, any deployment of an interpreter will be subject to availability.
 
@@ -230,7 +231,9 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 
 (4) Where the services of the interpreter requested are no longer required prior to the start of the hearing, such as in the event of a settlement prior to the trial, the party who has requested the services of the interpreter must inform the Registrar in writing immediately.
 
-(5) This directions in this Practice Direction shall apply to both civil and criminal proceedings, except that for civil proceedings, the requesting party must file a “Request for Hearing Administrative Support” through the Electronic Filing Service.
+(5) The requesting party must file a “Request for Hearing Administrative Support” through the Electronic Filing Service.
+
+(6) The languages and dialects for which Court interpreters are provided may be found at https://www.judiciary.gov.sg/ .
 
 ## 60. Use of Expert Witness (in cases other than Non-Injury Motor Accident Claims)
 
