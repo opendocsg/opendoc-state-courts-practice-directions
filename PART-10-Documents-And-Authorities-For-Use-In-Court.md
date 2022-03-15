@@ -48,7 +48,7 @@
 
 > (b) originating summonses ordered to be continued as if the cause of action had been begun by writ.
 
-(2) Order 34, Rule 3A of the Rules of Court requires the originals of the affidavits of the evidence-in-chief of all witnesses and a bundle of documents to be filed not less than 5 working days before the trial of an action.  This Practice Direction prescribes the contents and the format of the bundle of documents.  In addition, to improve the conduct of civil proceedings and to reduce the time taken in the presentation of cases in Court, the following documents shall also be prepared by the respective solicitors of the parties:
+(2) Order 34, Rule 3A of the Rules of Court requires the originals of the affidavits of the evidence-in-chief of all witnesses and a bundle of documents to be filed not less than 5 working days before the trial of an action.  In addition, to improve the conduct of civil proceedings and to reduce the time taken in the presentation of cases in Court, the following documents shall also be prepared by the respective solicitors of the parties:
 
 > (a) a bundle of authorities; and
 
@@ -74,7 +74,7 @@
 
 > (b) Under Order 34, Rule 3A (3) of the Rules of Court it is the responsibility of solicitors for all parties to agree and prepare an agreed bundle as soon as possible.  The scope to which the agreement extends must be stated in the index sheet of the agreed bundle.
 
-> (c) The documents in the bundles should —
+> (c) Hard copies of the documents in the bundles should —
 
 >> (i) be firmly secured together with plastic ring binding or plastic spine thermal binding, and such rings or spines should be red for plaintiffs and blue for defendants with a transparent plastic cover in front and at the back;
 
@@ -94,7 +94,7 @@
 
 ### Bundle of authorities
 
-(9) The bundle of authorities to be prepared by each party should:
+(9) Hard copies of the bundle of authorities to be prepared by each party should:
 
 > (a) contain all the authorities, cases, statutes, subsidiary legislation and any other materials relied on;
 
