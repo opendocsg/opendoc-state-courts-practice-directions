@@ -4,13 +4,13 @@
 
 ### Introduction
 
-(1) This Practice Direction applies to all proceedings in the State Courts, including criminal proceedings.
+(1) This Practice Direction applies to all proceedings in the State Courts.
 
-(2) The State Courts may conduct hearings by video conferencing or telephone conferencing using an approved remote communication technology. The list of approved remote communication technologies will be published on the State Courts website at http://www.statecourts.gov.sg and may be updated from time to time. 
+(2) Subject to the provisions of any written law, the State Courts may conduct hearings by video conferencing or telephone conferencing using an approved remote communication technology.
 
 ### Guidelines and Procedures
 
-(3) The State Courts may prescribe guidelines and procedures on the conduct of hearings by video conferencing or telephone conferencing. These guidelines and procedures will be published on the State Courts website at http://www.statecourts.gov.sg and may be updated from time to time.
+(3) The State Courts may prescribe guidelines and procedures on the conduct of hearings by video conferencing or telephone conferencing. These guidelines and procedures will be published on the Singapore Courts website at https://www.judiciary.gov.sg and may be updated from time to time.
 
 (4) The guidelines and procedures prescribed pursuant to paragraph 3 may include (without limitation) the following matters:
 
@@ -26,7 +26,7 @@
 
 ### Dress and etiquette
 
-(6) Where hearings are conducted by video conferencing, all court rules and practices on dress and etiquette will continue to apply. However, it will not be necessary to stand and/or bow to the Court at the start or end of the hearing or to stand when addressing the Court, when otherwise required to do so for physical attendance.
+(6) Where hearings are conducted by video conferencing or telephone conferencing, all court rules and practices on dress and etiquette will continue to apply. However, it will not be necessary to stand and/or bow to the Court at the start or end of the hearing or to stand when addressing the Court, when otherwise required to do so for physical attendance.
 
 ### Records of hearing
 
