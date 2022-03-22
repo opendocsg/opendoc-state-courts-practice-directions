@@ -453,7 +453,7 @@ The Court will send a notice to solicitors fixing the date of the first Court Di
 
 <ul type='*'>
     <li>(ea) Subject to the discretion of the Court, indications will only be given in matters where the claimant and at least one other party is represented and will only be given for claims relating to:
-        <ul>
+        <ul type='*'>
             <li>(i) damages for pain and suffering arising from personal injuries suffered by a claimant;</li>
             <li>(ii) loss of future earnings and/or loss of earning capacity; and/or</li>
 		<li> (iii) loss of dependency under section 20 of the Civil Law Act 1909.</li>
