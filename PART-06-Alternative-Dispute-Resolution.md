@@ -452,13 +452,19 @@ The Court will send a notice to solicitors fixing the date of the first Court Di
 >> (iii)  conduct a final check on the status of the proceedings between the parties so to ensure that they are ready for the Assessment of Damages hearing.
 
 > (ea) Subject to the discretion of the Court, indications will only be given in matters where the claimant and at least one other party is represented and will only be given for claims relating to:
-<p>
-     >> (i) damages for pain and suffering arising from personal injuries suffered by a claimant;
 
-     >> (ii) loss of future earnings and/or loss of earning capacity; and/or
- 
-     >> (iii) loss of dependency under section 20 of the Civil Law Act 1909.
-</p>
+<ul type='*'>
+	<li>
+    (i) damages for pain and suffering arising from personal injuries suffered by a claimant;
+  </li>
+	<li>
+    (ii) loss of future earnings and/or loss of earning capacity; and/or
+  </li>
+	<li>
+    (iii) loss of dependency under section 20 of the Civil Law Act 1909.
+  </li>
+</ul>
+
 > (f) Parties may expect, generally, 3 to 6 sessions for pre-Assessment of Damages ADR conferences.
 
 > (g) If there is no settlement or if the Court thinks fit at any point during the ADR conference, the Court may —
