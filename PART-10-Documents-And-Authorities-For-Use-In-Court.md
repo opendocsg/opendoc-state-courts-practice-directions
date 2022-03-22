@@ -186,7 +186,8 @@ In all hearings in chambers before a Judge or Registrar, counsel shall submit th
 > **Level of Court** - SGDC (Singapore District Court)  
 > **Sequential Number** - 25 (twenty-fifth written judgment rendered by the District Courts in 2003)  
 > **Paragraph Number(s)** - Paragraphs 3 and 8 of the judgment  
-> **Citation of secondary authorities in court**
+
+### Citation of secondary authorities in court
 
 (6) Counsel are advised to be more circumspect in their use of secondary authorities such as textbooks, journals, periodicals and other treatises. As far as possible, counsel should rely on primary authorities to support the proposition of law argued for; and
 
