@@ -114,9 +114,9 @@
 
 > (d) Where a deponent wishes to refer to documents already exhibited to some other deponent’s affidavit, he must exhibit them to his own affidavit pursuant to Order 41 Rule 11 of the Rules of Court (Cap. 322, R 5).
 
-### Exhibits to affidavits that are not filed electronically or hard copies of affidavits filed electronicallyy
+### Exhibits to affidavits that are not filed electronically
 
-(6) This paragraph applies to exhibits to affidavits that are not required to be filed through the Electronic Filing Service and to exhibits to hard copies of affidavits filed electronically.
+(6) This paragraph applies to exhibits to affidavits that are not required to be filed through the Electronic Filing Service.
 
 > (a) Every page of every exhibit must be fully and clearly legible.  Where necessary, magnified copies of the relevant pages should be interleaved in appropriate places.
 
