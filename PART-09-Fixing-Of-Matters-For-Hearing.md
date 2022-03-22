@@ -4,8 +4,6 @@
 
 (1) The waiting time between the filing of certain processes or other steps in the proceedings and the date for the hearing of the matter are as set out in the Schedule below.  Solicitors are directed to take note of these waiting times and must be ready to proceed at the end of the relevant period.
 
-(2) This Practice Direction shall apply to both criminal and civil proceedings.
-
 ### Schedule
 
 **Waiting time (\*) for trials or hearings in the State Courts**
@@ -16,22 +14,7 @@
 |         |   District Courts (DC)             | 2 to 4 weeks                        |
 |         |   Magistrates’ Courts (MC)         | 2 to 4 weeks                        |
 |---------|------------------------------------|-------------------------------------|
-| 2.      | **Criminal Trials:**               |                                     |
-|         |   District Arrest Cases            | 2 to 4 weeks                        |
-|         |   Magistrate’s Arrest Cases/PS/PSS | 1 to 4 weeks                        |
-|---------|------------------------------------|-------------------------------------|
-| 3.      | **Traffic Trials**                 | 1 to 2 weeks                        |
-|---------|------------------------------------|-------------------------------------|
-| 4.      | **Coroner’s Inquiries:**           |                                     |
-|         |   General category                 | 2 to 4 weeks                        |
-|         |   Medical                          | 1 to 3 months                       |
-|---------|------------------------------------|-------------------------------------|
-| 5.      | **Small Claims Tribunals:**        |                                     |
-|         |   Tourist cases                    | 1 day (On day claim lodged)         |
-|         |   Consumer claims                  | 10 days from day where claim lodged |
-|         |   Non-consumer claims              | 2 weeks from day where claim lodged |
-|---------|------------------------------------|-------------------------------------|
-| 6.      | **Civil Section**                  |                                     |
+| 2.      | **Civil Section**                  |                                     |
 |         |   Summons<sup>\#</sup>             | 4 to 6 weeks                        |
 |         |   Summary Judgment                 | 6 weeks (statutory)                 |
 |         |   Summons for Directions           | 4 to 6 weeks                        |
@@ -39,7 +22,7 @@
 |         |   Examination of Judgment Debtor   | 3 to 4 weeks                        |
 |         |   Taxation and review of taxation  | 3 to 4 weeks                        |
 |---------|------------------------------------|-------------------------------------|
-| 7.      | **Others:**                        |                                     |
+| 3.      | **Others:**                        |                                     |
 |         |   Writs of Execution               | 4 to 6 weeks                        |
 |         |   Appeal to a Judge in Chambers against the Registrar’s decision | 2 to 4 weeks |
 

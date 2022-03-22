@@ -381,9 +381,10 @@ Every affidavit which is filed in conjunction with a summons (but not those file
 (9) Users are encouraged to use the Authentic Court Order system to validate orders of court issued after 2 January 2020 by going to https://www.courtorders.gov.sg. However, certified true copies of orders of court will still be available upon application.  Applications to obtain certified true paper copies of documents should be made by way of filing a Request through the Electronic Filing Service, unless the documents concerned have not been filed through the Electronic Filing Service.
 
 (9A) Applications to obtain hard copy extracts or certified true copies of documents in civil proceedings that do not use the Electronic Filing Service may be made by submitting a Request to the Registry:
-	>(a)	The intended use of the hard copy extracts or certified true copies should be clearly stated in the Request. The relevance and necessity of the hard copy extracts or certified true copies in relation to their intended use should also be clearly described.
-	>(b)	The applicant will be informed of the outcome to his or her Request and the fees payable for the provision of the certified true copies if the Request is approved. Upon confirmation of the receipt of payment of the fees payable, the certified true copies will be released to the applicant. The Registry may require verification of the identity of the applicant against his or her identification document (including physical or digital identity card) prior to release of the certified true copies.
->(c)	The fees prescribed by Appendix B to the Rules of Court will be payable for the provision of the above service.
+
+> (a)	The intended use of the hard copy extracts or certified true copies should be clearly stated in the Request. The relevance and necessity of the hard copy extracts or certified true copies in relation to their intended use should also be clearly described.
+> (b)	The applicant will be informed of the outcome to his or her Request and the fees payable for the provision of the certified true copies if the Request is approved. Upon confirmation of the receipt of payment of the fees payable, the certified true copies will be released to the applicant. The Registry may require verification of the identity of the applicant against his or her identification document (including physical or digital identity card) prior to release of the certified true copies.
+> (c) The fees prescribed by Appendix B to the Rules of Court will be payable for the provision of the above service.
 
 (10) The intended use of the certified true copies should be clearly stated in the Request. The relevance and necessity of the certified true copies in relation to their intended use should also be clearly described.
 

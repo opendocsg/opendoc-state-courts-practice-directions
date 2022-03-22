@@ -50,9 +50,9 @@
 
 > (e) Every page of the affidavit (*including* separators and exhibits) shall be paginated consecutively, and the page number shall be placed at the top right hand corner of the page.
 
-### Affidavits that are not filed electronically or hard copies of affidavits filed electronically
+### Affidavits that are not filed electronically
 
-(2) This paragraph applies to affidavits which are not required to be filed through the Electronic Filing Service and to hard copies of affidavits filed through the Electronic Filing Service. 
+(2) This paragraph applies to affidavits which are not required to be filed through the Electronic Filing Service.
 
 > (a) **Form of affidavits generally**
 
@@ -60,7 +60,9 @@
 
 >> (ii) The paper used shall be white.
 
->> (iii) Affidavits shall be printed or typed, double-spaced, on one side or both sides of the paper.
+>> (iii) Affidavits shall be produced by printing, lithography or typewriting, and in any case not by carbon copying.  A document produced by a photographic or similar process giving a positive and permanent representation free from blemishes will be treated, to the extent that it contains a facsimile of matter produced by one of the above processes, as if it were so produced.  Photographic copies which are not clearly legible will be rejected. 
+>> 
+>> (iv) Affidavits shall be printed or typed, double-spaced, on one side or both sides of the paper.
 
 > (b) **Markings on affidavits**
 
@@ -112,9 +114,9 @@
 
 > (d) Where a deponent wishes to refer to documents already exhibited to some other deponent’s affidavit, he must exhibit them to his own affidavit pursuant to Order 41 Rule 11 of the Rules of Court (Cap. 322, R 5).
 
-### Exhibits to affidavits that are not filed electronically or hard copies of affidavits filed electronicallyy
+### Exhibits to affidavits that are not filed electronically
 
-(6) This paragraph applies to exhibits to affidavits that are not required to be filed through the Electronic Filing Service and to exhibits to hard copies of affidavits filed electronically.
+(6) This paragraph applies to exhibits to affidavits that are not required to be filed through the Electronic Filing Service.
 
 > (a) Every page of every exhibit must be fully and clearly legible.  Where necessary, magnified copies of the relevant pages should be interleaved in appropriate places.
 
@@ -160,9 +162,8 @@
 
 > Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with sub-paragraph (d) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
 
-> (g) **References to exhibits in text of affidavit**
-
-> 	Where the text of an affidavit makes reference to a documentary exhibit, the page number(s) of the affidavit where the relevant portions of the documentary exhibit can be found should be set out alongside the number of the exhibit in question.   
+> (h) **References to exhibits in text of affidavit**
+> Where the text of an affidavit makes reference to a documentary exhibit, the page number(s) of the affidavit where the relevant portions of the documentary exhibit can be found should be set out alongside the number of the exhibit in question.   
 
 ## 54A Swearing and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video link or live television link
 
