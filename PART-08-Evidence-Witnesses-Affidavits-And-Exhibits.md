@@ -163,6 +163,7 @@
 > Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with sub-paragraph (d) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
 
 > (h) **References to exhibits in text of affidavit**
+
 > Where the text of an affidavit makes reference to a documentary exhibit, the page number(s) of the affidavit where the relevant portions of the documentary exhibit can be found should be set out alongside the number of the exhibit in question.   
 
 ## 54A Swearing and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video link or live television link
