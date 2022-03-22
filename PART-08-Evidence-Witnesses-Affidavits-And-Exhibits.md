@@ -50,9 +50,9 @@
 
 > (e) Every page of the affidavit (*including* separators and exhibits) shall be paginated consecutively, and the page number shall be placed at the top right hand corner of the page.
 
-### Affidavits that are not filed electronically or hard copies of affidavits filed electronically
+### Affidavits that are not filed electronically
 
-(2) This paragraph applies to affidavits which are not required to be filed through the Electronic Filing Service and to hard copies of affidavits filed through the Electronic Filing Service. 
+(2) This paragraph applies to affidavits which are not required to be filed through the Electronic Filing Service.
 
 > (a) **Form of affidavits generally**
 
@@ -60,7 +60,9 @@
 
 >> (ii) The paper used shall be white.
 
->> (iii) Affidavits shall be printed or typed, double-spaced, on one side or both sides of the paper.
+>> (iii) Affidavits shall be produced by printing, lithography or typewriting, and in any case not by carbon copying.  A document produced by a photographic or similar process giving a positive and permanent representation free from blemishes will be treated, to the extent that it contains a facsimile of matter produced by one of the above processes, as if it were so produced.  Photographic copies which are not clearly legible will be rejected. 
+>> 
+>> (iv) Affidavits shall be printed or typed, double-spaced, on one side or both sides of the paper.
 
 > (b) **Markings on affidavits**
 
