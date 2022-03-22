@@ -144,7 +144,7 @@ Timeline for tendering documents
 
 ## 72. Hearing in Chambers
 
-In all hearings in chambers before a Judge or Registrar, counsel shall submit their bundles of documents and their own bundle of authorities.  Order 34, Rule 3A, of the Rules of Court (Cap. 322, R 5) and the requirements of Practice Direction 71(8) to (11) (Documents for use in trials in open Court)) shall, with the necessary modifications, be complied with in this regard, save that the bundles may be submitted at the hearing itself before the Judge or Registrar, as the case may be.
+In all hearings in chambers before a Judge or Registrar, counsel shall submit their bundles of documents and their own bundle of authorities.  Order 34, Rule 3A, of the Rules of Court (Cap. 322, R 5) and the requirements of Practice Direction 71(8) to (11) (Documents for use in trials in open Court) shall, with the necessary modifications, be complied with in this regard, save that the bundles may be submitted at the hearing itself before the Judge or Registrar, as the case may be.
 
 ## 73. Citation of written judgments and secondary authorities
 
