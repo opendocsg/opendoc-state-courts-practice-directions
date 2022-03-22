@@ -38,7 +38,7 @@ The various courts, offices and counters within the State Courts have different 
 
 (4) If parties are unable to file a Request on the Electronic Filing Service (eg, because the originating papers for the case have not been filed or accepted), parties may call 6721 7705 to seek directions. In doing so parties should be prepared to explain the urgency of the application or request.
 
-(5) Except as otherwise directed by the Duty Registrar, the filing of the relevant documents will be sufficient for the Duty Registrar's disposal of any application or matter. Documents which are filed using the Electronic Filing Service will be returned to the advocate and solicitor through the Electronic Filing Service to the inbox of the law firm’s computer system or through the service bureau
+(5) Except as otherwise directed by the Duty Registrar, the filing of the relevant documents will be sufficient for the Duty Registrar's disposal of any application or matter. Documents which are filed using the Electronic Filing Service will be returned to the advocate and solicitor through the Electronic Filing Service to the inbox of the law firm’s computer system or through the service bureau.
 
 
 ## 112. Attendance of solicitors in Court
@@ -81,7 +81,7 @@ The various courts, offices and counters within the State Courts have different 
 >
 > is required to attend Court (including any hearing conducted by way of live video or live television link) and wishes to absent himself from Court on medical grounds, he must tender or cause to be tendered to the Court an original medical certificate. Where a medical certificate cannot be tendered in person, it may be tendered by any electronic means which the Court may permit.
 
-(2) (2)	Any medical certificate tendered to the Court under paragraph (1) must:
+(2) Any medical certificate tendered to the Court under paragraph (1) must:
 
 > (a) state the name of the medical practitioner who issued the certificate;
 >
@@ -100,8 +100,11 @@ The various courts, offices and counters within the State Courts have different 
 > (h)	be the original document issued by the medical practitioner, if it was issued by the medical practitioner in hard copy.
 
 (3)	If any information specified in paragraph (2) is not stated in the medical certificate itself, such information must be included in a memorandum attached to the medical certificate.  
+
 (4)	All information and details in any medical certificate or memorandum must be clearly and legibly printed.
+
 (5)	If any requirement set out in paragraphs (2) to (4) is not complied with, the Court may reject the medical certificate and decline to excuse the attendance of the person to whom the medical certificate was issued. The Court may then take any action it deems appropriate.
+
 (6)	The Court may, if it deems fit, take steps to contact the medical practitioner who appears to have issued a medical certificate for the purpose of authenticating the medical certificate and, where necessary, the party tendering the medical certificate must provide such assistance to the Court as may be necessary to facilitate such authentication.
 
 ## 115. Precedence and preaudience of Senior Counsel
