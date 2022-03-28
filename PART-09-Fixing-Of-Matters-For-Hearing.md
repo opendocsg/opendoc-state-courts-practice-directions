@@ -16,7 +16,7 @@
 |---------|------------------------------------|-------------------------------------|
 | 2.      | **Civil Section**                  |                                     |
 |         |   Summons<sup>\#</sup>             | 4 to 6 weeks                        |
-|         |   Summary Judgment                 | 6 weeks (statutory)                 |
+|         |   Summary Judgment                 | 6 weeks                             |
 |         |   Summons for Directions           | 4 to 6 weeks                        |
 |         |   Assessment of Damages            | 2 to 4 weeks                        |
 |         |   Examination of Judgment Debtor   | 3 to 4 weeks                        |
