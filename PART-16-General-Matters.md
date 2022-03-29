@@ -36,7 +36,7 @@ The various courts, offices and counters within the State Courts have different 
 
 (3) Parties seeking to obtain directions and/or orders from the Duty Registrar shall do so by filing an “Other Hearing Related Request” through the Electronic Filing Service, in accordance with the Workflow for Hearings before the Duty Registrar and Duty Judicial Officer, which can be downloaded from the Singapore Courts’ website at https://www.judiciary.gov.sg.   
 
-(4) If parties are unable to file a Request on the Electronic Filing Service (eg, because the originating papers for the case have not been filed or accepted), parties may call 6721 7705 to seek directions. In doing so parties should be prepared to explain the urgency of the application or request.
+(4) If parties are unable to file a Request on the Electronic Filing Service (_eg_, because the originating papers for the case have not been filed or accepted), parties may call 6721 7705 to seek directions. In doing so parties should be prepared to explain the urgency of the application or request.
 
 (5) Except as otherwise directed by the Duty Registrar, the filing of the relevant documents will be sufficient for the Duty Registrar's disposal of any application or matter. Documents which are filed using the Electronic Filing Service will be returned to the advocate and solicitor through the Electronic Filing Service to the inbox of the law firm’s computer system or through the service bureau.
 
