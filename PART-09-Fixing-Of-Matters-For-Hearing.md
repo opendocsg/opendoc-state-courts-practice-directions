@@ -4,7 +4,9 @@
 
 (1) The waiting time between the filing of certain processes or other steps in the proceedings and the date for the hearing of the matter are as set out in the Schedule below.  Solicitors are directed to take note of these waiting times and must be ready to proceed at the end of the relevant period.
 
-### Schedule
+<p align="center">
+  <b>Schedule</b>
+</p>
 
 **Waiting time (\*) for trials or hearings in the State Courts**
 
