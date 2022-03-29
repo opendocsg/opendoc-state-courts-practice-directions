@@ -13,7 +13,7 @@ In respect of cases, claims, actions and/or appeals which are contemplated or co
 
 ## 3. Citation of Legislation in Proceedings
 
-(1) Where legislation is cited in these Practice Directions, the citation shall,unless the context otherwise requires, be read to refer to the edition of that legislation currently in force.
+(1) Where legislation is cited in these Practice Directions, the citation shall, unless the context otherwise requires, be read to refer to the edition of that legislation currently in force.
 
 (2) Notwithstanding paragraph (1) above, references in these Practice Directions to the Rules of Court and to any Order or Rule thereof, shall be read to refer to the Rules of Court (Cap 322, R 5, 2014 Rev Ed). 
 
