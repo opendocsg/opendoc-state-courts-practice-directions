@@ -1,4 +1,4 @@
-# State Courts Practice Directions 2014 (To be read with the Rules of Court (Cap. 322, R 5, 2014 Rev Ed)
+# State Courts Practice Directions 2014 (To be read with the Rules of Court (Cap. 322, R 5, 2014 Rev Ed))
 
 The complete set of the State Courts Practice Directions (PD) is available in an electronic medium for the enhanced convenience of users. The PD can be accessed for use on a personal computer, and will be updated online for a paperless and instant amendment process. 
 
