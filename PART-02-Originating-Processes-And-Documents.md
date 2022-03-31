@@ -30,7 +30,7 @@
 
 ### Identification numbers for non-parties
 
-(4) If any person (living or dead), any entity or any property is in part or in whole the subject matter of any proceedings, or is affected by any proceedings, but is not a party thereto, and the name of such person, entity or property is to appear in the title of the documents filed in the proceedings, the party filing the first document in the proceedings must state the identification number of such person, entity or property in parentheses immediately below or after the name of the same. Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number in parentheses immediately below or after the name of the person, entity or property to which it applies.  If the party filing the first document in the proceedings is unable, after reasonable enquiry, to discover the identification number of the person, entity or property, he may state immediately below or after the name of the same “(ID No. not known)”.  All documents subsequently filed by any party shall then contain these words in parentheses below or after the name of this person, entity or property.
+(4) If any person (living or dead), any entity or any property is in part or in whole the subject matter of any proceedings, or is affected by any proceedings, but is not a party thereto, and the name of such person, entity or property is to appear in the title of the documents filed in the proceedings, the party filing the first document in the proceedings must state the identification number of such person, entity or property in parentheses immediately below or after the name of the same. Thereafter, all documents subsequently filed in the proceedings by any party shall include this identification number in parentheses immediately below or after the name of the person, entity or property to which it applies.  If the party filing the first document in the proceedings is unable, after reasonable enquiry, to discover the identification number of the person, entity or property, he may state immediately below or after the name of the same “(ID Unknown)”.  All documents subsequently filed by any party shall then contain these words in parentheses below or after the name of this person, entity or property.
 
 ### Special cases
 
@@ -110,10 +110,10 @@
     </p>
   </li>
 	<li>
-    <p>(h) <strong>Business registered under the Business Registration Act</strong></p>
+    <p>(h) <strong>Business registered under the Business Names Registration Act</strong></p>
 
     <p>
-    For a body registered under the Business Registration Act (Cap. 32), the identification number shall be the UEN.
+    For a body registered under the Business Names Registration Act (Cap. 32), the identification number shall be the UEN.
     </p>
   </li>
 	<li>
@@ -151,7 +151,7 @@
 
 ### Inability to furnish identification number at the time of filing a document
 
-(8) If a party who wishes to file a document is unable at the time of filing to furnish the necessary identification numbers required by this Practice Direction, the party may indicate “(ID Not Known)” at the time of filing.  However, when the necessary identification numbers have been obtained, the party must furnish the necessary identification numbers to the Registry through the Electronic Filing Service.
+(8) If a party who wishes to file a document is unable at the time of filing to furnish the necessary identification numbers required by this Practice Direction, the party may indicate “(ID Unknown)” at the time of filing.  However, when the necessary identification numbers have been obtained, the party must furnish the necessary identification numbers to the Registry through the Electronic Filing Service.
 
 ### Meaning of document
 
@@ -376,13 +376,28 @@ Every affidavit which is filed in conjunction with a summons (but not those file
 
 (8) For the avoidance of doubt, a non-party who has obtained approval to inspect a case file may take and retain a soft copy of any document that is available for inspection. All copies of documents taken in the course of inspection should not be used for purposes other than those stated in the Request to inspect. Solicitors shall be responsible for informing their clients of this.
 
-Obtaining certified true copies of documents
+**Obtaining certified true copies of documents**
 
-(9) Applications to obtain certified true paper copies of documents should be made by way of filing a Request through the Electronic Filing Service, unless the documents concerned have not been filed through the Electronic Filing Service.
+(9) Users are encouraged to use the Authentic Court Order system to validate orders of court issued after 2 January 2020 by going to https://www.courtorders.gov.sg. However, certified true copies of orders of court will still be available upon application.  Applications to obtain certified true paper copies of documents should be made by way of filing a Request through the Electronic Filing Service, unless the documents concerned have not been filed through the Electronic Filing Service.
+
+(9A) Applications to obtain hard copy extracts or certified true copies of documents in civil proceedings that do not use the Electronic Filing Service may be made by submitting a Request to the Registry:
+
+<ul type='*'>
+	<li>
+    (a) The intended use of the hard copy extracts or certified true copies should be clearly stated in the Request. The relevance and necessity of the hard copy extracts or certified true copies in relation to their intended use should also be clearly described.
+  </li>
+	<li>
+    (b) The applicant will be informed of the outcome to his or her Request and the fees payable for the provision of the certified true copies if the Request is approved. Upon confirmation of the receipt of payment of the fees payable, the certified true copies will be released to the applicant. The Registry may require verification of the identity of the applicant against his or her identification document (including physical or digital identity card) prior to release of the certified true copies.
+  </li>
+	<li>
+    (c) The fees prescribed by Appendix B to the Rules of Court will be payable for the provision of the above service. 
+  </li>
+</ul>
 
 (10) The intended use of the certified true copies should be clearly stated in the Request. The relevance and necessity of the certified true copies in relation to their intended use should also be clearly described.
 
-(11) Once approval is received from the Court, the applicant should present a printed copy of the approved Request at the Records Section. After verifying that the Request presented has been approved, the staff of the Records Section will inform the applicant of any additional fees payable. Any additional fees payable should then be stamped on the Request at the State Courts Cashier’s Office. Upon presentation of this stamped Request, the documents will be furnished to the applicant.
+
+(11) Once approval is received from the Court, the applicant should present a printed copy of the approved Request at the Central Registry. After verifying that the Request presented has been approved, the staff of the Central Registry will inform the applicant of any additional fees payable and the manner in which payment is to be made.
 
 (12) The fees prescribed by Appendix B to the Rules of Court will be payable for the above services without prejudice to additional printing charges which may be chargeable by the Court or the service bureau for reproducing the copies in paper form.
 
@@ -398,10 +413,10 @@ Electronic cause books and registers maintained by the Registry
 
 >> (iii) details of probate proceedings, including wills and caveats filed therein;
 
-> (b) details of writs of execution, writs of distress and warrants of arrest; and
+> (b) details of writs of execution, writs of distress and orders of arrest; and
 
 > (c) any other information as may from time to time be deemed necessary.
 
 (14) Searches of this information under Order 60 Rule 3 of the Rules of Court may be conducted through the Electronic Filing Service at a service bureau or at the Records Section. The fees prescribed by Appendix B to the Rules of Court will be payable for the searches.  
 
-(15) An application may be made by any person for a licence to use any information contained in any electronic cause book or register subject to such terms and conditions as the Registrar may determine. Successful applicants will be required to enter into separate technical services agreements with the Electronic Filing Service provider. Applications under this Practice Direction must be made in writing, identifying the data fields sought and providing details of how the information will be used.’
+(15) An application may be made by any person for a licence to use any information contained in any electronic cause book or register subject to such terms and conditions as the Registrar may determine. Successful applicants will be required to enter into separate technical services agreements with the Electronic Filing Service provider. Applications under this Practice Direction must be made in writing, identifying the data fields sought and providing details of how the information will be used.

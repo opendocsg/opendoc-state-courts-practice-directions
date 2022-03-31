@@ -48,7 +48,7 @@
 
 > (b) originating summonses ordered to be continued as if the cause of action had been begun by writ.
 
-(2) Order 34, Rule 3A of the Rules of Court requires the originals of the affidavits of the evidence-in-chief of all witnesses and a bundle of documents to be filed not less than 5 working days before the trial of an action.  This Practice Direction prescribes the contents and the format of the bundle of documents.  In addition, to improve the conduct of civil proceedings and to reduce the time taken in the presentation of cases in Court, the following documents shall also be prepared by the respective solicitors of the parties:
+(2) Order 34, Rule 3A of the Rules of Court requires the originals of the affidavits of the evidence-in-chief of all witnesses and a bundle of documents to be filed not less than 5 working days before the trial of an action.  In addition, to improve the conduct of civil proceedings and to reduce the time taken in the presentation of cases in Court, the following documents shall also be prepared by the respective solicitors of the parties:
 
 > (a) a bundle of authorities; and
 
@@ -74,7 +74,7 @@
 
 > (b) Under Order 34, Rule 3A (3) of the Rules of Court it is the responsibility of solicitors for all parties to agree and prepare an agreed bundle as soon as possible.  The scope to which the agreement extends must be stated in the index sheet of the agreed bundle.
 
-> (c) The documents in the bundles should —
+> (c) Hard copies of the documents in the bundles should —
 
 >> (i) be firmly secured together with plastic ring binding or plastic spine thermal binding, and such rings or spines should be red for plaintiffs and blue for defendants with a transparent plastic cover in front and at the back;
 
@@ -94,7 +94,7 @@
 
 ### Bundle of authorities
 
-(9) The bundle of authorities to be prepared by each party should:
+(9) Hard copies of the bundle of authorities to be prepared by each party should:
 
 > (a) contain all the authorities, cases, statutes, subsidiary legislation and any other materials relied on;
 
@@ -144,7 +144,7 @@ Timeline for tendering documents
 
 ## 72. Hearing in Chambers
 
-In all hearings in chambers before a Judge or Registrar, counsel shall submit their bundles of documents and their own bundle of authorities.  Order 34, Rule 3A, of the Rules of Court (Cap. 322, R 5) and the requirements of Practice Direction 71(8) to (11) (Documents for use in trials in open Court)) shall, with the necessary modifications, be complied with in this regard, save that the bundles may be submitted at the hearing itself before the Judge or Registrar, as the case may be.
+In all hearings in chambers before a Judge or Registrar, counsel shall submit their bundles of documents and their own bundle of authorities.  Order 34, Rule 3A, of the Rules of Court (Cap. 322, R 5) and the requirements of Practice Direction 71(8) to (11) (Documents for use in trials in open Court) shall, with the necessary modifications, be complied with in this regard, save that the bundles may be submitted at the hearing itself before the Judge or Registrar, as the case may be.
 
 ## 73. Citation of written judgments and secondary authorities
 
@@ -186,7 +186,8 @@ In all hearings in chambers before a Judge or Registrar, counsel shall submit th
 > **Level of Court** - SGDC (Singapore District Court)  
 > **Sequential Number** - 25 (twenty-fifth written judgment rendered by the District Courts in 2003)  
 > **Paragraph Number(s)** - Paragraphs 3 and 8 of the judgment  
-> **Citation of secondary authorities in court**
+
+### Citation of secondary authorities in court
 
 (6) Counsel are advised to be more circumspect in their use of secondary authorities such as textbooks, journals, periodicals and other treatises. As far as possible, counsel should rely on primary authorities to support the proposition of law argued for; and
 

@@ -29,7 +29,7 @@
 
 > (c)	Neutral Evaluation.
 
-(Solicitors may refer to the State Courts’ website at http://www.statecourts.gov.sg for more information on these mechanisms.)
+(Solicitors may refer to the Singapore Courts website at https://www.judiciary.gov.sg for more information on these mechanisms.) 
 
 ### Confidentiality
 
@@ -264,7 +264,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 >
 ### Forms
 
-> (e) Soft copies of the “Liability Indication Form (NIMA and PIMA Claims)” (Form 9A), the “Application for Directions under Order 37” (Form 9C), the “Application for Directions under Order 37 of the Rules of Court for Magistrate's Court Case Fixed for Simplified AD Pursuant to Order 108” (Form 9C(A)) and form for “Recording Settlement/Entering Judgment by Consent” (Form 9I) may be downloaded at http://www.statecourts.gov.sg.
+> (e) Soft copies of the “Liability Indication Form (NIMA and PIMA Claims)” (Form 9A), the “Application for Directions under Order 37” (Form 9C), the “Application for Directions under Order 37 of the Rules of Court for Magistrate's Court Case Fixed for Simplified AD Pursuant to Order 108” (Form 9C(A)) and form for “Recording Settlement/Entering Judgment by Consent” (Form 9I) may be downloaded at https://www.judiciary.gov.sg.
 
 (3) **Benchmark rates for cost of rental and loss of use**
 
@@ -319,7 +319,31 @@ except that the parties will not be asked to attend a PTC in the event that they
 >
 ### Forms
 
-> (e) Soft copies of the “Liability Indication Form (NIMA and PIMA Claims)” (Form 9A), “Liability Indication Form (Industrial Accident Claims)” (Form 9A(A)), “Quantum Indication Form” (Form 9B), the “Application for Directions under Order 37” (Form 9C), the “Application for Directions under Order 37 of the Rules of Court for Magistrate's Court Case Fixed for Simplified AD Pursuant to Order 108” (Form 9C(A)), “Fast Track ADCDR Application Form” (Form 9G) and the form for “Recording Settlement/Entering Judgment by Consent” (Form 9I) may be downloaded at http://www.statecourts.gov.sg.
+> (e) Soft copies of the “Liability Indication Form (NIMA and PIMA Claims)” (Form 9A), “Liability Indication Form (Industrial Accident Claims)” (Form 9A(A)), “Quantum Indication Form” (Form 9B), the “Application for Directions under Order 37” (Form 9C), the “Application for Directions under Order 37 of the Rules of Court for Magistrate's Court Case Fixed for Simplified AD Pursuant to Order 108” (Form 9C(A)), “Fast Track ADCDR Application Form” (Form 9G) and the form for “Recording Settlement/Entering Judgment by Consent” (Form 9I) may be downloaded at https://www.judiciary.gov.sg.
+
+
+**39. Medical Negligence Claims**
+
+(1)	Compliance with Protocol for Medical Negligence Claims
+
+>(a)	Parties in medical negligence claims must comply with the terms of the Protocol for Medical Negligence Claims at Appendix D of these Practice Directions (“the protocol”) both in substance and spirit. A breach by one party will not exempt the other parties in the claim from following the protocol so far as they are able.
+
+>(b)	In exercising its discretion as to costs, the Court will consider compliance with the protocol. If non-compliance with the protocol has led to unnecessary costs, the Court may make the following orders:
+
+>>(i)	an order disallowing a defaulting party his costs, or some part of his costs, even if he succeeds;
+>>(ii)	an order that the defaulting party pay the other party or parties their costs of the proceedings, or part of those costs; an
+
+>>(iii)	an order that the defaulting party pay those costs on an indemnity basis.
+
+(c)	The Court will consider compliance with the protocol in exercising its discretion when deciding the amount of interest payable and may make the following orders:
+
+>>(i)	an order awarding a successful party who has complied with the protocol interest from an earlier period; and
+
+>>(ii)	an order depriving a successful party who has not complied with the protocol interest in respect of such period as may be specified.
+
+**(2)	Case management**
+
+The Court will send a notice to solicitors fixing the date of the first Court Dispute Resolution (CDR) session within 2 weeks after the memorandum of appearance is filed in a medical negligence claim, to facilitate discussion and resolution of the claim.
 
 ## 39A. Claims in Negligence (Excluding Medical Negligence, Personal Injury and Non-Injury Motor Accident (NIMA) Claims)
 
@@ -423,9 +447,19 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 >> (i)    facilitate settlement between parties;
 
->> (ii)   give indications on liability and/or quantum; and/or
+>> (ii)   give indications on quantum; and/or 
 
 >> (iii)  conduct a final check on the status of the proceedings between the parties so to ensure that they are ready for the Assessment of Damages hearing.
+
+<ul type='*'>
+    <li>(ea) Subject to the discretion of the Court, indications will only be given in matters where the claimant and at least one other party is represented and will only be given for claims relating to:
+        <ul type='*'>
+            <li>(i) damages for pain and suffering arising from personal injuries suffered by a claimant;</li>
+            <li>(ii) loss of future earnings and/or loss of earning capacity; and/or</li>
+		<li> (iii) loss of dependency under section 20 of the Civil Law Act 1909.</li>
+        </ul>
+    </li>
+</ul>
 
 > (f) Parties may expect, generally, 3 to 6 sessions for pre-Assessment of Damages ADR conferences.
 
@@ -500,7 +534,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 (1) Each party must submit to the State Courts' Court Dispute Resolution Cluster (CDRC), and serve on all other parties, a written opening statement *not less than 2 working days before the date of the first mediation session*. The opening statement shall be submitted by email to statecourts_cdr@statecourts.gov.sg and not filed via the Electronic Filing Service.  
 
-(2) The opening statement shall be in the format prescribed in Form 9J in Appendix A to these Practice Directions. A soft copy of this Form may be downloaded at <http://www.statecourts.gov.sg>.
+(2) The opening statement shall be in the format prescribed in Form 9J in Appendix A to these Practice Directions. A soft copy of this Form may be downloaded at https://www.judiciary.gov.sg.
 
 (3) The opening statement shall be concise and not exceed 10 pages.
 
@@ -518,7 +552,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 ### Procedure at Mediation
 
-(8) Information on the mediation process is set out at the State Courts’ website at <http://www.statecourts.gov.sg>. Unlike a trial, the primary aim of mediation is not to determine who is at fault in the dispute. The mediator’s role is to assist the parties in negotiating and agreeing on a possible settlement to their dispute. The parties will attend the mediation with their solicitors, and have the opportunity to communicate with each other as well as the mediator.
+(8) Information on the mediation process is set out at the Singapore Courts website at https://www.judiciary.gov.sg. Unlike a trial, the primary aim of mediation is not to determine who is at fault in the dispute. The mediator’s role is to assist the parties in negotiating and agreeing on a possible settlement to their dispute. The parties will attend the mediation with their solicitors, and have the opportunity to communicate with each other as well as the mediator.
 
 (9) The procedure for mediation is more informal than a trial. The mediator will exercise his or her discretion in structuring the mediation, with a view to guiding the parties in arriving at a joint solution.
 
@@ -528,7 +562,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 (1)  Each party must submit to the State Courts' Court Dispute Resolution Cluster (CDRC), and serve on all other parties, a written opening statement *not less than 2 working days before the date of the first conciliation session*. The opening statement shall be submitted in hard copy and not filed via the Electronic Filing Service.
 
-(2)  The opening statement shall be in the format prescribed in Form 9J (A) in Appendix A to these Practice Directions. A soft copy of this Form may be downloaded at <http://www.statecourts.gov.sg>
+(2)  The opening statement shall be in the format prescribed in Form 9J (A) in Appendix A to these Practice Directions. A soft copy of this Form may be downloaded at https://www.judiciary.gov.sg. 
 
 (3)  The opening statement shall be concise and not exceed 10 pages. It shall contain the suggested solution(s) of the dispute by the party submitting the opening statement.
 
@@ -544,7 +578,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 ### Procedure at Conciliation
 
-(8)  Information on the conciliation process is set out at the State Courts’ website at <http://www.statecourts.gov.sg>. Unlike a trial, the primary aim of conciliation is not to determine who is at fault in the dispute. The role of the judge during conciliation is to assist the parties in negotiating and agreeing on a possible settlement to their dispute, with the judge playing an active role in suggesting optimal solution for the parties. Parties who are legally represented will attend the conciliation with their solicitors, and have the opportunity to communicate with each other as well as the judge.
+(8)  Information on the conciliation process is set out at the Singapore Courts website at https://www.judiciary.gov.sg. Unlike a trial, the primary aim of conciliation is not to determine who is at fault in the dispute. The role of the judge during conciliation is to assist the parties in negotiating and agreeing on a possible settlement to their dispute, with the judge playing an active role in suggesting optimal solution for the parties. Parties who are legally represented will attend the conciliation with their solicitors, and have the opportunity to communicate with each other as well as the judge.
 
 (9) The procedure for conciliation is more informal than a trial. The judge will exercise his/her discretion in structuring the conciliation, with a view to guiding the parties in arriving at a joint solution.
 
@@ -556,7 +590,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 ### Procedure in Neutral Evaluation
 
-(3) Information on the Neutral Evaluation process is set out at the State Courts’ website at <http://www.statecourts.gov.sg>. Neutral Evaluation involves the parties and their solicitors making presentations of their claims and defences, including the available evidence, followed by the Judge of the State Courts' Court Dispute Resolution Cluster (CDRC) giving an assessment of the merits of the case. This process is also useful for helping parties to arrive at areas of agreement and to discuss methods of case management to save costs and time. The details of the structure and ambit of this process may be agreed between the parties at the preliminary conference referred to in paragraph (4).
+(3) Information on the Neutral Evaluation process is set out at the Singapore Courts website at https://www.judiciary.gov.sg. Neutral Evaluation involves the parties and their solicitors making presentations of their claims and defences, including the available evidence, followed by the Judge of the State Courts' Court Dispute Resolution Cluster (CDRC) giving an assessment of the merits of the case. This process is also useful for helping parties to arrive at areas of agreement and to discuss methods of case management to save costs and time. The details of the structure and ambit of this process may be agreed between the parties at the preliminary conference referred to in paragraph (4).
 
 ### Preliminary conference with solicitors
 
@@ -574,7 +608,7 @@ except that the parties will not be asked to attend a PTC in the event that they
 
 (6) Each party must submit to the CDRC, and serve on all other parties, a written opening statement not less than 2 working days before the date of the Neutral Evaluation. The opening statement shall be submitted by email to statecourts_cdr@statecourts.gov.sg and not filed via the Electronic Filing Service.   
 
-(7) The opening statement shall be in the format prescribed in Form 9K in Appendix A to these Practice Directions. A soft copy of this Form may be downloaded at <http://www.statecourts.gov.sg>.
+(7) The opening statement shall be in the format prescribed in Form 9K in Appendix A to these Practice Directions. A soft copy of this Form may be downloaded at https://www.judiciary.gov.sg.
 
 (8) The opening statement shall be concise and not exceed 10 pages.
 

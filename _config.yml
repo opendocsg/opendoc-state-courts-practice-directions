@@ -1,4 +1,4 @@
-title: State Courts Practice Directions
+title: State Courts Practice Directions 2014
 remote_theme: opendocsg/opendoc-theme@master
 timezone: Asia/Singapore
 repository: opendocsg/opendoc-state-courts-practice-directions
@@ -23,7 +23,7 @@ hide_toolbar:
 
 folders:
   - name: '/'
-    title: 'State Courts Practice Directions'
+    title: 'State Courts Practice Directions 2014'
     subtitle: ''
     order:
       - 'PART-01-Introduction.md'
