@@ -20,7 +20,7 @@ In exercise of the powers conferred by Order 63A, Rules 2 and 3 of the Rules of 
 
 ## 82. Appointment of agent to establish service bureau
 
-Pursuant to Order 63A, Rule 4 of the Rules of Court (Cap. 322, R 5), the Registrar hereby appoints CrimsonLogic Pte Ltd as an agent to establish a service bureau at 133 New Bridge Road #19-01/02 Chinatown Point Singapore 059413 (or such other address in Singapore as may be deemed suitable).    
+Pursuant to Order 63A, Rule 4 of the Rules of Court (Cap. 322, R 5), the Registrar hereby appoints CrimsonLogic Pte Ltd as an agent to establish a service bureau or service bureaux at such address(es) in Singapore as may be deemed suitable. 
 
 ## 83. Documents which must be filed, served, delivered etc., using the Electronic Filing Service
 
