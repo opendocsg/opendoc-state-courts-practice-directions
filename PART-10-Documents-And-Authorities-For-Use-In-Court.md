@@ -94,7 +94,7 @@
 
 > (a) contain all the authorities, cases, statutes, subsidiary legislation and any other materials relied on;
 
-> (b) be properly bound with plastic ring binding or plastic spine thermal binding in accordance with the requirements set out in paragraph (8)(c) above;
+> (b) be properly bound with plastic ring binding or plastic spine thermal binding in accordance with the requirements set out in paragraph (6)(c) above;
 
 > (c) be paginated consecutively at the top right hand corner of each page (for which purpose the pagination should commence on the first page of the first bundle and run sequentially to the last page of the last bundle); and
 
@@ -136,7 +136,7 @@ Timeline for tendering documents
 
 > (b) one party seeks to tender any of the above documents or supplements thereto except for supplements to the opening statement at the trial of the cause or matter.
 
-(12) If an adjournment is ordered for any of the reasons set out in paragraph (13) above, the party who has failed to file or serve his documents within the prescribed time or at all or who seeks to tender a document or supplement thereto except for supplements to the opening statement may be ordered by the Court to bear the costs of the adjournment.
+(12) If an adjournment is ordered for any of the reasons set out in paragraph (11) above, the party who has failed to file or serve his documents within the prescribed time or at all or who seeks to tender a document or supplement thereto except for supplements to the opening statement may be ordered by the Court to bear the costs of the adjournment.
 
 ## 72. Hearing in Chambers
 
