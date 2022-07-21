@@ -110,11 +110,9 @@ Every single page of a document *must* be paginated so that the pagination on th
 
 (5) Documents to be filed through the service bureau must comply with these Practice Directions and all applicable administrative instructions and procedures prescribed by the service bureau with the approval of the superintendent.
 
-(6) Documents filed through the service bureau shall be subject to a Manual Handling Charge prescribed by Appendix B to the Rules of Court and additional services made available by the service bureau may be subject to other administrative charges imposed by the service bureau with the approval of the superintendent.
+## 91. Filing of documents to the State Courts through another service bureau
 
-## 91. Filing of documents to the State Courts through a Supreme Court or Family Justice Courts service bureau
-
-Pursuant to Order 63A, Rule 18(4) and (6) of the Rules of Court (Cap. 322, R 5), the Registrar hereby prescribes that any service bureau established or authorised to be established by the Registrar of the Supreme Court or the Registrar of the Family Justice Courts may assist in the filing, service, delivery or conveyance of documents pertaining to proceedings in the State Courts using the Electronic Filing Service if the service bureau, or, if there are more than one, all the service bureaux, established or authorised to be established by the Registrar are unable to provide such services owing to failure of hardware or software, or both.
+Pursuant to Order 63A, Rule 18(4) and (6) of the Rules of Court (Cap. 322, R 5), the Registrar hereby prescribes that any service bureau established or authorised to be established by the Registrar of the Supreme Court or the Registrar of the Family Justice Courts may assist in the filing, service, delivery or conveyance of documents pertaining to proceedings in the State Courts using the Electronic Filing Service in all cases and circumstances where the staff of these service bureaux are able to provide such assistance pertaining to State Courts proceedings. 
 
 ## 92. [Deleted]
 
