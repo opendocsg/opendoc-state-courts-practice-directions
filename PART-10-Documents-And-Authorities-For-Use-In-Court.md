@@ -128,7 +128,7 @@
 
 > (e) Counsel will be at liberty to amend their statements at the trial but in such event will be expected to explain the reasons for the amendments.
 
-Timeline for tendering documents
+**_Timeline for tendering documents_**
 
 (11) At the trial of the cause or matter, an adjournment may be ordered if:
 
