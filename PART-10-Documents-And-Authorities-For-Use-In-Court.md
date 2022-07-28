@@ -56,19 +56,15 @@
 
 ### Documents which need not be filed electronically
 
-(3) The provisions of Practice Directions 69 (Electronic filing of documents and authorities for use in court) and 70(2) to (6) (Bundles of documents filed on setting down) do not apply to the documents that are filed in Court pursuant to the provisions of Order 34, Rule 3A(1) of the Rules of the Court. Such documents may be tendered to the Registry in hardcopy together with an electronic copy stored on a CD-ROM in Portable Document Format (PDF) and complying with the provisions of this Practice Direction.
+(3) The provisions of Practice Directions 69 (Electronic filing of documents and authorities for use in court) and 70(2) to (6) (Bundles of documents filed on setting down) do not apply to (i) the bundle of affidavits of evidence-in-chief if the individual affidavits have already been e-filed; and (ii) the bundles of documents that are filed in Court pursuant to the provisions of Order 34, Rule 3A(1)_(b)_ of the Rules of the Court. Such documents may be tendered to the Registry in hardcopy together with an electronic copy stored on a CD-ROM in Portable Document Format (PDF) and complying with the provisions of this Practice Direction.
 
-(4) Any court fees payable, pursuant to Appendix B of the Rules of Court, on filing the documents in this Practice Direction, shall be payable at the stamp office. Parties should, when making payment at the stamp office, indicate to the cashier the precise number of pages which comprise the documents and comply with the provisions of Practice Direction 122 (Stamping of documents).
+(4) The electronic copy must tally in all respects with the hardcopy, as it will be uploaded into the case file by the Registry staff and will form part of the electronic case file. The importance of not submitting unnecessarily large electronic files is emphasised. To this end, parties are to adhere as far as possible to the guidelines set out on the Electronic Filing Service website (currently at www.elitigation.sg), or its equivalent as may be set up from time to time, on the resolution to be used when scanning documents into Portable Document Format (PDF).
 
-(5) It is emphasised that payment of the court fees on such documents should be made before the documents are tendered to Court in compliance with Order 34, Rule 3A of the Rules of Court. The hardcopy of documents tendered to Court should show, on the front page, the amount of court fees paid on the document.
-
-(6) The electronic copy must tally in all respects with the hardcopy, as it will be uploaded into the case file by the Registry staff and will form part of the electronic case file. The importance of not submitting unnecessarily large electronic files is emphasised. To this end, parties are to adhere as far as possible to the guidelines set out on the Electronic Filing Service website (currently at www.elitigation.sg), or its equivalent as may be set up from time to time, on the resolution to be used when scanning documents into Portable Document Format (PDF).
-
-(7) In the event that parties elect to electronically file such documents, they must nevertheless tender a bundle of these documents to the Registry in hard copy. It shall not be necessary to pay any additional court fees in respect of the hard copy in such circumstances.
+(5) In the event that parties elect to electronically file such documents, they must nevertheless tender a bundle of these documents to the Registry in hard copy. It shall not be necessary to pay any additional court fees in respect of the hard copy in such circumstances.
 
 ### Bundle of documents
 
-(8) The bundle of documents required to be filed by Order 34, Rule 3A of the Rules of Court should be paginated consecutively throughout at the top right hand corner and may be printed on one side or both sides of each page.
+(6) The bundle of documents required to be filed by Order 34, Rule 3A of the Rules of Court should be paginated consecutively throughout at the top right hand corner and may be printed on one side or both sides of each page.
 
 > (a) An index of contents of each bundle in the manner and form set out in Form 13 in Appendix A to these Practice Directions must also be furnished.  No bundle of documents is necessary in cases where parties are not relying on any document at the trial.
 
@@ -94,23 +90,23 @@
 
 ### Bundle of authorities
 
-(9) Hard copies of the bundle of authorities to be prepared by each party should:
+(7) Hard copies of the bundle of authorities to be prepared by each party should:
 
 > (a) contain all the authorities, cases, statutes, subsidiary legislation and any other materials relied on;
 
-> (b) be properly bound with plastic ring binding or plastic spine thermal binding in accordance with the requirements set out in paragraph (8)(c) above;
+> (b) be properly bound with plastic ring binding or plastic spine thermal binding in accordance with the requirements set out in paragraph (6)(c) above;
 
 > (c) be paginated consecutively at the top right hand corner of each page (for which purpose the pagination should commence on the first page of the first bundle and run sequentially to the last page of the last bundle); and
 
 > (d) contain an index of the authorities in that bundle and be appropriately flagged for easy reference.
 
-(10) Only authorities which are relevant or necessary for the trial shall be included in the bundles.  No bundle of authorities is necessary in cases where parties are not relying on any authority at the trial.  In cases where the Court is of the opinion that costs have been wasted by the inclusion of unnecessary authorities, the Court will have no hesitation in making a special order for costs against the relevant person.
+(8) Only authorities which are relevant or necessary for the trial shall be included in the bundles.  No bundle of authorities is necessary in cases where parties are not relying on any authority at the trial.  In cases where the Court is of the opinion that costs have been wasted by the inclusion of unnecessary authorities, the Court will have no hesitation in making a special order for costs against the relevant person.
 
-(11) The bundle of authorities shall be filed and served on all relevant parties at least 3 working days before trial.
+(9) The bundle of authorities shall be filed and served on all relevant parties at least 3 working days before trial.
 
 ### Opening statements
 
-(12) A proper opening statement is of great assistance to the Court as it sets out the case in a nutshell, both as to facts and law.  It enables the Judge to appreciate what the case is about, and what he is to look out for when reading and listening to the evidence that will follow. Opening statements also help to clarify issues between the parties, so that unnecessary time is not spent on trying to prove what is not disputed or irrelevant.
+(10) A proper opening statement is of great assistance to the Court as it sets out the case in a nutshell, both as to facts and law.  It enables the Judge to appreciate what the case is about, and what he is to look out for when reading and listening to the evidence that will follow. Opening statements also help to clarify issues between the parties, so that unnecessary time is not spent on trying to prove what is not disputed or irrelevant.
 
 > (a) In the light of these objectives, opening statements will be required in all cases from all parties, except where dispensation has been granted by the trial Judge and in running down actions.  Statements submitted may be taken as read by the trial Judge.
 
@@ -132,15 +128,15 @@
 
 > (e) Counsel will be at liberty to amend their statements at the trial but in such event will be expected to explain the reasons for the amendments.
 
-Timeline for tendering documents
+**_Timeline for tendering documents_**
 
-(13) At the trial of the cause or matter, an adjournment may be ordered if:
+(11) At the trial of the cause or matter, an adjournment may be ordered if:
 
 > (a) the above documents or any of them, save for the opening statement in cases where it is not required or dispensation was granted, were not filed and served within the prescribed time or at all; or
 
 > (b) one party seeks to tender any of the above documents or supplements thereto except for supplements to the opening statement at the trial of the cause or matter.
 
-(14) If an adjournment is ordered for any of the reasons set out in paragraph (13) above, the party who has failed to file or serve his documents within the prescribed time or at all or who seeks to tender a document or supplement thereto except for supplements to the opening statement may be ordered by the Court to bear the costs of the adjournment.
+(12) If an adjournment is ordered for any of the reasons set out in paragraph (11) above, the party who has failed to file or serve his documents within the prescribed time or at all or who seeks to tender a document or supplement thereto except for supplements to the opening statement may be ordered by the Court to bear the costs of the adjournment.
 
 ## 72. Hearing in Chambers
 
