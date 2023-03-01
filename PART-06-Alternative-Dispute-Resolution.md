@@ -532,7 +532,7 @@ The Court will send a notice to solicitors fixing the date of the first Court Di
 
 ### Opening statements
 
-(1) Each party must submit to the State Courts' Court Dispute Resolution Cluster (CDRC), and serve on all other parties, a written opening statement *not less than 2 working days before the date of the first mediation session*. The opening statement shall be submitted by email to statecourts_cdr@statecourts.gov.sg and not filed via the Electronic Filing Service.  
+(1) Each party must submit to the State Courts' Court Dispute Resolution Cluster (CDRC), and serve on all other parties, a written opening statement *not less than 2 working days before the date of the first mediation session'. The opening statement shall be submitted by email to SC_CDR@judiciary.gov.sg and not filed via the Electronic Filing Service.    
 
 (2) The opening statement shall be in the format prescribed in Form 9J in Appendix A to these Practice Directions. A soft copy of this Form may be downloaded at https://www.judiciary.gov.sg.
 
@@ -560,7 +560,7 @@ The Court will send a notice to solicitors fixing the date of the first Court Di
 
 ### Opening statements
 
-(1)  Each party must submit to the State Courts' Court Dispute Resolution Cluster (CDRC), and serve on all other parties, a written opening statement *not less than 2 working days before the date of the first conciliation session*. The opening statement shall be submitted by email to SC_CDR@judiciary.gov.sg and not filed via the Electronic Filing Service.
+(1)  Each party must submit to the State Courts' Court Dispute Resolution Cluster (CDRC), and serve on all other parties, a written opening statement *not less than 2 working days before the date of the first conciliation session*. The opening statement shall be submitted by email to SC_CDR@judiciary.gov.sg and not filed via the Electronic Filing Service.  
 
 (2)  The opening statement shall be in the format prescribed in Form 9J (A) in Appendix A to these Practice Directions. A soft copy of this Form may be downloaded at https://www.judiciary.gov.sg. 
 
