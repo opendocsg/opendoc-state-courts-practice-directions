@@ -532,7 +532,7 @@ The Court will send a notice to solicitors fixing the date of the first Court Di
 
 ### Opening statements
 
-(1) Each party must submit to the State Courts' Court Dispute Resolution Cluster (CDRC), and serve on all other parties, a written opening statement *not less than 2 working days before the date of the first mediation session*. The opening statement shall be submitted by email to statecourts_cdr@statecourts.gov.sg and not filed via the Electronic Filing Service.  
+(1) Each party must submit to the State Courts' Court Dispute Resolution Cluster (CDRC), and serve on all other parties, a written opening statement *not less than 2 working days before the date of the first mediation session*. The opening statement shall be submitted by email to SC_CDR@judiciary.gov.sg and not filed via the Electronic Filing Service.    
 
 (2) The opening statement shall be in the format prescribed in Form 9J in Appendix A to these Practice Directions. A soft copy of this Form may be downloaded at https://www.judiciary.gov.sg.
 
@@ -560,7 +560,7 @@ The Court will send a notice to solicitors fixing the date of the first Court Di
 
 ### Opening statements
 
-(1)  Each party must submit to the State Courts' Court Dispute Resolution Cluster (CDRC), and serve on all other parties, a written opening statement *not less than 2 working days before the date of the first conciliation session*. The opening statement shall be submitted in hard copy and not filed via the Electronic Filing Service.
+(1)  Each party must submit to the State Courts' Court Dispute Resolution Cluster (CDRC), and serve on all other parties, a written opening statement *not less than 2 working days before the date of the first conciliation session*. The opening statement shall be submitted by email to SC_CDR@judiciary.gov.sg and not filed via the Electronic Filing Service.  
 
 (2)  The opening statement shall be in the format prescribed in Form 9J (A) in Appendix A to these Practice Directions. A soft copy of this Form may be downloaded at https://www.judiciary.gov.sg. 
 
@@ -578,13 +578,13 @@ The Court will send a notice to solicitors fixing the date of the first Court Di
 
 ### Procedure at Conciliation
 
-(8)  Information on the conciliation process is set out at the Singapore Courts website at https://www.judiciary.gov.sg. Unlike a trial, the primary aim of conciliation is not to determine who is at fault in the dispute. The role of the judge during conciliation is to assist the parties in negotiating and agreeing on a possible settlement to their dispute, with the judge playing an active role in suggesting optimal solution for the parties. Parties who are legally represented will attend the conciliation with their solicitors, and have the opportunity to communicate with each other as well as the judge.
+(8) Information on the conciliation process is set out at the Singapore Courts website at https://www.judiciary.gov.sg. Unlike a trial, the primary aim of conciliation is not to determine who is at fault in the dispute. The role of the judge during conciliation is to assist the parties in negotiating and agreeing on a possible settlement to their dispute, with the judge playing an active role in suggesting optimal solution for the parties. Parties who are legally represented will attend the conciliation with their solicitors, and have the opportunity to communicate with each other as well as the judge.
 
 (9) The procedure for conciliation is more informal than a trial. The judge will exercise his/her discretion in structuring the conciliation, with a view to guiding the parties in arriving at a joint solution.
 
 ## 42. Neutral Evaluation
 
-(1)  A brief form of Neutral Evaluation is used as a matter of practice in all motor accident and personal injury claims. The procedure for such CDR sessions is set out above in Practice Directions 37 (Non-injury Motor Accident (NIMA) Claims) and 38 (Personal Injury Claims), and Appendix B to these Practice Directions.
+(1) A brief form of Neutral Evaluation is used as a matter of practice in all motor accident and personal injury claims. The procedure for such CDR sessions is set out above in Practice Directions 37 (Non-injury Motor Accident (NIMA) Claims) and 38 (Personal Injury Claims), and Appendix B to these Practice Directions.
 
 (2) The procedure in this Practice Direction applies only to civil cases other than  motor accident cases or personal injury cases where parties have requested for Neutral Evaluation.
 
@@ -606,7 +606,7 @@ The Court will send a notice to solicitors fixing the date of the first Court Di
 
 ### Opening Statements
 
-(6) Each party must submit to the CDRC, and serve on all other parties, a written opening statement not less than 2 working days before the date of the Neutral Evaluation. The opening statement shall be submitted by email to statecourts_cdr@statecourts.gov.sg and not filed via the Electronic Filing Service.   
+(6) Each party must submit to the CDRC, and serve on all other parties, a written opening statement not less than 2 working days before the date of the Neutral Evaluation. The opening statement shall be submitted by email to SC_CDR@judiciary.gov.sg and not filed via the Electronic Filing Service.     
 
 (7) The opening statement shall be in the format prescribed in Form 9K in Appendix A to these Practice Directions. A soft copy of this Form may be downloaded at https://www.judiciary.gov.sg.
 

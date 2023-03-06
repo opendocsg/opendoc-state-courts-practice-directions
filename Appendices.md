@@ -945,7 +945,7 @@ and provide any supporting documents which have not already been furnished to th
 
 ### 12. Costs Guidelines
 
-12.1 Where parties have settled both liability and quantum before any action is commenced, a claimant who has sought legal representation to put forward his claim will have incurred costs. As a guide, where the sum settled (excluding interest if any) is less than $20,000, the pre-trial costs should be between $1,500 and $2,500, exclusive of disbursements.
+12.1 Where parties have settled both liability and quantum before any action is commenced, a claimant who has sought legal representation to put forward his claim will have incurred costs. As a guide, where the sum settled (excluding interest if any) is less than $20,000, the pre-action costs should be between $1,500 and $2,500, exclusive of disbursements.
 
 12.2 Where after commencing an action, both liability and quantum are settled by the parties or decided by the Court (as the case may be) and the sum that is —
 
