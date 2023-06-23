@@ -74,45 +74,7 @@ The execution creditor or his solicitors shall, at the Bailiff’s request, furn
 
 > Where the value of the property seized is estimated by the Bailiff to not exceed $2,000, the auction shall be carried out by an authorised auctioneer engaged by the execution creditor, and all costs and expenses incurred in connection with the auction shall be borne by the execution creditor and may be added to the judgment debt.
 
-## 99. Directions for Engaging Authorised Bailiffs under Section 15A State Courts Act (Cap. 321)
-
-(1) Judgment creditors may engage, for the purpose of executing a writ of seizure and sale for movable property or a writ of distress, any person from the Panel of Authorised Bailiffs maintained by the Registrar. They are liable to the Authorised Bailiff they engage for any costs arising from such appointment.
-
-(2) In each case, a request in the form of a Letter of Authority to Act as Authorised Bailiff, is to be made to the Registrar by either the judgment creditors or Authorised Bailiff through the Electronic Filing Service (EFS), using the template provided for in Form 15 of Appendix A to these Practice Directions.  Appointments by the Registrar will be made on a case-by-case basis.
-
-(3) The Letter of Authority to Act as Authorised Bailiff may be filed:
-
-> (a) together with the writ of seizure and sale or writ of distress; or
-
-> (b) after the issue of a writ of seizure and sale or writ of distress, but before the expiry of the said writ.
-
-(4)  Judgment creditors intending to engage an Authorised Bailiff must provide the following to the Authorised Bailiff:
-
-> (a) An indemnity from the judgment creditors to indemnify the Authorised Bailiff on terms specified by the Registrar.
-
-> (b) An undertaking from the solicitors for the judgment creditors that:
-
->> (i) as and when required by the Authorised Bailiff, sufficient funds will be provided to meet the charges and expenses that may be incurred in consequence of the request to conduct the execution; and
-
->> (ii) if such undertaking is not fulfilled within a reasonable time, the Authorised Bailiff may take such steps as may be necessary to enforce the undertaking against the solicitors concerned.
-
-> (c) A deposit of $300, or such other sum as may be fixed from time to time by the Registrar, to enable the Authorised Bailiff to discharge his duties effectively.
-
-(5) The appointment of the Authorised Bailiff will terminate upon discharge by the Registrar.
-
-(6)  Solicitors for the judgment creditors must ensure that their clients send a representative to accompany and instruct the Authorised Bailiff at the execution premises. The creditors' representative must decide whether the execution is to be proceeded with, and to point out to the Authorised Bailiff the items to be seized.
-
-(7) The Authorised Bailiff may, at his discretion and without assigning any reason thereto:
-
-> (a) take all necessary measures to preserve the movable property seized and/or to ensure the personal safety of all persons involved in the execution;
-
-> (b) where the only occupier of the execution premises at the material time is:
-
->> (i) a young child and/or elderly person incapable of understanding the execution proceedings, postpone the seizure or sale; or
-
->> (ii) a woman (e.g. housewife or domestic maid), insist that the judgment creditors provide a female representative to be at the execution premises before proceeding with the execution; and
-
-> (c) take all necessary measures to ensure that all execution costs and expenses incurred be paid first out of any proceeds of sale.
+## 99. [DELETED]
 
 ## 100. Examination of Judgment Debtor
 
