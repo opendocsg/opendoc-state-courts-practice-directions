@@ -393,7 +393,11 @@ Applications for Digital Audio Recording and Transcription Service
 
 ## 62. Certification of transcripts
 
-The transcript(s) of any record of hearing or notes of hearing will be certified by the Judicial Officer having conduct of the proceedings, or in the absence of the Judicial Officer, any other Judicial Officer as directed by the Registrar.
+Pursuant to Order 38A, Rule 2 of the Rules of Court, the Registrar hereby directs that the transcript(s) of any record of hearing or notes of hearing may be certified by:
+
+> (a)	the Judicial Officer having conduct of the proceedings, or in the absence of the Judicial Officer, any other Judicial Officer as directed by the Registrar; or
+>
+> (b)	with the approval of the Court, the service provider.
 
 ## 63. Application for court records for civil matters
 
